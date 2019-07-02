@@ -1,0 +1,43 @@
+---
+ID: 298
+post_title: 'Jesus said &#8220;My word&#8221; to Jews'
+author: Praison
+post_excerpt: ""
+layout: post
+permalink: >
+  https://biblerevelation.org/2014/04/jesus-said-my-word-to-jews/
+published: true
+post_date: 2014-04-02 10:44:51
+---
+<div>
+<h3>John 8:31</h3>
+King James Version (KJV)
+
+</div>
+<div>
+<blockquote>31 Then said Jesus to those Jews which believed on him, If ye continue in <span style="text-decoration: underline; color: #9f47b7;"><strong>my word</strong></span>, then are ye my disciples indeed;</blockquote>
+<ul>
+	<li>Jews study bible from when they were small age</li>
+	<li>Jews already know 10 Commandments</li>
+	<li>From the first 5 Books of bible, there are 613 commandments ( http://en.wikipedia.org/wiki/613_commandments ). Jews study all from their young age</li>
+</ul>
+Jesus said "<span style="color: #9f47b7;"><strong>My Word</strong></span>" to Jews
+<ul>
+	<li>Very Clear that , "My word" is not 10 Commandments / Law</li>
+</ul>
+<span style="line-height: 1.5;">"My Word" is "The Truth". (i.e. 10 Commandments / Law is not the Truth )</span>
+<h3>Commandments say</h3>
+<ul>
+	<li>Do Good --&gt; Get Good</li>
+	<li>Do Bad --&gt; Get Bad</li>
+	<li>Do Good --&gt; God bless you</li>
+	<li>Do Bad --&gt; Curses come over you</li>
+</ul>
+<h2>Very clear that, Jesus is not mentioning these commandments as "My Word"</h2>
+"My Word" --&gt; "The Truth" --&gt; Set's us free &amp; Makes us His disciples
+
+Commandments / Law --&gt; <strong>DOESN'T</strong> sets you free &amp; <strong>DOESN'T</strong> makes you His Disciple.
+
+<a title="10 commandments is the ministry of death (Bible)" href="http://biblerevelation.org/2014/03/19/10-commandments-ministry-death-bible/">Preaching 10 Commandments is called doing Ministry of death</a>
+
+</div>
