@@ -4,8 +4,7 @@ post_title: Getting Inwardly Clean
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/getting-inwardly-clean/
+permalink: /2015/06/getting-inwardly-clean/
 published: true
 post_date: 2015-06-17 23:14:20
 ---

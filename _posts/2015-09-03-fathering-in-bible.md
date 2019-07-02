@@ -4,8 +4,7 @@ post_title: Fathering in Bible
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/fathering-in-bible/
+permalink: /2015/09/fathering-in-bible/
 published: true
 post_date: 2015-09-03 14:24:27
 ---

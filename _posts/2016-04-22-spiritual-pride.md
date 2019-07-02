@@ -4,8 +4,7 @@ post_title: Spiritual Pride
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/spiritual-pride/
+permalink: /2016/04/spiritual-pride/
 published: true
 post_date: 2016-04-22 18:18:47
 ---

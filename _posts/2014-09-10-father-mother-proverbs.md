@@ -4,8 +4,7 @@ post_title: Father and Mother in Proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/father-mother-proverbs/
+permalink: /2014/09/father-mother-proverbs/
 published: true
 post_date: 2014-09-10 15:35:25
 ---

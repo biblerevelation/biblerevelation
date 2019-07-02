@@ -4,8 +4,7 @@ post_title: How the Lord speaks with us?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/05/how-the-lord-speaks-with-us/
+permalink: /2014/05/how-the-lord-speaks-with-us/
 published: true
 post_date: 2014-05-13 12:23:01
 ---

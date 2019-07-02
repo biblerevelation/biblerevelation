@@ -4,7 +4,7 @@ post_title: Get Involved
 author: Praison
 post_excerpt: ""
 layout: page
-permalink: https://biblerevelation.org/involve/
+permalink: /involve/
 published: true
 post_date: 2015-11-05 11:40:05
 ---

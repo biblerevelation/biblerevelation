@@ -4,8 +4,7 @@ post_title: Pauls Resurrection Life
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/pauls-resurrection-life/
+permalink: /2015/11/pauls-resurrection-life/
 published: true
 post_date: 2015-11-13 02:11:49
 ---

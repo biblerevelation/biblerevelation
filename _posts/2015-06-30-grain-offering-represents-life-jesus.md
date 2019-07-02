@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/grain-offering-represents-life-jesus/
+  /2015/06/grain-offering-represents-life-jesus/
 published: true
 post_date: 2015-06-30 20:25:57
 ---

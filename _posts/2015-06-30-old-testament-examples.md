@@ -4,8 +4,7 @@ post_title: Old Testament are examples
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/old-testament-examples/
+permalink: /2015/06/old-testament-examples/
 published: true
 post_date: 2015-06-30 22:11:09
 ---

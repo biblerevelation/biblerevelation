@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/12/undeserved-unmerited-favour-of-god/
+  /2014/12/undeserved-unmerited-favour-of-god/
 published: true
 post_date: 2014-12-09 14:28:24
 ---

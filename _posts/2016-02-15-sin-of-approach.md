@@ -4,8 +4,7 @@ post_title: Sin of Approach
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/02/sin-of-approach/
+permalink: /2016/02/sin-of-approach/
 published: true
 post_date: 2016-02-15 18:14:21
 ---

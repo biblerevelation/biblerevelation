@@ -4,8 +4,7 @@ post_title: Permanent Favour of God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/permanent-favour-of-god/
+permalink: /2015/01/permanent-favour-of-god/
 published: true
 post_date: 2015-01-23 22:33:19
 ---

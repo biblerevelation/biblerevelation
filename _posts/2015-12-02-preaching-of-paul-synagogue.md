@@ -4,8 +4,7 @@ post_title: Preaching of Paul in the Synagogue
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/preaching-of-paul-synagogue/
+permalink: /2015/12/preaching-of-paul-synagogue/
 published: true
 post_date: 2015-12-02 18:01:54
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/07/no-fear-nor-lacking-nor-dismayed/
+  /2014/07/no-fear-nor-lacking-nor-dismayed/
 published: true
 post_date: 2014-07-18 12:30:19
 ---

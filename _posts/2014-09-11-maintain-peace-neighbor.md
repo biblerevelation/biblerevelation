@@ -4,8 +4,7 @@ post_title: How to maintain peace with neighbor?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/maintain-peace-neighbor/
+permalink: /2014/09/maintain-peace-neighbor/
 published: true
 post_date: 2014-09-11 09:31:34
 ---

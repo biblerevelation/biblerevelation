@@ -4,8 +4,7 @@ post_title: Manifold grace of God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/manifold-grace-of-god/
+permalink: /2015/11/manifold-grace-of-god/
 published: true
 post_date: 2015-11-26 18:25:08
 ---

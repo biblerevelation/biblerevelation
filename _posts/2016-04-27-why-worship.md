@@ -4,8 +4,7 @@ post_title: Why Worship?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/why-worship/
+permalink: /2016/04/why-worship/
 published: true
 post_date: 2016-04-27 06:51:59
 ---

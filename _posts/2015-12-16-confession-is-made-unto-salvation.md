@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/confession-is-made-unto-salvation/
+  /2015/12/confession-is-made-unto-salvation/
 published: true
 post_date: 2015-12-16 18:01:12
 ---

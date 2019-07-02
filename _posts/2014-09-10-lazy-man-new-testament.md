@@ -4,8 +4,7 @@ post_title: Lazy man in New Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/lazy-man-new-testament/
+permalink: /2014/09/lazy-man-new-testament/
 published: true
 post_date: 2014-09-10 14:21:45
 ---

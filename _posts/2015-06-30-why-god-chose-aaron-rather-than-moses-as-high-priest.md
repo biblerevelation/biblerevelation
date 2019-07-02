@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/why-god-chose-aaron-rather-than-moses-as-high-priest/
+  /2015/06/why-god-chose-aaron-rather-than-moses-as-high-priest/
 published: true
 post_date: 2015-06-30 19:53:28
 ---

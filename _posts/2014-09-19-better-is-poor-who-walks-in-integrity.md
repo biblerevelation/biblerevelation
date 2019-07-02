@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/better-is-poor-who-walks-in-integrity/
+  /2014/09/better-is-poor-who-walks-in-integrity/
 published: true
 post_date: 2014-09-19 09:57:58
 ---

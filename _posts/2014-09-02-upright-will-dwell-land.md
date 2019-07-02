@@ -4,8 +4,7 @@ post_title: Upright will dwell in the land
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/upright-will-dwell-land/
+permalink: /2014/09/upright-will-dwell-land/
 published: true
 post_date: 2014-09-02 13:06:55
 ---

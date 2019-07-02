@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/hot-tempered-person-must-pay-penalty/
+  /2014/09/hot-tempered-person-must-pay-penalty/
 published: true
 post_date: 2014-09-19 10:47:25
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/old-and-new-covenant-forgiveness/
+  /2016/01/old-and-new-covenant-forgiveness/
 published: true
 post_date: 2016-01-20 18:29:42
 ---

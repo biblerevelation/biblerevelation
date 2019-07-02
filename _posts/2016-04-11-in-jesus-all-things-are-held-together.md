@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/04/in-jesus-all-things-are-held-together/
+  /2016/04/in-jesus-all-things-are-held-together/
 published: true
 post_date: 2016-04-11 20:25:43
 ---

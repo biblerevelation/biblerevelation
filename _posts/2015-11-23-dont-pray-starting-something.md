@@ -4,8 +4,7 @@ post_title: 'Don&#8217;t Pray as if you are starting something'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/dont-pray-starting-something/
+permalink: /2015/11/dont-pray-starting-something/
 published: true
 post_date: 2015-11-23 22:57:21
 ---

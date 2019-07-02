@@ -4,8 +4,7 @@ post_title: First Priority to See Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/first-priority-to-see-jesus/
+permalink: /2015/12/first-priority-to-see-jesus/
 published: true
 post_date: 2015-12-12 11:08:10
 ---

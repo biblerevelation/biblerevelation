@@ -4,8 +4,7 @@ post_title: Fool does not open his mouth in the gate
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/fool-dont-open-mouth-in-gate/
+permalink: /2014/09/fool-dont-open-mouth-in-gate/
 published: true
 post_date: 2014-09-24 09:07:20
 ---

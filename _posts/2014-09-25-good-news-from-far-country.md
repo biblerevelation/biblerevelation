@@ -4,8 +4,7 @@ post_title: Good news from a far country is like
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/good-news-from-far-country/
+permalink: /2014/09/good-news-from-far-country/
 published: true
 post_date: 2014-09-25 09:29:58
 ---

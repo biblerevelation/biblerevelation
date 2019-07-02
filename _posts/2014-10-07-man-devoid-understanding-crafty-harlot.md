@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/man-devoid-understanding-crafty-harlot/
+  /2014/10/man-devoid-understanding-crafty-harlot/
 published: true
 post_date: 2014-10-07 11:17:33
 ---

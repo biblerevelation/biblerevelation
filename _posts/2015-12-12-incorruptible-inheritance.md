@@ -4,8 +4,7 @@ post_title: Incorruptible Inheritance
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/incorruptible-inheritance/
+permalink: /2015/12/incorruptible-inheritance/
 published: true
 post_date: 2015-12-12 09:40:12
 ---

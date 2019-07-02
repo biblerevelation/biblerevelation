@@ -4,8 +4,7 @@ post_title: The upright seek to help the blameless
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/upright-seek-to-help-blameless/
+permalink: /2014/09/upright-seek-to-help-blameless/
 published: true
 post_date: 2014-09-29 11:08:41
 ---

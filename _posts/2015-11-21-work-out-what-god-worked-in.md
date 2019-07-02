@@ -4,8 +4,7 @@ post_title: Work out what God worked in
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/work-out-what-god-worked-in/
+permalink: /2015/11/work-out-what-god-worked-in/
 published: true
 post_date: 2015-11-21 07:42:05
 ---

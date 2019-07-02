@@ -4,8 +4,7 @@ post_title: God choosing the least
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/god-choosing-the-least/
+permalink: /2015/02/god-choosing-the-least/
 published: true
 post_date: 2015-02-26 23:58:49
 ---

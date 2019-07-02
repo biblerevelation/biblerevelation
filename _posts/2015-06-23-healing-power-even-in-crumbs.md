@@ -4,8 +4,7 @@ post_title: Healing power even in crumbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/healing-power-even-in-crumbs/
+permalink: /2015/06/healing-power-even-in-crumbs/
 published: true
 post_date: 2015-06-23 22:30:16
 ---

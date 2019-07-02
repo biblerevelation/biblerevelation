@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/the-prayer-of-a-righteous-person-is-powerful/
+  /2016/01/the-prayer-of-a-righteous-person-is-powerful/
 published: true
 post_date: 2016-01-05 18:56:10
 ---

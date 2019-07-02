@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/send-message-hand-fool/
+permalink: /2014/09/send-message-hand-fool/
 published: true
 post_date: 2014-09-26 10:36:08
 ---

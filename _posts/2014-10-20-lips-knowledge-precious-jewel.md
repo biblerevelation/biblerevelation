@@ -4,8 +4,7 @@ post_title: Lips of knowledge are a precious jewel
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/lips-knowledge-precious-jewel/
+permalink: /2014/10/lips-knowledge-precious-jewel/
 published: true
 post_date: 2014-10-20 16:08:08
 ---

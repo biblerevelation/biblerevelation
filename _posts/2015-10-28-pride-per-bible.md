@@ -4,8 +4,7 @@ post_title: What is Pride as per Bible?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/pride-per-bible/
+permalink: /2015/10/pride-per-bible/
 published: true
 post_date: 2015-10-28 14:11:45
 ---

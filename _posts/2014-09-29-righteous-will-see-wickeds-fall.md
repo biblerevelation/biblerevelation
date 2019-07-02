@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/righteous-will-see-wickeds-fall/
+  /2014/09/righteous-will-see-wickeds-fall/
 published: true
 post_date: 2014-09-29 11:10:53
 ---

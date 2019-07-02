@@ -4,8 +4,7 @@ post_title: Blessings on the home of the just
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/blessings-home-of-just/
+permalink: /2014/09/blessings-home-of-just/
 published: true
 post_date: 2014-09-03 10:02:44
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/what-is-that-to-you-you-follow-me/
+  /2016/01/what-is-that-to-you-you-follow-me/
 published: true
 post_date: 2016-01-06 18:00:31
 ---

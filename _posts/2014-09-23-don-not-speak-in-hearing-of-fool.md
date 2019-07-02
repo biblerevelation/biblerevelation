@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/don-not-speak-in-hearing-of-fool/
+  /2014/09/don-not-speak-in-hearing-of-fool/
 published: true
 post_date: 2014-09-23 09:37:08
 ---

@@ -4,8 +4,7 @@ post_title: The Firstborn from the dead
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/the-firstborn-from-the-dead/
+permalink: /2014/03/the-firstborn-from-the-dead/
 published: true
 post_date: 2014-03-30 10:52:56
 ---

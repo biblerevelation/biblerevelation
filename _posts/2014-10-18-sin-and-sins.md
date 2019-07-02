@@ -4,8 +4,7 @@ post_title: sin and sins
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/sin-and-sins/
+permalink: /2014/10/sin-and-sins/
 published: true
 post_date: 2014-10-18 21:01:51
 ---

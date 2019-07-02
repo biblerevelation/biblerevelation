@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/only-repentance-in-new-testament/
+  /2015/12/only-repentance-in-new-testament/
 published: true
 post_date: 2015-12-17 18:36:56
 ---

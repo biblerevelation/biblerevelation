@@ -4,8 +4,7 @@ post_title: Perfect love of the Father
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/02/perfect-love-of-the-father/
+permalink: /2016/02/perfect-love-of-the-father/
 published: true
 post_date: 2016-02-18 18:42:37
 ---

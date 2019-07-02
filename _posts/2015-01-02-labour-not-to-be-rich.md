@@ -4,8 +4,7 @@ post_title: Labour not to be rich
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/labour-not-to-be-rich/
+permalink: /2015/01/labour-not-to-be-rich/
 published: true
 post_date: 2015-01-02 22:21:08
 ---

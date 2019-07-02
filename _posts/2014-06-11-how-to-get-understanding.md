@@ -4,8 +4,7 @@ post_title: How to get Understanding?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/how-to-get-understanding/
+permalink: /2014/06/how-to-get-understanding/
 published: true
 post_date: 2014-06-11 16:41:08
 ---

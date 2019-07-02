@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/kings-favor-like-cloud-latter-rain/
+  /2014/09/kings-favor-like-cloud-latter-rain/
 published: true
 post_date: 2014-09-16 22:20:25
 ---

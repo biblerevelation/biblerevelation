@@ -4,8 +4,7 @@ post_title: Correction of fools is folly
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/correction-fools-is-folly/
+permalink: /2014/10/correction-fools-is-folly/
 published: true
 post_date: 2014-10-16 11:07:00
 ---

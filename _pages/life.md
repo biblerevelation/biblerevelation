@@ -4,7 +4,7 @@ post_title: Life
 author: Praison
 post_excerpt: ""
 layout: page
-permalink: https://biblerevelation.org/life/
+permalink: /life/
 published: true
 post_date: 2014-05-27 13:35:29
 ---

@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/love-enemy-lord-will-reward/
+permalink: /2014/09/love-enemy-lord-will-reward/
 published: true
 post_date: 2014-09-25 09:27:54
 ---

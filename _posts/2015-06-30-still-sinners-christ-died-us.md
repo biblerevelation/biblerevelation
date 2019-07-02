@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/still-sinners-christ-died-us/
+permalink: /2015/06/still-sinners-christ-died-us/
 published: true
 post_date: 2015-06-30 22:43:11
 ---

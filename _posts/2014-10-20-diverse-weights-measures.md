@@ -4,8 +4,7 @@ post_title: Diverse weights and measures
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/diverse-weights-measures/
+permalink: /2014/10/diverse-weights-measures/
 published: true
 post_date: 2014-10-20 16:10:42
 ---

@@ -4,7 +4,7 @@ post_title: Categories
 author: Praison
 post_excerpt: ""
 layout: page
-permalink: https://biblerevelation.org/categories/
+permalink: /categories/
 published: true
 post_date: 2015-09-18 21:21:25
 ---

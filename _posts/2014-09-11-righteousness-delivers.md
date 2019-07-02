@@ -4,8 +4,7 @@ post_title: Righteousness Delivers
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/righteousness-delivers/
+permalink: /2014/09/righteousness-delivers/
 published: true
 post_date: 2014-09-11 09:12:22
 ---

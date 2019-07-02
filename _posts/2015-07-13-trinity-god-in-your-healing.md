@@ -4,8 +4,7 @@ post_title: Trinity God in your healing
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/trinity-god-in-your-healing/
+permalink: /2015/07/trinity-god-in-your-healing/
 published: true
 post_date: 2015-07-13 13:08:40
 ---

@@ -4,8 +4,7 @@ post_title: Israelites bosting in Hebrew
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/06/israelites-bosting-in-hebrew/
+permalink: /2016/06/israelites-bosting-in-hebrew/
 published: true
 post_date: 2016-06-03 00:15:32
 ---

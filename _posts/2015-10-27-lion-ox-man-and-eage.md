@@ -4,8 +4,7 @@ post_title: Lion, Ox, Man and Eage
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/lion-ox-man-and-eage/
+permalink: /2015/10/lion-ox-man-and-eage/
 published: true
 post_date: 2015-10-27 14:39:14
 ---

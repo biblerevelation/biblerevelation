@@ -4,8 +4,7 @@ post_title: The Birth of Christ
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/the-birth-of-christ/
+permalink: /2015/12/the-birth-of-christ/
 published: true
 post_date: 2015-12-23 18:06:00
 ---

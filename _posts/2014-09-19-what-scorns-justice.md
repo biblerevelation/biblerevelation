@@ -4,8 +4,7 @@ post_title: What scorns justice?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/what-scorns-justice/
+permalink: /2014/09/what-scorns-justice/
 published: true
 post_date: 2014-09-19 10:51:02
 ---

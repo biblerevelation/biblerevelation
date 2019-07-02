@@ -4,8 +4,7 @@ post_title: Repentance of the Disciples
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/repentance-of-the-disciples/
+permalink: /2015/10/repentance-of-the-disciples/
 published: true
 post_date: 2015-10-15 13:07:28
 ---

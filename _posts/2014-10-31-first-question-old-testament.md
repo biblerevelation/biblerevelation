@@ -4,8 +4,7 @@ post_title: First Question in the Old Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/first-question-old-testament/
+permalink: /2014/10/first-question-old-testament/
 published: true
 post_date: 2014-10-31 13:42:32
 ---

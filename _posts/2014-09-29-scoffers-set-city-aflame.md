@@ -4,8 +4,7 @@ post_title: Scoffers set a city aflame
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/scoffers-set-city-aflame/
+permalink: /2014/09/scoffers-set-city-aflame/
 published: true
 post_date: 2014-09-29 11:07:06
 ---

@@ -4,8 +4,7 @@ post_title: High Priest of our confession of hope
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/high-priest-confession-hope/
+permalink: /2015/06/high-priest-confession-hope/
 published: true
 post_date: 2015-06-30 22:48:13
 ---

@@ -4,8 +4,7 @@ post_title: 'He is My Beloved, Hear &#8220;HIM&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/he-is-my-beloved-hear-him/
+permalink: /2014/11/he-is-my-beloved-hear-him/
 published: true
 post_date: 2014-11-05 15:10:30
 ---

@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/treasures-lying-tongue/
+permalink: /2014/10/treasures-lying-tongue/
 published: true
 post_date: 2014-10-21 16:21:32
 ---

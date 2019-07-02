@@ -4,8 +4,7 @@ post_title: What about giving honor to a fool?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/giving-honor-fool/
+permalink: /2014/09/giving-honor-fool/
 published: true
 post_date: 2014-09-26 10:36:51
 ---

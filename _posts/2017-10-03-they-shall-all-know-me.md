@@ -4,8 +4,7 @@ post_title: They shall all know me
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2017/10/they-shall-all-know-me/
+permalink: /2017/10/they-shall-all-know-me/
 published: true
 post_date: 2017-10-03 06:13:57
 ---

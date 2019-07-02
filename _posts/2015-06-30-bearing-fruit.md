@@ -4,8 +4,7 @@ post_title: Bearing Fruit
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/bearing-fruit/
+permalink: /2015/06/bearing-fruit/
 published: true
 post_date: 2015-06-30 22:35:50
 ---

@@ -4,8 +4,7 @@ post_title: Gospel of the happy God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/gospel-of-the-happy-god/
+permalink: /2015/02/gospel-of-the-happy-god/
 published: true
 post_date: 2015-02-10 00:38:50
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/why-others-cant-see-what-we-see/
+  /2016/01/why-others-cant-see-what-we-see/
 published: true
 post_date: 2016-01-25 18:05:53
 ---

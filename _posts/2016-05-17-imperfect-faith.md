@@ -4,8 +4,7 @@ post_title: Imperfect Faith
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/05/imperfect-faith/
+permalink: /2016/05/imperfect-faith/
 published: true
 post_date: 2016-05-17 18:56:39
 ---

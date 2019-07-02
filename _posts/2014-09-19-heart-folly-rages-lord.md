@@ -4,8 +4,7 @@ post_title: Heart of folly rages against the Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/heart-folly-rages-lord/
+permalink: /2014/09/heart-folly-rages-lord/
 published: true
 post_date: 2014-09-19 09:59:12
 ---

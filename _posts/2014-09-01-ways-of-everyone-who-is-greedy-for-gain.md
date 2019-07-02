@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/ways-of-everyone-who-is-greedy-for-gain/
+  /2014/09/ways-of-everyone-who-is-greedy-for-gain/
 published: true
 post_date: 2014-09-01 14:45:32
 ---

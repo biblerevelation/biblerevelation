@@ -4,8 +4,7 @@ post_title: Eat honey because it is good
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/eat-honey-good/
+permalink: /2014/09/eat-honey-good/
 published: true
 post_date: 2014-09-24 09:09:25
 ---

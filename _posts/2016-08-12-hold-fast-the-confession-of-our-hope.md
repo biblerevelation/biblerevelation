@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/08/hold-fast-the-confession-of-our-hope/
+  /2016/08/hold-fast-the-confession-of-our-hope/
 published: true
 post_date: 2016-08-12 18:53:57
 ---

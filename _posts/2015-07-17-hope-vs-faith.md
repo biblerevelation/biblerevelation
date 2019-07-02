@@ -4,8 +4,7 @@ post_title: Hope Vs Faith
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/hope-vs-faith/
+permalink: /2015/07/hope-vs-faith/
 published: true
 post_date: 2015-07-17 13:43:59
 ---

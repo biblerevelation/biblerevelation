@@ -4,8 +4,7 @@ post_title: We lack nothing
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/we-lack-nothing/
+permalink: /2015/07/we-lack-nothing/
 published: true
 post_date: 2015-07-10 14:11:09
 ---

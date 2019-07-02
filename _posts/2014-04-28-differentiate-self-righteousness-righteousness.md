@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/differentiate-self-righteousness-righteousness/
+  /2014/04/differentiate-self-righteousness-righteousness/
 published: true
 post_date: 2014-04-28 15:31:54
 ---

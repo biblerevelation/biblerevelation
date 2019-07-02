@@ -4,8 +4,7 @@ post_title: What makes a man slow to anger?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/makes-man-slow-anger/
+permalink: /2014/09/makes-man-slow-anger/
 published: true
 post_date: 2014-09-19 10:42:29
 ---

@@ -4,8 +4,7 @@ post_title: Repentance in New Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/repentance-in-new-testament/
+permalink: /2015/12/repentance-in-new-testament/
 published: true
 post_date: 2015-12-17 18:38:57
 ---

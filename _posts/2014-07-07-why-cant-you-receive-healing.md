@@ -4,8 +4,7 @@ post_title: 'Why can&#8217;t you receive healing?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/07/why-cant-you-receive-healing/
+permalink: /2014/07/why-cant-you-receive-healing/
 published: true
 post_date: 2014-07-07 10:14:00
 ---

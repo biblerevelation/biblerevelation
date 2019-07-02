@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/revelation-people-cast-restraint/
+  /2014/09/revelation-people-cast-restraint/
 published: true
 post_date: 2014-09-29 11:11:16
 ---

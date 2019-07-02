@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/god-demonstrates-love-toward-us/
+  /2015/06/god-demonstrates-love-toward-us/
 published: true
 post_date: 2015-06-30 22:44:42
 ---

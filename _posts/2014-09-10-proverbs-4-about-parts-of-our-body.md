@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/proverbs-4-about-parts-of-our-body/
+  /2014/09/proverbs-4-about-parts-of-our-body/
 published: true
 post_date: 2014-09-10 15:36:58
 ---

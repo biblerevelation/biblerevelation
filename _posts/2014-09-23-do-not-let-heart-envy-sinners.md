@@ -4,8 +4,7 @@ post_title: Do not let your heart envy sinners
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/do-not-let-heart-envy-sinners/
+permalink: /2014/09/do-not-let-heart-envy-sinners/
 published: true
 post_date: 2014-09-23 08:52:19
 ---

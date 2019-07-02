@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2017/09/better-is-one-day-in-his-courts/
+  /2017/09/better-is-one-day-in-his-courts/
 published: true
 post_date: 2017-09-20 21:17:49
 ---

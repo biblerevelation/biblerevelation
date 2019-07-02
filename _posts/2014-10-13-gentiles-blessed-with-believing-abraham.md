@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/gentiles-blessed-with-believing-abraham/
+  /2014/10/gentiles-blessed-with-believing-abraham/
 published: true
 post_date: 2014-10-13 14:36:43
 ---

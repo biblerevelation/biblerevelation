@@ -4,8 +4,7 @@ post_title: Action of fooly
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/action-of-fooly/
+permalink: /2014/09/action-of-fooly/
 published: true
 post_date: 2014-09-09 09:32:08
 ---

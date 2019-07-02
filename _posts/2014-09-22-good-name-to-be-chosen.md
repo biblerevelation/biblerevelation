@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/good-name-to-be-chosen/
+permalink: /2014/09/good-name-to-be-chosen/
 published: true
 post_date: 2014-09-22 09:00:48
 ---

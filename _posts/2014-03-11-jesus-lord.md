@@ -4,8 +4,7 @@ post_title: Jesus our Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/jesus-lord/
+permalink: /2014/03/jesus-lord/
 published: true
 post_date: 2014-03-11 13:21:03
 ---

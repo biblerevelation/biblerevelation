@@ -4,8 +4,7 @@ post_title: 'Watching Wisdom &#8220;Daily&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/watching-wisdom-daily/
+permalink: /2014/10/watching-wisdom-daily/
 published: true
 post_date: 2014-10-08 11:31:52
 ---

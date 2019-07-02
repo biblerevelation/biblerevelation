@@ -4,8 +4,7 @@ post_title: Look unto Jesus and become Radiant
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/05/look-unto-jesus-become-radiant/
+permalink: /2015/05/look-unto-jesus-become-radiant/
 published: true
 post_date: 2015-05-15 13:46:13
 ---

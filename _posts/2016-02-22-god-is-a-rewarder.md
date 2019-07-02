@@ -4,8 +4,7 @@ post_title: God is a Rewarder
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/02/god-is-a-rewarder/
+permalink: /2016/02/god-is-a-rewarder/
 published: true
 post_date: 2016-02-22 18:27:25
 ---

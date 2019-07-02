@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/wisdom-better-then-gold-silver-rubies/
+  /2014/09/wisdom-better-then-gold-silver-rubies/
 published: true
 post_date: 2014-09-08 16:18:57
 ---

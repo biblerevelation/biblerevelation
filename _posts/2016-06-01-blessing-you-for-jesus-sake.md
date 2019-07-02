@@ -4,8 +4,7 @@ post_title: Blessing you for Jesus sake
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/06/blessing-you-for-jesus-sake/
+permalink: /2016/06/blessing-you-for-jesus-sake/
 published: true
 post_date: 2016-06-01 22:53:03
 ---

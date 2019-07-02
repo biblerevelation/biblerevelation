@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/01/righteousness-of-god-our-priority/
+  /2015/01/righteousness-of-god-our-priority/
 published: true
 post_date: 2015-01-28 14:08:34
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/prudent-man-foresees-evil-hides-himself/
+  /2014/09/prudent-man-foresees-evil-hides-himself/
 published: true
 post_date: 2014-09-22 09:02:09
 ---

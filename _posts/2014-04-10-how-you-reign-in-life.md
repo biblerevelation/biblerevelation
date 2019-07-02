@@ -4,8 +4,7 @@ post_title: How you can reign in life?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/how-you-reign-in-life/
+permalink: /2014/04/how-you-reign-in-life/
 published: true
 post_date: 2014-04-10 14:16:59
 ---

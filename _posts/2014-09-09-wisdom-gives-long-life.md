@@ -4,8 +4,7 @@ post_title: Wisdom gives long life
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/wisdom-gives-long-life/
+permalink: /2014/09/wisdom-gives-long-life/
 published: true
 post_date: 2014-09-09 08:46:50
 ---

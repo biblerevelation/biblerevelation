@@ -4,8 +4,7 @@ post_title: Loud music in my Fathers house
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/loud-music-in-my-fathers-house/
+permalink: /2015/07/loud-music-in-my-fathers-house/
 published: true
 post_date: 2015-07-07 14:00:12
 ---

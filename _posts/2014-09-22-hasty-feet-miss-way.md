@@ -4,8 +4,7 @@ post_title: Hasty feet miss the way
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/hasty-feet-miss-way/
+permalink: /2014/09/hasty-feet-miss-way/
 published: true
 post_date: 2014-09-22 10:40:15
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/i-also-would-have-given-you-much-more/
+  /2015/06/i-also-would-have-given-you-much-more/
 published: true
 post_date: 2015-06-30 18:43:23
 ---

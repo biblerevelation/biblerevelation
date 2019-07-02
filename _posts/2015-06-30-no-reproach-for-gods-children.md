@@ -4,8 +4,7 @@ post_title: No Reproach for Gods children
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/no-reproach-for-gods-children/
+permalink: /2015/06/no-reproach-for-gods-children/
 published: true
 post_date: 2015-06-30 22:16:49
 ---

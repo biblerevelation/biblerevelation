@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/heart-to-believe-and-mouth-to-profess-to-be-saved/
+  /2015/11/heart-to-believe-and-mouth-to-profess-to-be-saved/
 published: true
 post_date: 2015-11-22 02:24:38
 ---

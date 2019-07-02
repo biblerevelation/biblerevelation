@@ -4,8 +4,7 @@ post_title: We are filled
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/we-are-filled/
+permalink: /2015/12/we-are-filled/
 published: true
 post_date: 2015-12-12 01:01:14
 ---

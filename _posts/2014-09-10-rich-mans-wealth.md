@@ -4,8 +4,7 @@ post_title: 'What is Rich man&#8217;s wealth?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/rich-mans-wealth/
+permalink: /2014/09/rich-mans-wealth/
 published: true
 post_date: 2014-09-10 14:46:28
 ---

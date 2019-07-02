@@ -4,8 +4,7 @@ post_title: House of God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/fathers-house/
+permalink: /2016/04/fathers-house/
 published: true
 post_date: 2016-04-22 18:55:12
 ---

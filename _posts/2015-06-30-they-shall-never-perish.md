@@ -4,8 +4,7 @@ post_title: They shall NEVER perish
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/they-shall-never-perish/
+permalink: /2015/06/they-shall-never-perish/
 published: true
 post_date: 2015-06-30 19:00:42
 ---

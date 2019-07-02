@@ -4,8 +4,7 @@ post_title: Highest form of mans wisdom
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/highest-form-of-mans-wisdom/
+permalink: /2015/01/highest-form-of-mans-wisdom/
 published: true
 post_date: 2015-01-28 14:13:56
 ---

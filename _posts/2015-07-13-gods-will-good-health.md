@@ -4,8 +4,7 @@ post_title: 'God&#8217;s will for us to be in Good health'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/gods-will-good-health/
+permalink: /2015/07/gods-will-good-health/
 published: true
 post_date: 2015-07-13 19:24:01
 ---

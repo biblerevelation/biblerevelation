@@ -4,8 +4,7 @@ post_title: How can you be Happy?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/how-can-you-be-happy/
+permalink: /2014/03/how-can-you-be-happy/
 published: true
 post_date: 2014-03-20 17:02:54
 ---

@@ -4,8 +4,7 @@ post_title: '&#8220;No Shame&#8221; for God&#8217;s Children'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/no-shame-for-gods-children/
+permalink: /2014/06/no-shame-for-gods-children/
 published: true
 post_date: 2014-06-27 14:42:42
 ---

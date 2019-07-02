@@ -4,8 +4,7 @@ post_title: 'Do not worry, &#8220;saying&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/do-not-worry-saying/
+permalink: /2014/10/do-not-worry-saying/
 published: true
 post_date: 2014-10-07 11:48:12
 ---

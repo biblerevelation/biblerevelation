@@ -4,8 +4,7 @@ post_title: Whoever is led astray by it is not wise
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/led-astray-by-it-not-wise/
+permalink: /2014/10/led-astray-by-it-not-wise/
 published: true
 post_date: 2014-10-20 15:57:58
 ---

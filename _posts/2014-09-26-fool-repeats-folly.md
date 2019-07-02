@@ -4,8 +4,7 @@ post_title: Fool repeats his folly
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/fool-repeats-folly/
+permalink: /2014/09/fool-repeats-folly/
 published: true
 post_date: 2014-09-26 10:39:57
 ---

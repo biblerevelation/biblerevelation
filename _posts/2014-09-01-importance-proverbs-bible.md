@@ -4,8 +4,7 @@ post_title: Importance of Proverbs in Bible
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/importance-proverbs-bible/
+permalink: /2014/09/importance-proverbs-bible/
 published: true
 post_date: 2014-09-01 15:04:49
 ---

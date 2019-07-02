@@ -4,8 +4,7 @@ post_title: A foolish son is the ruin of his father
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/foolish-son-ruin-father/
+permalink: /2014/09/foolish-son-ruin-father/
 published: true
 post_date: 2014-09-19 10:43:46
 ---

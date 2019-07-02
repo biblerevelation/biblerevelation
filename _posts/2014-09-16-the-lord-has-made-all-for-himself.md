@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/the-lord-has-made-all-for-himself/
+  /2014/09/the-lord-has-made-all-for-himself/
 published: true
 post_date: 2014-09-16 22:27:36
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/do-not-let-heart-glad-when-enemy-stumbles/
+  /2014/09/do-not-let-heart-glad-when-enemy-stumbles/
 published: true
 post_date: 2014-09-24 09:17:26
 ---

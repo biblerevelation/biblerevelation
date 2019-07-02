@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/why-life-has-both-happy-and-sad-moments/
+  /2014/03/why-life-has-both-happy-and-sad-moments/
 published: true
 post_date: 2014-03-31 11:35:41
 ---

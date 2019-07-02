@@ -4,8 +4,7 @@ post_title: How you agree with Jesus?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/how-you-agree-with-jesus/
+permalink: /2014/04/how-you-agree-with-jesus/
 published: true
 post_date: 2014-04-13 10:08:20
 ---

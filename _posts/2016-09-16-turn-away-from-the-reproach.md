@@ -4,8 +4,7 @@ post_title: Turn Away from the Reproach
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/09/turn-away-from-the-reproach/
+permalink: /2016/09/turn-away-from-the-reproach/
 published: true
 post_date: 2016-09-16 18:59:15
 ---

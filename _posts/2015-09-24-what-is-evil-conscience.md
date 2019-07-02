@@ -4,8 +4,7 @@ post_title: What is Evil Conscience
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/what-is-evil-conscience/
+permalink: /2015/09/what-is-evil-conscience/
 published: true
 post_date: 2015-09-24 18:32:47
 ---

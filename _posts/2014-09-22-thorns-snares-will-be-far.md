@@ -4,8 +4,7 @@ post_title: Thorns and snares will be far from who?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/thorns-snares-will-be-far/
+permalink: /2014/09/thorns-snares-will-be-far/
 published: true
 post_date: 2014-09-22 09:03:21
 ---

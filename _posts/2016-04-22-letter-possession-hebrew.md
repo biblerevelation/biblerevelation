@@ -4,8 +4,7 @@ post_title: Letter of Possession in Hebrew
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/letter-possession-hebrew/
+permalink: /2016/04/letter-possession-hebrew/
 published: true
 post_date: 2016-04-22 18:55:11
 ---

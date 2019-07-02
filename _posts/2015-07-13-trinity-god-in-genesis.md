@@ -4,8 +4,7 @@ post_title: Trinity God in Genesis
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/trinity-god-in-genesis/
+permalink: /2015/07/trinity-god-in-genesis/
 published: true
 post_date: 2015-07-13 13:15:57
 ---

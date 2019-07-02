@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/08/before-they-call-i-will-answer-2/
+  /2015/08/before-they-call-i-will-answer-2/
 published: true
 post_date: 2015-08-01 00:06:10
 ---

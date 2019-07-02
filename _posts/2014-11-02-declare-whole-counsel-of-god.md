@@ -4,8 +4,7 @@ post_title: Declare whole counsel of God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/declare-whole-counsel-of-god/
+permalink: /2014/11/declare-whole-counsel-of-god/
 published: true
 post_date: 2014-11-02 12:03:00
 ---

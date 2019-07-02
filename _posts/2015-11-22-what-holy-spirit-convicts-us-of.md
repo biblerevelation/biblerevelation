@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/what-holy-spirit-convicts-us-of/
+  /2015/11/what-holy-spirit-convicts-us-of/
 published: true
 post_date: 2015-11-22 02:46:50
 ---

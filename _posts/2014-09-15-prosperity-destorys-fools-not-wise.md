@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/prosperity-destorys-fools-not-wise/
+  /2014/09/prosperity-destorys-fools-not-wise/
 published: true
 post_date: 2014-09-15 15:54:14
 ---

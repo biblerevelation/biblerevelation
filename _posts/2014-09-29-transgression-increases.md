@@ -4,8 +4,7 @@ post_title: How transgression increases?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/transgression-increases/
+permalink: /2014/09/transgression-increases/
 published: true
 post_date: 2014-09-29 11:10:37
 ---

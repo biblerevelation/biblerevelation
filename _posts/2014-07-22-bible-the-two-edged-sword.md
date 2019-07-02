@@ -4,8 +4,7 @@ post_title: Bible, The two-edged sword
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/07/bible-the-two-edged-sword/
+permalink: /2014/07/bible-the-two-edged-sword/
 published: true
 post_date: 2014-07-22 10:26:09
 ---

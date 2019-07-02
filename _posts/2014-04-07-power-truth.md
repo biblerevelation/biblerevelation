@@ -4,8 +4,7 @@ post_title: 'Power of &#8220;The Truth&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/power-truth/
+permalink: /2014/04/power-truth/
 published: true
 post_date: 2014-04-07 17:00:05
 ---

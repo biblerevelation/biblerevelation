@@ -4,8 +4,7 @@ post_title: Faith to Faith, Not Faith to Works
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2017/10/faith-to-faith-not-faith-works/
+permalink: /2017/10/faith-to-faith-not-faith-works/
 published: true
 post_date: 2017-10-04 23:12:33
 ---

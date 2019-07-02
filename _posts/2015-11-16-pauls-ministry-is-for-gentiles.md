@@ -4,8 +4,7 @@ post_title: 'Paul&#8217;s Ministry is for the Gentiles'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/pauls-ministry-is-for-gentiles/
+permalink: /2015/11/pauls-ministry-is-for-gentiles/
 published: true
 post_date: 2015-11-16 18:39:23
 ---

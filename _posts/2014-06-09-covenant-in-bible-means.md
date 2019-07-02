@@ -4,8 +4,7 @@ post_title: Covenant in Bible means?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/covenant-in-bible-means/
+permalink: /2014/06/covenant-in-bible-means/
 published: true
 post_date: 2014-06-09 08:50:10
 ---

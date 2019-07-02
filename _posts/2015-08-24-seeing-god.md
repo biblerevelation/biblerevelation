@@ -4,8 +4,7 @@ post_title: Seeing God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/08/seeing-god/
+permalink: /2015/08/seeing-god/
 published: true
 post_date: 2015-08-24 13:28:18
 ---

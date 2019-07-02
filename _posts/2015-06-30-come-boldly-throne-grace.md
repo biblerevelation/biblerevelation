@@ -4,8 +4,7 @@ post_title: Come boldly to the throne of grace
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/come-boldly-throne-grace/
+permalink: /2015/06/come-boldly-throne-grace/
 published: true
 post_date: 2015-06-30 22:49:30
 ---

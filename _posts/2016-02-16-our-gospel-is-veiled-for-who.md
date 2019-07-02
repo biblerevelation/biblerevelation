@@ -4,8 +4,7 @@ post_title: Our gospel is veiled for who?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/02/our-gospel-is-veiled-for-who/
+permalink: /2016/02/our-gospel-is-veiled-for-who/
 published: true
 post_date: 2016-02-16 18:47:27
 ---

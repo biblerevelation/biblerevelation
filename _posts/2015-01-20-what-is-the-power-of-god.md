@@ -4,8 +4,7 @@ post_title: What is THE Power of God?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/what-is-the-power-of-god/
+permalink: /2015/01/what-is-the-power-of-god/
 published: true
 post_date: 2015-01-20 09:21:24
 ---

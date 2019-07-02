@@ -4,8 +4,7 @@ post_title: Seven are an abomination to the Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/seven-abomination-to-the-lord/
+permalink: /2014/10/seven-abomination-to-the-lord/
 published: true
 post_date: 2014-10-06 14:41:43
 ---

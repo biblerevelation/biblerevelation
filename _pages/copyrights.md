@@ -4,7 +4,7 @@ post_title: Copyrights
 author: Praison
 post_excerpt: ""
 layout: page
-permalink: https://biblerevelation.org/copyrights/
+permalink: /copyrights/
 published: true
 post_date: 2016-02-21 23:34:27
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/jesus-length-days-long-life-peace-health-strength/
+  /2014/09/jesus-length-days-long-life-peace-health-strength/
 published: true
 post_date: 2014-09-03 09:07:19
 ---

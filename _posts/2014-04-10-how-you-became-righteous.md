@@ -4,8 +4,7 @@ post_title: How you became Righteous?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/how-you-became-righteous/
+permalink: /2014/04/how-you-became-righteous/
 published: true
 post_date: 2014-04-10 13:25:03
 ---

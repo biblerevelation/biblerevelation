@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/ministry-righteousness-exceeds-much-more-glory/
+  /2015/06/ministry-righteousness-exceeds-much-more-glory/
 published: true
 post_date: 2015-06-17 23:41:30
 ---

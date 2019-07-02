@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/jesus-high-priest-order-of-melchizedek/
+  /2015/06/jesus-high-priest-order-of-melchizedek/
 published: true
 post_date: 2015-06-30 19:41:45
 ---

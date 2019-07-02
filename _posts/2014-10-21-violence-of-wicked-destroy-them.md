@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/violence-of-wicked-destroy-them/
+  /2014/10/violence-of-wicked-destroy-them/
 published: true
 post_date: 2014-10-21 16:22:18
 ---

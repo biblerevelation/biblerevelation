@@ -4,8 +4,7 @@ post_title: How Gospel can be preached?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/12/how-gospel-can-be-preached/
+permalink: /2014/12/how-gospel-can-be-preached/
 published: true
 post_date: 2014-12-03 13:51:50
 ---

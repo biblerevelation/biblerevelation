@@ -4,8 +4,7 @@ post_title: How do we take thought?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/take-thought/
+permalink: /2014/10/take-thought/
 published: true
 post_date: 2014-10-18 22:51:05
 ---

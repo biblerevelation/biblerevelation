@@ -4,8 +4,7 @@ post_title: A greater than Solomon is here
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/a-greater-than-solomon-is-here/
+permalink: /2015/06/a-greater-than-solomon-is-here/
 published: true
 post_date: 2015-06-18 13:30:53
 ---

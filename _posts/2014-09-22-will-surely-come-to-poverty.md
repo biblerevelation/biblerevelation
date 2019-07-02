@@ -4,8 +4,7 @@ post_title: 'Who will &#8220;surely&#8221; come to poverty?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/will-surely-come-to-poverty/
+permalink: /2014/09/will-surely-come-to-poverty/
 published: true
 post_date: 2014-09-22 09:08:23
 ---

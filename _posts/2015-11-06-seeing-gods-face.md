@@ -4,8 +4,7 @@ post_title: 'Seeing God&#8217;s Face'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/seeing-gods-face/
+permalink: /2015/11/seeing-gods-face/
 published: true
 post_date: 2015-11-06 16:46:10
 ---

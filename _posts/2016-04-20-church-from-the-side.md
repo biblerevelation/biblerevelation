@@ -4,8 +4,7 @@ post_title: Church from the side
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/church-from-the-side/
+permalink: /2016/04/church-from-the-side/
 published: true
 post_date: 2016-04-20 18:44:37
 ---

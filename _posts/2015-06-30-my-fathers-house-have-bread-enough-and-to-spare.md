@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/my-fathers-house-have-bread-enough-and-to-spare/
+  /2015/06/my-fathers-house-have-bread-enough-and-to-spare/
 published: true
 post_date: 2015-06-30 13:09:43
 ---

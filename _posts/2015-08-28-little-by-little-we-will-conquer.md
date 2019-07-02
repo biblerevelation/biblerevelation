@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/08/little-by-little-we-will-conquer/
+  /2015/08/little-by-little-we-will-conquer/
 published: true
 post_date: 2015-08-28 13:46:41
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/dont-associate-with-flatters-lips/
+  /2014/10/dont-associate-with-flatters-lips/
 published: true
 post_date: 2014-10-20 16:09:34
 ---

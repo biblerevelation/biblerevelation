@@ -4,8 +4,7 @@ post_title: Jesus Prays for His Disciples
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/jesus-prays-for-his-disciples/
+permalink: /2014/11/jesus-prays-for-his-disciples/
 published: true
 post_date: 2014-11-20 13:40:15
 ---

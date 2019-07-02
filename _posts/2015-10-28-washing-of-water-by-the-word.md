@@ -4,8 +4,7 @@ post_title: Washing of Water by the Word
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/washing-of-water-by-the-word/
+permalink: /2015/10/washing-of-water-by-the-word/
 published: true
 post_date: 2015-10-28 14:45:53
 ---

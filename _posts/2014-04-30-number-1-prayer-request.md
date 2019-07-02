@@ -4,8 +4,7 @@ post_title: Number 1 Prayer Request
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/number-1-prayer-request/
+permalink: /2014/04/number-1-prayer-request/
 published: true
 post_date: 2014-04-30 14:45:17
 ---

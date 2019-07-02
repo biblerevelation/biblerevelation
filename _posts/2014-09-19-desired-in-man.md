@@ -4,8 +4,7 @@ post_title: What is desired in a man?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/desired-in-man/
+permalink: /2014/09/desired-in-man/
 published: true
 post_date: 2014-09-19 10:48:29
 ---

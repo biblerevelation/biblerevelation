@@ -4,8 +4,7 @@ post_title: Blessing I will bless you
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/blessing-i-will-bless-you/
+permalink: /2015/09/blessing-i-will-bless-you/
 published: true
 post_date: 2015-09-25 07:04:46
 ---

@@ -4,8 +4,7 @@ post_title: Salvation in your Mouth
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/salvation-in-your-mouth/
+permalink: /2015/12/salvation-in-your-mouth/
 published: true
 post_date: 2015-12-16 18:04:02
 ---

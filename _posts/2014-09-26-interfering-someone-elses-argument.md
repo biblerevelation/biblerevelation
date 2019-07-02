@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/interfering-someone-elses-argument/
+  /2014/09/interfering-someone-elses-argument/
 published: true
 post_date: 2014-09-26 10:41:41
 ---

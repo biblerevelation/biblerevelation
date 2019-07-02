@@ -4,8 +4,7 @@ post_title: Am I accepted before God?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/am-i-accepted-before-god/
+permalink: /2015/09/am-i-accepted-before-god/
 published: true
 post_date: 2015-09-24 18:40:31
 ---

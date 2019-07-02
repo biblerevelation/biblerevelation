@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/expressions-hatred-heart/
+permalink: /2014/09/expressions-hatred-heart/
 published: true
 post_date: 2014-09-26 10:47:16
 ---

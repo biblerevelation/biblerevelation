@@ -4,8 +4,7 @@ post_title: Google Search
 author: Praison
 post_excerpt: ""
 layout: page
-permalink: >
-  https://biblerevelation.org/google-search/
+permalink: /google-search/
 published: true
 post_date: 2015-07-13 13:42:46
 ---

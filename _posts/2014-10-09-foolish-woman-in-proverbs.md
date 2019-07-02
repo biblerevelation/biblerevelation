@@ -4,8 +4,7 @@ post_title: Foolish woman in Proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/foolish-woman-in-proverbs/
+permalink: /2014/10/foolish-woman-in-proverbs/
 published: true
 post_date: 2014-10-09 10:48:25
 ---

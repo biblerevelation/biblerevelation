@@ -4,8 +4,7 @@ post_title: Being carnally minded is death
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/08/being-carnally-minded-is-death/
+permalink: /2015/08/being-carnally-minded-is-death/
 published: true
 post_date: 2015-08-25 13:01:31
 ---

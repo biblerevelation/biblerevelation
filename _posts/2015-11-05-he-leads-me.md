@@ -4,8 +4,7 @@ post_title: He leads me
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/he-leads-me/
+permalink: /2015/11/he-leads-me/
 published: true
 post_date: 2015-11-05 19:58:11
 ---

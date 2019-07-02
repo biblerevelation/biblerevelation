@@ -4,8 +4,7 @@ post_title: Proverb in the mouth of fools is like?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/proverb-in-mouth-fools/
+permalink: /2014/09/proverb-in-mouth-fools/
 published: true
 post_date: 2014-09-26 10:36:38
 ---

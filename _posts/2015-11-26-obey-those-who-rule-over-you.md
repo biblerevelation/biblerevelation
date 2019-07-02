@@ -4,8 +4,7 @@ post_title: Obey those who rule over you
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/obey-those-who-rule-over-you/
+permalink: /2015/11/obey-those-who-rule-over-you/
 published: true
 post_date: 2015-11-26 18:34:04
 ---

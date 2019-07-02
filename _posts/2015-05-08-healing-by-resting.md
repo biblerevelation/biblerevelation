@@ -4,8 +4,7 @@ post_title: Healing by resting 
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/05/healing-by-resting/
+permalink: /2015/05/healing-by-resting/
 published: true
 post_date: 2015-05-08 13:20:22
 ---

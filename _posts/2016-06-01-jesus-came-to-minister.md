@@ -4,8 +4,7 @@ post_title: Jesus came to Minister
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/06/jesus-came-to-minister/
+permalink: /2016/06/jesus-came-to-minister/
 published: true
 post_date: 2016-06-01 23:21:41
 ---

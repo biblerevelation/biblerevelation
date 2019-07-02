@@ -4,8 +4,7 @@ post_title: 'Paul&#8217;s power over death'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/12/pauls-power-over-death/
+permalink: /2014/12/pauls-power-over-death/
 published: true
 post_date: 2014-12-05 15:11:52
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/only-time-jesus-said-narrow-is-the-gate/
+  /2015/12/only-time-jesus-said-narrow-is-the-gate/
 published: true
 post_date: 2015-12-23 18:46:13
 ---

@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/keep-away-from-immoral-woman/
+permalink: /2014/10/keep-away-from-immoral-woman/
 published: true
 post_date: 2014-10-07 11:15:28
 ---

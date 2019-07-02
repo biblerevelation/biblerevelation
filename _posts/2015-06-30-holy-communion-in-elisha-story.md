@@ -4,8 +4,7 @@ post_title: Holy Communion in Elisha story
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/holy-communion-in-elisha-story/
+permalink: /2015/06/holy-communion-in-elisha-story/
 published: true
 post_date: 2015-06-30 20:19:40
 ---

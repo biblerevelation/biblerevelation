@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/spirit-of-a-man-will-sustain-him-in-sickness/
+  /2014/09/spirit-of-a-man-will-sustain-him-in-sickness/
 published: true
 post_date: 2014-09-18 10:58:07
 ---

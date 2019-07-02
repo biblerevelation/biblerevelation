@@ -4,8 +4,7 @@ post_title: Christ died once for all time
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/christ-died-once-for-all-time/
+permalink: /2015/06/christ-died-once-for-all-time/
 published: true
 post_date: 2015-06-30 22:01:02
 ---

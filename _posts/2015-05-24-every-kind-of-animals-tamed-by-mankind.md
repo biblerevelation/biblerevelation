@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/05/every-kind-of-animals-tamed-by-mankind/
+  /2015/05/every-kind-of-animals-tamed-by-mankind/
 published: true
 post_date: 2015-05-24 19:28:18
 ---

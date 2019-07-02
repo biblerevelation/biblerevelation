@@ -4,8 +4,7 @@ post_title: Shepherds who Feed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/shepherds-who-feed/
+permalink: /2015/11/shepherds-who-feed/
 published: true
 post_date: 2015-11-05 19:47:27
 ---

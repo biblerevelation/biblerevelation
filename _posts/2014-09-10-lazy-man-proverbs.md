@@ -4,8 +4,7 @@ post_title: Lazy man in Proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/lazy-man-proverbs/
+permalink: /2014/09/lazy-man-proverbs/
 published: true
 post_date: 2014-09-10 13:34:22
 ---

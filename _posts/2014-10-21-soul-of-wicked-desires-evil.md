@@ -4,8 +4,7 @@ post_title: The soul of the wicked desires evil
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/soul-of-wicked-desires-evil/
+permalink: /2014/10/soul-of-wicked-desires-evil/
 published: true
 post_date: 2014-10-21 16:25:40
 ---

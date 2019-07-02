@@ -4,8 +4,7 @@ post_title: Falsely boasts of giving is like?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/falsely-boasts-giving-like/
+permalink: /2014/09/falsely-boasts-giving-like/
 published: true
 post_date: 2014-09-25 09:06:28
 ---

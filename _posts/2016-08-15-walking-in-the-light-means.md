@@ -4,8 +4,7 @@ post_title: Walking in the Light means
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/08/walking-in-the-light-means/
+permalink: /2016/08/walking-in-the-light-means/
 published: true
 post_date: 2016-08-15 21:17:22
 ---

@@ -4,8 +4,7 @@ post_title: The Wicked Man
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/wicked-man/
+permalink: /2014/10/wicked-man/
 published: true
 post_date: 2014-10-06 14:43:49
 ---

@@ -4,8 +4,7 @@ post_title: Greater than Jonah
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/greater-than-jonah/
+permalink: /2015/09/greater-than-jonah/
 published: true
 post_date: 2015-09-02 13:30:00
 ---

@@ -4,8 +4,7 @@ post_title: Who will deliver me?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/who-will-deliver-me/
+permalink: /2016/01/who-will-deliver-me/
 published: true
 post_date: 2016-01-20 18:17:04
 ---

@@ -4,8 +4,7 @@ post_title: Why do you cry to me?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/02/why-do-you-cry-to-me/
+permalink: /2016/02/why-do-you-cry-to-me/
 published: true
 post_date: 2016-02-26 18:37:06
 ---

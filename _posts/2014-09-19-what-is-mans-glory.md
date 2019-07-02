@@ -4,8 +4,7 @@ post_title: What is mans glory?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/what-is-mans-glory/
+permalink: /2014/09/what-is-mans-glory/
 published: true
 post_date: 2014-09-19 10:43:07
 ---

@@ -4,8 +4,7 @@ post_title: Death in Old and New Covenant
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2019/01/death-in-old-and-new-covenant/
+permalink: /2019/01/death-in-old-and-new-covenant/
 published: true
 post_date: 2019-01-04 16:46:58
 ---

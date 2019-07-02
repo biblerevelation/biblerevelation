@@ -4,8 +4,7 @@ post_title: Bread, Wine and Oil
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/bread-wine-oil/
+permalink: /2014/09/bread-wine-oil/
 published: true
 post_date: 2014-09-09 10:12:32
 ---

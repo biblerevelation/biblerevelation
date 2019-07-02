@@ -4,8 +4,7 @@ post_title: Jesus loved them to the end
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/jesus-loved-them-to-the-end/
+permalink: /2015/06/jesus-loved-them-to-the-end/
 published: true
 post_date: 2015-06-30 14:23:09
 ---

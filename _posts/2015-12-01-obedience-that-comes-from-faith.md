@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/obedience-that-comes-from-faith/
+  /2015/12/obedience-that-comes-from-faith/
 published: true
 post_date: 2015-12-01 18:16:09
 ---

@@ -4,8 +4,7 @@ post_title: How satan approaches you?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/how-satan-approaches-you/
+permalink: /2015/11/how-satan-approaches-you/
 published: true
 post_date: 2015-11-16 19:22:45
 ---

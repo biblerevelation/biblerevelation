@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/07/bringing-jesus-to-the-place-of-grace/
+  /2015/07/bringing-jesus-to-the-place-of-grace/
 published: true
 post_date: 2015-07-07 21:33:12
 ---

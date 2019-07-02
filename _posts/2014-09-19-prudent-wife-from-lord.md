@@ -4,8 +4,7 @@ post_title: Prudent wife is from the Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/prudent-wife-from-lord/
+permalink: /2014/09/prudent-wife-from-lord/
 published: true
 post_date: 2014-09-19 10:44:56
 ---

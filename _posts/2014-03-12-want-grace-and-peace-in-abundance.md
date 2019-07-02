@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/want-grace-and-peace-in-abundance/
+  /2014/03/want-grace-and-peace-in-abundance/
 published: true
 post_date: 2014-03-12 15:44:09
 ---

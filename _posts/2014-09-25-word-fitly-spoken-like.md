@@ -4,8 +4,7 @@ post_title: A word fitly spoken is like ?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/word-fitly-spoken-like/
+permalink: /2014/09/word-fitly-spoken-like/
 published: true
 post_date: 2014-09-25 09:05:23
 ---

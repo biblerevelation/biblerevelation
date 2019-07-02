@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/do-not-desire-to-be-with-evil-men/
+  /2014/09/do-not-desire-to-be-with-evil-men/
 published: true
 post_date: 2014-09-24 08:28:44
 ---

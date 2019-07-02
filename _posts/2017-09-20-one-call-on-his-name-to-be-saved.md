@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2017/09/one-call-on-his-name-to-be-saved/
+  /2017/09/one-call-on-his-name-to-be-saved/
 published: true
 post_date: 2017-09-20 21:17:45
 ---

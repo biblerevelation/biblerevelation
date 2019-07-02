@@ -4,8 +4,7 @@ post_title: 'Don&#8217;t recompense evil'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/dont-recompense-evil/
+permalink: /2014/10/dont-recompense-evil/
 published: true
 post_date: 2014-10-20 16:10:06
 ---

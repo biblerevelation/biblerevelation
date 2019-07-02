@@ -4,8 +4,7 @@ post_title: Jesus died as us
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/jesus-died-us/
+permalink: /2015/09/jesus-died-us/
 published: true
 post_date: 2015-09-24 18:20:14
 ---

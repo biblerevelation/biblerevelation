@@ -4,8 +4,7 @@ post_title: You decide your future
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/you-decide-your-future/
+permalink: /2014/09/you-decide-your-future/
 published: true
 post_date: 2014-09-15 15:44:06
 ---

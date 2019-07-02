@@ -4,8 +4,7 @@ post_title: Our Word is Our Bond
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/our-word-is-our-bond/
+permalink: /2015/07/our-word-is-our-bond/
 published: true
 post_date: 2015-07-17 10:52:25
 ---

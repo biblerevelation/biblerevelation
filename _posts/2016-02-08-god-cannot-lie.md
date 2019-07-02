@@ -4,8 +4,7 @@ post_title: God cannot lie
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/02/god-cannot-lie/
+permalink: /2016/02/god-cannot-lie/
 published: true
 post_date: 2016-02-08 18:21:33
 ---

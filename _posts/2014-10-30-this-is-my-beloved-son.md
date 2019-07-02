@@ -4,8 +4,7 @@ post_title: This is My beloved Son
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/this-is-my-beloved-son/
+permalink: /2014/10/this-is-my-beloved-son/
 published: true
 post_date: 2014-10-30 13:16:39
 ---

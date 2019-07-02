@@ -4,8 +4,7 @@ post_title: GOD MADE us Righteous
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/god-made-us-righteous/
+permalink: /2015/10/god-made-us-righteous/
 published: true
 post_date: 2015-10-06 13:11:17
 ---

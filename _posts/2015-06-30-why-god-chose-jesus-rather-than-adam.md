@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/why-god-chose-jesus-rather-than-adam/
+  /2015/06/why-god-chose-jesus-rather-than-adam/
 published: true
 post_date: 2015-06-30 19:59:32
 ---

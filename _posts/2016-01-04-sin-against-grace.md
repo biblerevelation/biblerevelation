@@ -4,8 +4,7 @@ post_title: Sin Against Grace
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/sin-against-grace/
+permalink: /2016/01/sin-against-grace/
 published: true
 post_date: 2016-01-04 18:35:38
 ---

@@ -4,8 +4,7 @@ post_title: Praying Earnestly
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/praying-earnestly/
+permalink: /2015/10/praying-earnestly/
 published: true
 post_date: 2015-10-13 22:12:43
 ---

@@ -4,8 +4,7 @@ post_title: Importance of Sabbath Day
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/importance-sabbath-day/
+permalink: /2014/04/importance-sabbath-day/
 published: true
 post_date: 2014-04-08 00:04:11
 ---

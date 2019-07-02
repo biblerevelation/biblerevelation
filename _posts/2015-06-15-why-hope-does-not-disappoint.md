@@ -4,8 +4,7 @@ post_title: Why Hope does not disappoint?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/why-hope-does-not-disappoint/
+permalink: /2015/06/why-hope-does-not-disappoint/
 published: true
 post_date: 2015-06-15 13:11:57
 ---

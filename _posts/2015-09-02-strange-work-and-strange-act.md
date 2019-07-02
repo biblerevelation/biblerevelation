@@ -4,8 +4,7 @@ post_title: Strange Work and Strange Act
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/strange-work-and-strange-act/
+permalink: /2015/09/strange-work-and-strange-act/
 published: true
 post_date: 2015-09-02 13:57:12
 ---

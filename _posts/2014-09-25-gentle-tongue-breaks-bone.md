@@ -4,8 +4,7 @@ post_title: A gentle tongue breaks a bone
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/gentle-tongue-breaks-bone/
+permalink: /2014/09/gentle-tongue-breaks-bone/
 published: true
 post_date: 2014-09-25 09:06:54
 ---

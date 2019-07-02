@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/jesus-passover-lamb-two-evenings/
+  /2014/09/jesus-passover-lamb-two-evenings/
 published: true
 post_date: 2014-09-15 14:57:32
 ---

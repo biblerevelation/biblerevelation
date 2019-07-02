@@ -4,8 +4,7 @@ post_title: What is The Kingdom of God?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/07/what-is-the-kingdom-of-god/
+permalink: /2014/07/what-is-the-kingdom-of-god/
 published: true
 post_date: 2014-07-14 14:55:43
 ---

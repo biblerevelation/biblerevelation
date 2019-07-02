@@ -4,8 +4,7 @@ post_title: What poor and oppressor have in common?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/poor-oppressor-common/
+permalink: /2014/09/poor-oppressor-common/
 published: true
 post_date: 2014-09-29 11:09:50
 ---

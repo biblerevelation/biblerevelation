@@ -4,8 +4,7 @@ post_title: Healing for the Unbelievers
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/healing-for-the-unbelievers/
+permalink: /2015/10/healing-for-the-unbelievers/
 published: true
 post_date: 2015-10-13 22:11:11
 ---

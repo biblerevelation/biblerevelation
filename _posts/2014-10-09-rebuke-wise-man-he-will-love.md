@@ -4,8 +4,7 @@ post_title: Rebuke a wise man, and he will love you
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/rebuke-wise-man-he-will-love/
+permalink: /2014/10/rebuke-wise-man-he-will-love/
 published: true
 post_date: 2014-10-09 10:51:33
 ---

@@ -4,8 +4,7 @@ post_title: Answering fool in proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/answering-fool-in-proverbs/
+permalink: /2014/09/answering-fool-in-proverbs/
 published: true
 post_date: 2014-09-26 10:37:11
 ---

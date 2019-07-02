@@ -4,8 +4,7 @@ post_title: Spiritual warfare
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/spiritual-warfare/
+permalink: /2015/01/spiritual-warfare/
 published: true
 post_date: 2015-01-28 13:49:01
 ---

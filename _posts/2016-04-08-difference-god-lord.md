@@ -4,8 +4,7 @@ post_title: Difference between God and Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/difference-god-lord/
+permalink: /2016/04/difference-god-lord/
 published: true
 post_date: 2016-04-08 18:23:40
 ---

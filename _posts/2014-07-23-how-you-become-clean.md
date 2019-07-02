@@ -4,8 +4,7 @@ post_title: How you become clean?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/07/how-you-become-clean/
+permalink: /2014/07/how-you-become-clean/
 published: true
 post_date: 2014-07-23 22:11:28
 ---

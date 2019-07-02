@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/king-establishes-land-by-justice/
+  /2014/09/king-establishes-land-by-justice/
 published: true
 post_date: 2014-09-29 10:52:59
 ---

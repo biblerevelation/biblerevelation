@@ -4,8 +4,7 @@ post_title: All Have Sinned
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/all-have-sinned/
+permalink: /2015/10/all-have-sinned/
 published: true
 post_date: 2015-10-26 14:24:37
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/the-law-entered-that-the-offense-might-abound/
+  /2016/01/the-law-entered-that-the-offense-might-abound/
 published: true
 post_date: 2016-01-06 18:13:49
 ---

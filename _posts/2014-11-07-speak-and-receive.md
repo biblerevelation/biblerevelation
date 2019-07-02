@@ -4,8 +4,7 @@ post_title: Speak and receive
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/speak-and-receive/
+permalink: /2014/11/speak-and-receive/
 published: true
 post_date: 2014-11-07 14:59:59
 ---

@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/mouth-immoral-woman-deep-pit/
+permalink: /2014/09/mouth-immoral-woman-deep-pit/
 published: true
 post_date: 2014-09-22 09:07:29
 ---

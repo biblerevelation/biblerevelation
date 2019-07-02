@@ -4,8 +4,7 @@ post_title: How you get Righteousness?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/how-you-get-righteousness/
+permalink: /2014/03/how-you-get-righteousness/
 published: true
 post_date: 2014-03-28 20:20:58
 ---

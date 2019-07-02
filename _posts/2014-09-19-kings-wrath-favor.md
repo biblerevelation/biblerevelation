@@ -4,8 +4,7 @@ post_title: King’s wrath and favor
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/kings-wrath-favor/
+permalink: /2014/09/kings-wrath-favor/
 published: true
 post_date: 2014-09-19 10:43:27
 ---

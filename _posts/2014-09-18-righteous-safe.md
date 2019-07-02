@@ -4,8 +4,7 @@ post_title: How righteous are safe?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/righteous-safe/
+permalink: /2014/09/righteous-safe/
 published: true
 post_date: 2014-09-18 10:56:34
 ---

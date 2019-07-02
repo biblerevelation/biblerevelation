@@ -4,8 +4,7 @@ post_title: Jesus the Good Shepherd
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/12/jesus-good-shepherd/
+permalink: /2014/12/jesus-good-shepherd/
 published: true
 post_date: 2014-12-05 15:35:21
 ---

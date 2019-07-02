@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/get-delivered-from-unrighteous-man/
+  /2014/09/get-delivered-from-unrighteous-man/
 published: true
 post_date: 2014-09-02 11:32:22
 ---

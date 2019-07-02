@@ -4,8 +4,7 @@ post_title: The ear of the wise seeks knowledge
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/ear-wise-seeks-knowledge/
+permalink: /2014/09/ear-wise-seeks-knowledge/
 published: true
 post_date: 2014-09-18 10:58:34
 ---

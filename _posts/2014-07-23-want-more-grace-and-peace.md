@@ -4,8 +4,7 @@ post_title: Want more Grace and peace? (Bible)
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/07/want-more-grace-and-peace/
+permalink: /2014/07/want-more-grace-and-peace/
 published: true
 post_date: 2014-07-23 22:51:06
 ---

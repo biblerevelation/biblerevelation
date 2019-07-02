@@ -4,8 +4,7 @@ post_title: 'King&#8217;s favor is to whom?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/kings-favor/
+permalink: /2014/09/kings-favor/
 published: true
 post_date: 2014-09-15 09:09:18
 ---

@@ -4,8 +4,7 @@ post_title: What she heard about Jesus?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/heard-jesus/
+permalink: /2015/01/heard-jesus/
 published: true
 post_date: 2015-01-01 23:39:28
 ---

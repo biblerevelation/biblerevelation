@@ -4,8 +4,7 @@ post_title: 'You can&#8217;t curse whom God has blessed'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/cant-curse-whom-god-blessed/
+permalink: /2015/06/cant-curse-whom-god-blessed/
 published: true
 post_date: 2015-06-19 17:37:55
 ---

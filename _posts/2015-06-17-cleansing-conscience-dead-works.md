@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/cleansing-conscience-dead-works/
+  /2015/06/cleansing-conscience-dead-works/
 published: true
 post_date: 2015-06-17 23:22:06
 ---

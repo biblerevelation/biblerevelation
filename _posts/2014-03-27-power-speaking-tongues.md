@@ -4,8 +4,7 @@ post_title: Power of Speaking in Tongues
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/power-speaking-tongues/
+permalink: /2014/03/power-speaking-tongues/
 published: true
 post_date: 2014-03-27 15:04:31
 ---

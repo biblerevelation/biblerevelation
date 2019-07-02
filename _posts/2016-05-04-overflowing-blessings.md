@@ -4,8 +4,7 @@ post_title: Overflowing Blessings
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/05/overflowing-blessings/
+permalink: /2016/05/overflowing-blessings/
 published: true
 post_date: 2016-05-04 06:36:30
 ---

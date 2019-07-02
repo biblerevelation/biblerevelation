@@ -4,8 +4,7 @@ post_title: How we could get Joy?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/how-we-could-get-joy/
+permalink: /2015/02/how-we-could-get-joy/
 published: true
 post_date: 2015-02-04 23:46:29
 ---

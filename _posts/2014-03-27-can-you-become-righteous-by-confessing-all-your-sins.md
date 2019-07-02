@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/can-you-become-righteous-by-confessing-all-your-sins/
+  /2014/03/can-you-become-righteous-by-confessing-all-your-sins/
 published: true
 post_date: 2014-03-27 21:43:25
 ---

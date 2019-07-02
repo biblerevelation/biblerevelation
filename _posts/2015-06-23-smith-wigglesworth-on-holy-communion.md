@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/smith-wigglesworth-on-holy-communion/
+  /2015/06/smith-wigglesworth-on-holy-communion/
 published: true
 post_date: 2015-06-23 22:19:32
 ---

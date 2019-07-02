@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/01/faith-is-drawing-the-fullness-of-christ/
+  /2015/01/faith-is-drawing-the-fullness-of-christ/
 published: true
 post_date: 2015-01-07 14:38:10
 ---

@@ -4,8 +4,7 @@ post_title: Rod for the fool’s back
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/rod-fools-back/
+permalink: /2014/09/rod-fools-back/
 published: true
 post_date: 2014-09-26 10:37:26
 ---

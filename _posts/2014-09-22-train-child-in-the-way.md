@@ -4,8 +4,7 @@ post_title: Train up a child in the way he should go
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/train-child-in-the-way/
+permalink: /2014/09/train-child-in-the-way/
 published: true
 post_date: 2014-09-22 09:03:52
 ---

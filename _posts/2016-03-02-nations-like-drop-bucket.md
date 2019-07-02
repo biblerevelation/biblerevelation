@@ -4,8 +4,7 @@ post_title: Nations are like a drop in a bucket
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/03/nations-like-drop-bucket/
+permalink: /2016/03/nations-like-drop-bucket/
 published: true
 post_date: 2016-03-02 18:31:21
 ---

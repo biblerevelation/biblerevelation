@@ -4,8 +4,7 @@ post_title: Wisdom is a tree of life to whom?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/wisdom-tree-of-life/
+permalink: /2014/09/wisdom-tree-of-life/
 published: true
 post_date: 2014-09-03 09:35:01
 ---

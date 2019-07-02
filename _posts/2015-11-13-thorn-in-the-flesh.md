@@ -4,8 +4,7 @@ post_title: Thorn in The Flesh
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/thorn-in-the-flesh/
+permalink: /2015/11/thorn-in-the-flesh/
 published: true
 post_date: 2015-11-13 18:46:35
 ---

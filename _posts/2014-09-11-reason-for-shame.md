@@ -4,8 +4,7 @@ post_title: Reason for shame?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/reason-for-shame/
+permalink: /2014/09/reason-for-shame/
 published: true
 post_date: 2014-09-11 07:54:47
 ---

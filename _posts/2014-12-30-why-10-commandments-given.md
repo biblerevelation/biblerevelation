@@ -4,8 +4,7 @@ post_title: Why 10 Commandments was given?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/12/why-10-commandments-given/
+permalink: /2014/12/why-10-commandments-given/
 published: true
 post_date: 2014-12-30 13:31:48
 ---

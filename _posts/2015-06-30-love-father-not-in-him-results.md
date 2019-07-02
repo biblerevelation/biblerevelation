@@ -4,8 +4,7 @@ post_title: '&#8220;The love of the Father is not in him&#8221; results in?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/love-father-not-in-him-results/
+permalink: /2015/06/love-father-not-in-him-results/
 published: true
 post_date: 2015-06-30 22:50:08
 ---

@@ -4,8 +4,7 @@ post_title: We go Through, Not stay There
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/we-go-through-not-stay-there/
+permalink: /2015/12/we-go-through-not-stay-there/
 published: true
 post_date: 2015-12-08 18:52:11
 ---

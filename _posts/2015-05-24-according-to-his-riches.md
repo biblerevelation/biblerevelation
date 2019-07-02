@@ -4,8 +4,7 @@ post_title: According to His riches
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/05/according-to-his-riches/
+permalink: /2015/05/according-to-his-riches/
 published: true
 post_date: 2015-05-24 14:12:47
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/fathers-good-pleasure-to-give-kingdom/
+  /2015/06/fathers-good-pleasure-to-give-kingdom/
 published: true
 post_date: 2015-06-19 17:34:43
 ---

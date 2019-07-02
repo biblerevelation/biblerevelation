@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/prophets-and-angels-desire-to-look-into-this-salvation/
+  /2015/12/prophets-and-angels-desire-to-look-into-this-salvation/
 published: true
 post_date: 2015-12-12 09:52:25
 ---

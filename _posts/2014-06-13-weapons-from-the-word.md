@@ -4,8 +4,7 @@ post_title: Weapons from THE WORD
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/weapons-from-the-word/
+permalink: /2014/06/weapons-from-the-word/
 published: true
 post_date: 2014-06-13 11:05:36
 ---

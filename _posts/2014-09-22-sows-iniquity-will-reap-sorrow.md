@@ -4,8 +4,7 @@ post_title: He who sows iniquity will reap sorrow
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/sows-iniquity-will-reap-sorrow/
+permalink: /2014/09/sows-iniquity-will-reap-sorrow/
 published: true
 post_date: 2014-09-22 09:04:05
 ---

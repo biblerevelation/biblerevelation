@@ -4,8 +4,7 @@ post_title: Who enter in to rest?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/enter-rest/
+permalink: /2014/10/enter-rest/
 published: true
 post_date: 2014-10-17 07:45:12
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/point-to-jesus-for-any-question/
+  /2015/12/point-to-jesus-for-any-question/
 published: true
 post_date: 2015-12-12 11:18:26
 ---

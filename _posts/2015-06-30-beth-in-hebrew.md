@@ -4,8 +4,7 @@ post_title: Beth in Hebrew
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/beth-in-hebrew/
+permalink: /2015/06/beth-in-hebrew/
 published: true
 post_date: 2015-06-30 14:09:51
 ---

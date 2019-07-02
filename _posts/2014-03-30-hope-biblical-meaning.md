@@ -4,8 +4,7 @@ post_title: 'Hope : Biblical meaning'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/hope-biblical-meaning/
+permalink: /2014/03/hope-biblical-meaning/
 published: true
 post_date: 2014-03-30 21:25:15
 ---

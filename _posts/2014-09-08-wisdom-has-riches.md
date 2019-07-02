@@ -4,8 +4,7 @@ post_title: Wisdom has Riches
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/wisdom-has-riches/
+permalink: /2014/09/wisdom-has-riches/
 published: true
 post_date: 2014-09-08 16:30:26
 ---

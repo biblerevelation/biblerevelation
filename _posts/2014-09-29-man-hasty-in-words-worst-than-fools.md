@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/man-hasty-in-words-worst-than-fools/
+  /2014/09/man-hasty-in-words-worst-than-fools/
 published: true
 post_date: 2014-09-29 11:12:46
 ---

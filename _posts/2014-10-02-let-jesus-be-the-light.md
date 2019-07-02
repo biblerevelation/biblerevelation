@@ -4,8 +4,7 @@ post_title: Let Jesus be the Light
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/let-jesus-be-the-light/
+permalink: /2014/10/let-jesus-be-the-light/
 published: true
 post_date: 2014-10-02 19:55:14
 ---

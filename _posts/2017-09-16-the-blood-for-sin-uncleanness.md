@@ -4,8 +4,7 @@ post_title: The Blood for sin and for uncleanness
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2017/09/the-blood-for-sin-uncleanness/
+permalink: /2017/09/the-blood-for-sin-uncleanness/
 published: true
 post_date: 2017-09-16 22:45:19
 ---

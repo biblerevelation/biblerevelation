@@ -4,8 +4,7 @@ post_title: Correction in Proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/correction-proverbs/
+permalink: /2014/09/correction-proverbs/
 published: true
 post_date: 2014-09-15 08:58:15
 ---

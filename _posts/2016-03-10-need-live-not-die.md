@@ -4,8 +4,7 @@ post_title: Why we need to live and not die?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/03/need-live-not-die/
+permalink: /2016/03/need-live-not-die/
 published: true
 post_date: 2016-03-10 18:16:54
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/fool-hist-hire-transgressor-wages/
+  /2014/09/fool-hist-hire-transgressor-wages/
 published: true
 post_date: 2014-09-26 10:39:49
 ---

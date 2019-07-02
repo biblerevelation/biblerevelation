@@ -4,8 +4,7 @@ post_title: Who Inherits glory?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/who-inherits-glory/
+permalink: /2014/09/who-inherits-glory/
 published: true
 post_date: 2014-09-03 10:07:24
 ---

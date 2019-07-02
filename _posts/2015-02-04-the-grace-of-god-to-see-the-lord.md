@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/02/the-grace-of-god-to-see-the-lord/
+  /2015/02/the-grace-of-god-to-see-the-lord/
 published: true
 post_date: 2015-02-04 22:57:37
 ---

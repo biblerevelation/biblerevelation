@@ -4,8 +4,7 @@ post_title: Who does good for his own soul?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/good-for-his-own-soul/
+permalink: /2014/09/good-for-his-own-soul/
 published: true
 post_date: 2014-09-11 09:29:59
 ---

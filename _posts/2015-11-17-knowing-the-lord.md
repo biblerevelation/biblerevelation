@@ -4,8 +4,7 @@ post_title: Knowing The Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/knowing-the-lord/
+permalink: /2015/11/knowing-the-lord/
 published: true
 post_date: 2015-11-17 18:46:33
 ---

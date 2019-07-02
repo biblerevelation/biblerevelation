@@ -4,8 +4,7 @@ post_title: Believing Only
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/believing-only/
+permalink: /2015/12/believing-only/
 published: true
 post_date: 2015-12-22 18:32:41
 ---

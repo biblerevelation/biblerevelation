@@ -4,8 +4,7 @@ post_title: What is life to the body?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/life-to-the-body/
+permalink: /2014/09/life-to-the-body/
 published: true
 post_date: 2014-09-15 10:03:53
 ---

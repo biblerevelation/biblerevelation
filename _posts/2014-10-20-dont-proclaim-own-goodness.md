@@ -4,8 +4,7 @@ post_title: 'Don&#8217;t proclaim your own goodness'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/dont-proclaim-own-goodness/
+permalink: /2014/10/dont-proclaim-own-goodness/
 published: true
 post_date: 2014-10-20 15:59:11
 ---

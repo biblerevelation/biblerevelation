@@ -4,8 +4,7 @@ post_title: Increase in Learning
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/increase-learning/
+permalink: /2014/10/increase-learning/
 published: true
 post_date: 2014-10-16 11:21:47
 ---

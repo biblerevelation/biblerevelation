@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/learn-to-stop-where-jesus-stops/
+  /2015/09/learn-to-stop-where-jesus-stops/
 published: true
 post_date: 2015-09-04 13:45:43
 ---

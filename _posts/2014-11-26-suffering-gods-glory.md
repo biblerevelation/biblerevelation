@@ -4,8 +4,7 @@ post_title: Suffering for God’s Glory
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/suffering-gods-glory/
+permalink: /2014/11/suffering-gods-glory/
 published: true
 post_date: 2014-11-26 14:20:10
 ---

@@ -4,8 +4,7 @@ post_title: Who will prosper?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/who-will-prosper/
+permalink: /2014/09/who-will-prosper/
 published: true
 post_date: 2014-09-19 10:42:11
 ---

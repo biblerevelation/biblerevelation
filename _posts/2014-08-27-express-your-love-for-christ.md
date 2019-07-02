@@ -4,8 +4,7 @@ post_title: Express your love for Christ
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/08/express-your-love-for-christ/
+permalink: /2014/08/express-your-love-for-christ/
 published: true
 post_date: 2014-08-27 09:51:44
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/05/foolishness-of-the-message-preached-to-save-those-who-believe/
+  /2015/05/foolishness-of-the-message-preached-to-save-those-who-believe/
 published: true
 post_date: 2015-05-26 14:02:53
 ---

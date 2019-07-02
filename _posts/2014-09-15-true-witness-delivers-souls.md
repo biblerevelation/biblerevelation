@@ -4,8 +4,7 @@ post_title: A true witness delivers souls
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/true-witness-delivers-souls/
+permalink: /2014/09/true-witness-delivers-souls/
 published: true
 post_date: 2014-09-15 10:05:31
 ---

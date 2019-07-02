@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/jesus-didnt-come-in-sinful-flesh/
+  /2016/01/jesus-didnt-come-in-sinful-flesh/
 published: true
 post_date: 2016-01-21 18:15:19
 ---

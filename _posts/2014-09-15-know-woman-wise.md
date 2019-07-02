@@ -4,8 +4,7 @@ post_title: How to know if a woman is wise or not?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/know-woman-wise/
+permalink: /2014/09/know-woman-wise/
 published: true
 post_date: 2014-09-15 10:16:09
 ---

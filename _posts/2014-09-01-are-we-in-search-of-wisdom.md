@@ -4,8 +4,7 @@ post_title: Are we in search of wisdom?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/are-we-in-search-of-wisdom/
+permalink: /2014/09/are-we-in-search-of-wisdom/
 published: true
 post_date: 2014-09-01 14:56:55
 ---

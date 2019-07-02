@@ -4,8 +4,7 @@ post_title: Who finds favor?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/who-finds-favor/
+permalink: /2014/09/who-finds-favor/
 published: true
 post_date: 2014-09-11 09:24:25
 ---

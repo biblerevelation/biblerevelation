@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/woman-honor-dishonor-husband/
+permalink: /2014/09/woman-honor-dishonor-husband/
 published: true
 post_date: 2014-09-11 09:06:46
 ---

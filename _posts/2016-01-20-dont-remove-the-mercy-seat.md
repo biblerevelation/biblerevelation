@@ -4,8 +4,7 @@ post_title: 'Don&#8217;t remove the Mercy Seat'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/dont-remove-the-mercy-seat/
+permalink: /2016/01/dont-remove-the-mercy-seat/
 published: true
 post_date: 2016-01-20 18:04:07
 ---

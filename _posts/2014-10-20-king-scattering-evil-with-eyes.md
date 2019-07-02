@@ -4,8 +4,7 @@ post_title: King, scattering all evil with his eyes
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/king-scattering-evil-with-eyes/
+permalink: /2014/10/king-scattering-evil-with-eyes/
 published: true
 post_date: 2014-10-20 16:00:28
 ---

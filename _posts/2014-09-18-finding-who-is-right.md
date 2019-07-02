@@ -4,8 +4,7 @@ post_title: Finding who is right
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/finding-who-is-right/
+permalink: /2014/09/finding-who-is-right/
 published: true
 post_date: 2014-09-18 10:59:08
 ---

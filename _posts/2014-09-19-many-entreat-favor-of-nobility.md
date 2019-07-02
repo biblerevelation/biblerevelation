@@ -4,8 +4,7 @@ post_title: Many entreat the favor of the nobility
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/many-entreat-favor-of-nobility/
+permalink: /2014/09/many-entreat-favor-of-nobility/
 published: true
 post_date: 2014-09-19 09:59:50
 ---

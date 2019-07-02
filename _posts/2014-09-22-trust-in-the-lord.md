@@ -4,8 +4,7 @@ post_title: How your trust may be in the Lord?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/trust-in-the-lord/
+permalink: /2014/09/trust-in-the-lord/
 published: true
 post_date: 2014-09-22 09:09:03
 ---

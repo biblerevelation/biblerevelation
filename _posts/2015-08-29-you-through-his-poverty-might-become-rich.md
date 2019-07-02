@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/08/you-through-his-poverty-might-become-rich/
+  /2015/08/you-through-his-poverty-might-become-rich/
 published: true
 post_date: 2015-08-29 11:13:39
 ---

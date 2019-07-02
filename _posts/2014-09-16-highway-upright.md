@@ -4,8 +4,7 @@ post_title: What is the highway of the upright?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/highway-upright/
+permalink: /2014/09/highway-upright/
 published: true
 post_date: 2014-09-16 22:19:33
 ---

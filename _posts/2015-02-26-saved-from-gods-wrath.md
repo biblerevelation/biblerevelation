@@ -4,8 +4,7 @@ post_title: 'Saved from God&#8217;s wrath'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/saved-from-gods-wrath/
+permalink: /2015/02/saved-from-gods-wrath/
 published: true
 post_date: 2015-02-26 23:34:37
 ---

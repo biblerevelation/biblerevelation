@@ -4,8 +4,7 @@ post_title: Getting the sense of His presence
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/getting-sense-of-his-presence/
+permalink: /2014/11/getting-sense-of-his-presence/
 published: true
 post_date: 2014-11-03 13:30:15
 ---

@@ -4,8 +4,7 @@ post_title: 'Protection for God&#8217;s children'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/12/protection-gods-children/
+permalink: /2014/12/protection-gods-children/
 published: true
 post_date: 2014-12-02 13:49:37
 ---

@@ -4,8 +4,7 @@ post_title: Wealth makes many friends
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/wealth-makes-many-friends/
+permalink: /2014/09/wealth-makes-many-friends/
 published: true
 post_date: 2014-09-19 09:59:24
 ---

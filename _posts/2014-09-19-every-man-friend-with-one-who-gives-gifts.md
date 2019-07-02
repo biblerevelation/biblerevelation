@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/every-man-friend-with-one-who-gives-gifts/
+  /2014/09/every-man-friend-with-one-who-gives-gifts/
 published: true
 post_date: 2014-09-19 10:00:51
 ---

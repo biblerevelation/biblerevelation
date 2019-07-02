@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/clean-because-of-the-spoken-word/
+  /2015/06/clean-because-of-the-spoken-word/
 published: true
 post_date: 2015-06-30 22:29:14
 ---

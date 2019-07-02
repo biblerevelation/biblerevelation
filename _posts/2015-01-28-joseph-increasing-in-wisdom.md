@@ -4,8 +4,7 @@ post_title: Joseph increasing in Wisdom
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/joseph-increasing-in-wisdom/
+permalink: /2015/01/joseph-increasing-in-wisdom/
 published: true
 post_date: 2015-01-28 14:10:11
 ---

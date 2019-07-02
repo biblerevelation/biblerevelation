@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/01/transformation-on-beholding-jesus/
+  /2015/01/transformation-on-beholding-jesus/
 published: true
 post_date: 2015-01-03 00:29:40
 ---

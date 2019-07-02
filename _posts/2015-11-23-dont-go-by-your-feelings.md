@@ -4,8 +4,7 @@ post_title: 'Don&#8217;t go by your feelings'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/dont-go-by-your-feelings/
+permalink: /2015/11/dont-go-by-your-feelings/
 published: true
 post_date: 2015-11-23 23:29:07
 ---

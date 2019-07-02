@@ -4,8 +4,7 @@ post_title: Failure of Old Covenant
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/failure-of-old-covenant/
+permalink: /2014/03/failure-of-old-covenant/
 published: true
 post_date: 2014-03-31 16:06:56
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/gods-childrens-children-shall-be-delivered/
+  /2014/04/gods-childrens-children-shall-be-delivered/
 published: true
 post_date: 2014-04-10 13:53:41
 ---

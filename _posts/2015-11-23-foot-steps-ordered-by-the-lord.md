@@ -4,8 +4,7 @@ post_title: Our Foot Steps are Ordered by the Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/foot-steps-ordered-by-the-lord/
+permalink: /2015/11/foot-steps-ordered-by-the-lord/
 published: true
 post_date: 2015-11-23 23:02:25
 ---

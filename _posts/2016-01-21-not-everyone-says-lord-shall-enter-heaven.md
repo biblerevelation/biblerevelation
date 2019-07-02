@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/not-everyone-says-lord-shall-enter-heaven/
+  /2016/01/not-everyone-says-lord-shall-enter-heaven/
 published: true
 post_date: 2016-01-21 18:42:57
 ---

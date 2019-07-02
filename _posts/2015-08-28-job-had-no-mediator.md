@@ -4,8 +4,7 @@ post_title: Job had no mediator
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/08/job-had-no-mediator/
+permalink: /2015/08/job-had-no-mediator/
 published: true
 post_date: 2015-08-28 20:43:26
 ---

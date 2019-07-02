@@ -4,8 +4,7 @@ post_title: How a man has joy?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/man-has-joy/
+permalink: /2014/09/man-has-joy/
 published: true
 post_date: 2014-09-15 09:03:41
 ---

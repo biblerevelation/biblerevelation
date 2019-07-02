@@ -4,8 +4,7 @@ post_title: Galatians were deceived
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/galatians-were-deceived/
+permalink: /2015/12/galatians-were-deceived/
 published: true
 post_date: 2015-12-09 18:07:14
 ---

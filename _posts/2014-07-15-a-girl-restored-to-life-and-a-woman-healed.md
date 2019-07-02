@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/07/a-girl-restored-to-life-and-a-woman-healed/
+  /2014/07/a-girl-restored-to-life-and-a-woman-healed/
 published: true
 post_date: 2014-07-15 21:10:01
 ---

@@ -4,8 +4,7 @@ post_title: Saved from 7 Year Tribulation
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/saved-from-7-year-tribulation/
+permalink: /2015/02/saved-from-7-year-tribulation/
 published: true
 post_date: 2015-02-26 23:51:06
 ---

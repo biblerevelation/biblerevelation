@@ -4,8 +4,7 @@ post_title: 'Don&#8217;t assure any form of payment'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/dont-assure-payment/
+permalink: /2014/10/dont-assure-payment/
 published: true
 post_date: 2014-10-22 15:53:17
 ---

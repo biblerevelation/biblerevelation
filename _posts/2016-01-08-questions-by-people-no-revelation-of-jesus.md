@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/questions-by-people-no-revelation-of-jesus/
+  /2016/01/questions-by-people-no-revelation-of-jesus/
 published: true
 post_date: 2016-01-08 18:28:03
 ---

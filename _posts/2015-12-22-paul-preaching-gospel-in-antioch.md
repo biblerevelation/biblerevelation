@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/paul-preaching-gospel-in-antioch/
+  /2015/12/paul-preaching-gospel-in-antioch/
 published: true
 post_date: 2015-12-22 18:13:04
 ---

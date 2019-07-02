@@ -4,8 +4,7 @@ post_title: How your thoughts be established?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/thoughts-established/
+permalink: /2014/09/thoughts-established/
 published: true
 post_date: 2014-09-16 22:28:24
 ---

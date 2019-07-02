@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/will-become-weaker-age-increases-bible/
+  /2014/03/will-become-weaker-age-increases-bible/
 published: true
 post_date: 2014-03-13 17:45:49
 ---

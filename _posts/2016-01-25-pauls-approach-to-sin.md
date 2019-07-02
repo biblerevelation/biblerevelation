@@ -4,8 +4,7 @@ post_title: 'Paul&#8217;s Approach to sin'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/pauls-approach-to-sin/
+permalink: /2016/01/pauls-approach-to-sin/
 published: true
 post_date: 2016-01-25 18:40:00
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/jesus-became-poor-to-make-us-rich/
+  /2015/06/jesus-became-poor-to-make-us-rich/
 published: true
 post_date: 2015-06-30 22:24:45
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/alcohol-bites-like-serpent-stings-like-viper/
+  /2014/09/alcohol-bites-like-serpent-stings-like-viper/
 published: true
 post_date: 2014-09-23 09:39:47
 ---

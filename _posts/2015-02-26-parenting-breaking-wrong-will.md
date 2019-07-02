@@ -4,8 +4,7 @@ post_title: 'Parenting : breaking wrong will'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/parenting-breaking-wrong-will/
+permalink: /2015/02/parenting-breaking-wrong-will/
 published: true
 post_date: 2015-02-26 23:53:32
 ---

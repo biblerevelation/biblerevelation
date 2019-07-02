@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/02/david-and-solomon-a-type-of-christ/
+  /2015/02/david-and-solomon-a-type-of-christ/
 published: true
 post_date: 2015-02-11 21:13:29
 ---

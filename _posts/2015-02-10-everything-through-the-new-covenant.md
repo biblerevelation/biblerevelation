@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/02/everything-through-the-new-covenant/
+  /2015/02/everything-through-the-new-covenant/
 published: true
 post_date: 2015-02-10 01:11:28
 ---

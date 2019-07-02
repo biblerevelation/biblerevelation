@@ -4,8 +4,7 @@ post_title: Jesus revealing Himself to the blind
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/jesus-revealing-himself/
+permalink: /2014/10/jesus-revealing-himself/
 published: true
 post_date: 2014-10-31 14:07:13
 ---

@@ -4,8 +4,7 @@ post_title: First Question in the New Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/first-question-new-testament/
+permalink: /2014/10/first-question-new-testament/
 published: true
 post_date: 2014-10-31 13:44:27
 ---

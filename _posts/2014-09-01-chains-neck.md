@@ -4,8 +4,7 @@ post_title: What are chains about your neck? (Bible)
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/chains-neck/
+permalink: /2014/09/chains-neck/
 published: true
 post_date: 2014-09-01 15:11:36
 ---

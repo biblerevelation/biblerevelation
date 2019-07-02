@@ -4,8 +4,7 @@ post_title: Gospel is THE power
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/gospel-is-the-power/
+permalink: /2015/09/gospel-is-the-power/
 published: true
 post_date: 2015-09-24 18:59:25
 ---

@@ -4,8 +4,7 @@ post_title: Shadow and the Real Substance
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/shadow-and-the-real-substance/
+permalink: /2015/09/shadow-and-the-real-substance/
 published: true
 post_date: 2015-09-24 19:03:14
 ---

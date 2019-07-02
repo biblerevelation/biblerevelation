@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/do-not-associate-given-change/
+permalink: /2014/09/do-not-associate-given-change/
 published: true
 post_date: 2014-09-24 09:18:23
 ---

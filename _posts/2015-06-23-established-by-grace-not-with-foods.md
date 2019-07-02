@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/established-by-grace-not-with-foods/
+  /2015/06/established-by-grace-not-with-foods/
 published: true
 post_date: 2015-06-23 22:51:51
 ---

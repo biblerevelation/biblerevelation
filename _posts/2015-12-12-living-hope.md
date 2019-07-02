@@ -4,8 +4,7 @@ post_title: Living Hope
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/living-hope/
+permalink: /2015/12/living-hope/
 published: true
 post_date: 2015-12-12 09:29:35
 ---

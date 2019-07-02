@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/first-healing-jesus-divine-order/
+  /2015/11/first-healing-jesus-divine-order/
 published: true
 post_date: 2015-11-13 01:51:54
 ---

@@ -4,8 +4,7 @@ post_title: Law of Faith
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2017/10/law-of-faith/
+permalink: /2017/10/law-of-faith/
 published: true
 post_date: 2017-10-03 06:27:13
 ---

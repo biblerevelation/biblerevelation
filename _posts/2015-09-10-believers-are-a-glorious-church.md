@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/believers-are-a-glorious-church/
+  /2015/09/believers-are-a-glorious-church/
 published: true
 post_date: 2015-09-10 20:56:23
 ---

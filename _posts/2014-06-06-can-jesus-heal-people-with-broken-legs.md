@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/06/can-jesus-heal-people-with-broken-legs/
+  /2014/06/can-jesus-heal-people-with-broken-legs/
 published: true
 post_date: 2014-06-06 16:17:57
 ---

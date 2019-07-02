@@ -4,8 +4,7 @@ post_title: Who love death?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/who-love-death/
+permalink: /2014/10/who-love-death/
 published: true
 post_date: 2014-10-08 11:41:40
 ---

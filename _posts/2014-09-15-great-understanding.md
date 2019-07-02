@@ -4,8 +4,7 @@ post_title: Who has great understanding?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/great-understanding/
+permalink: /2014/09/great-understanding/
 published: true
 post_date: 2014-09-15 09:12:47
 ---

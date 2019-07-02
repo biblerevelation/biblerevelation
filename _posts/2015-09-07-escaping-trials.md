@@ -4,8 +4,7 @@ post_title: Escaping Trials
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/escaping-trials/
+permalink: /2015/09/escaping-trials/
 published: true
 post_date: 2015-09-07 12:41:17
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/posterity-righteous-will-be-delivered/
+  /2014/09/posterity-righteous-will-be-delivered/
 published: true
 post_date: 2014-09-11 09:25:51
 ---

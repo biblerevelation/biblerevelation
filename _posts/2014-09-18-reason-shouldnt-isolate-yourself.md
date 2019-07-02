@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/reason-shouldnt-isolate-yourself/
+  /2014/09/reason-shouldnt-isolate-yourself/
 published: true
 post_date: 2014-09-18 10:51:22
 ---

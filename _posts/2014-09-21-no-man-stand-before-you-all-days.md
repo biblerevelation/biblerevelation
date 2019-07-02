@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/no-man-stand-before-you-all-days/
+  /2014/09/no-man-stand-before-you-all-days/
 published: true
 post_date: 2014-09-21 10:16:28
 ---

@@ -4,8 +4,7 @@ post_title: I am not Ashamed of The Gospel
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/i-am-not-ashamed-of-the-gospel/
+permalink: /2015/11/i-am-not-ashamed-of-the-gospel/
 published: true
 post_date: 2015-11-11 00:42:03
 ---

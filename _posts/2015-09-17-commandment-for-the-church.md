@@ -4,8 +4,7 @@ post_title: Commandment for the Church
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/commandment-for-the-church/
+permalink: /2015/09/commandment-for-the-church/
 published: true
 post_date: 2015-09-17 21:17:21
 ---

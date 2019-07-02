@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/jesus-is-the-bath-who-makes-your-clean/
+  /2015/12/jesus-is-the-bath-who-makes-your-clean/
 published: true
 post_date: 2015-12-18 18:33:54
 ---

@@ -4,8 +4,7 @@ post_title: 'We can&#8217;t save ourselves'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/we-cant-save-ourselves/
+permalink: /2015/12/we-cant-save-ourselves/
 published: true
 post_date: 2015-12-17 18:30:22
 ---

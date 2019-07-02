@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/happy-heart-makes-face-cheerful/
+  /2014/09/happy-heart-makes-face-cheerful/
 published: true
 post_date: 2014-09-15 09:07:19
 ---

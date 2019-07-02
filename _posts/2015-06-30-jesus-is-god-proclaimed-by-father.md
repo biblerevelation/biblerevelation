@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/jesus-is-god-proclaimed-by-father/
+  /2015/06/jesus-is-god-proclaimed-by-father/
 published: true
 post_date: 2015-06-30 19:02:57
 ---

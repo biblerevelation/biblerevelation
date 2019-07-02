@@ -4,8 +4,7 @@ post_title: God SO loved the world
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/god-so-loved-the-world/
+permalink: /2015/02/god-so-loved-the-world/
 published: true
 post_date: 2015-02-10 00:52:14
 ---

@@ -4,8 +4,7 @@ post_title: What drives a person to labor?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/drives-person-labor/
+permalink: /2014/10/drives-person-labor/
 published: true
 post_date: 2014-10-16 11:23:59
 ---

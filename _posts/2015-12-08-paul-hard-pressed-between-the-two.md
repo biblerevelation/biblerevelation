@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/paul-hard-pressed-between-the-two/
+  /2015/12/paul-hard-pressed-between-the-two/
 published: true
 post_date: 2015-12-08 18:11:24
 ---

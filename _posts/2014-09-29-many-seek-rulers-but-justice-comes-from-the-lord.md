@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/many-seek-rulers-but-justice-comes-from-the-lord/
+  /2014/09/many-seek-rulers-but-justice-comes-from-the-lord/
 published: true
 post_date: 2014-09-29 11:15:44
 ---

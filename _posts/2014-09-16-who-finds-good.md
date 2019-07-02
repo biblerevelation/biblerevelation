@@ -4,8 +4,7 @@ post_title: Who finds good?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/who-finds-good/
+permalink: /2014/09/who-finds-good/
 published: true
 post_date: 2014-09-16 22:16:57
 ---

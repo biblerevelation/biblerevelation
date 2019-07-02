@@ -4,8 +4,7 @@ post_title: 'Righteous soul don&#8217;t famish'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/righteous-soul-dont-famish/
+permalink: /2014/09/righteous-soul-dont-famish/
 published: true
 post_date: 2014-09-10 14:50:13
 ---

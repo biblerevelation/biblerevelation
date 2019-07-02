@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/02/spirit-of-divination-makes-man-bigger-than-god/
+  /2016/02/spirit-of-divination-makes-man-bigger-than-god/
 published: true
 post_date: 2016-02-04 20:04:46
 ---

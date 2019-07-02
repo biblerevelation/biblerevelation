@@ -4,8 +4,7 @@ post_title: 'Youth renewed like the eagle&#8217;s'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/youth-renewed-like-eagles/
+permalink: /2014/06/youth-renewed-like-eagles/
 published: true
 post_date: 2014-06-06 12:39:36
 ---

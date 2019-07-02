@@ -4,8 +4,7 @@ post_title: Old Testament is a shadow
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/old-testament-shadow/
+permalink: /2015/06/old-testament-shadow/
 published: true
 post_date: 2015-06-30 22:07:54
 ---

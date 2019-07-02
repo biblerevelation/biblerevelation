@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/jesus-christ-endured-cross-for-our-joy/
+  /2014/03/jesus-christ-endured-cross-for-our-joy/
 published: true
 post_date: 2014-03-30 10:01:47
 ---

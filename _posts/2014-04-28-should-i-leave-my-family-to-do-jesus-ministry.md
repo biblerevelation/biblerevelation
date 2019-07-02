@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/should-i-leave-my-family-to-do-jesus-ministry/
+  /2014/04/should-i-leave-my-family-to-do-jesus-ministry/
 published: true
 post_date: 2014-04-28 16:12:34
 ---

@@ -4,8 +4,7 @@ post_title: Who is called schemer?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/who-is-called-schemer/
+permalink: /2014/09/who-is-called-schemer/
 published: true
 post_date: 2014-09-24 09:08:07
 ---

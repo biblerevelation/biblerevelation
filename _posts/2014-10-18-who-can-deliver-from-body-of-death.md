@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/who-can-deliver-from-body-of-death/
+  /2014/10/who-can-deliver-from-body-of-death/
 published: true
 post_date: 2014-10-18 20:48:41
 ---

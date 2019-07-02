@@ -4,8 +4,7 @@ post_title: Perverse man
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/perverse-man/
+permalink: /2014/10/perverse-man/
 published: true
 post_date: 2014-10-16 11:28:02
 ---

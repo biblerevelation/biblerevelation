@@ -4,8 +4,7 @@ post_title: Daughter of Abraham
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/daughter-of-abraham/
+permalink: /2015/09/daughter-of-abraham/
 published: true
 post_date: 2015-09-01 13:29:51
 ---

@@ -4,8 +4,7 @@ post_title: 5 Offerings in Old Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/5-offerings-in-old-testament/
+permalink: /2015/06/5-offerings-in-old-testament/
 published: true
 post_date: 2015-06-30 20:27:18
 ---

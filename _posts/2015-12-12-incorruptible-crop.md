@@ -4,8 +4,7 @@ post_title: Incorruptible Crop
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/incorruptible-crop/
+permalink: /2015/12/incorruptible-crop/
 published: true
 post_date: 2015-12-12 10:18:07
 ---

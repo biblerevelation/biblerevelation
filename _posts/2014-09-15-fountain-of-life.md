@@ -4,8 +4,7 @@ post_title: Fountain of life
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/fountain-of-life/
+permalink: /2014/09/fountain-of-life/
 published: true
 post_date: 2014-09-15 10:04:26
 ---

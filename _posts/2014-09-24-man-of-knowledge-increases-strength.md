@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/man-of-knowledge-increases-strength/
+  /2014/09/man-of-knowledge-increases-strength/
 published: true
 post_date: 2014-09-24 09:04:02
 ---

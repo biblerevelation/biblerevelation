@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/last-things-the-disciples-heard-from-jesus/
+  /2015/11/last-things-the-disciples-heard-from-jesus/
 published: true
 post_date: 2015-11-25 21:53:32
 ---

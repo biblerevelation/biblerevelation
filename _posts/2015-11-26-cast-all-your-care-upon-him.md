@@ -4,8 +4,7 @@ post_title: Why Cast all your care upon Him?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/cast-all-your-care-upon-him/
+permalink: /2015/11/cast-all-your-care-upon-him/
 published: true
 post_date: 2015-11-26 18:14:42
 ---

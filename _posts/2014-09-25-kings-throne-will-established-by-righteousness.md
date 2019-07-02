@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/kings-throne-will-established-by-righteousness/
+  /2014/09/kings-throne-will-established-by-righteousness/
 published: true
 post_date: 2014-09-25 09:03:27
 ---

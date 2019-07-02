@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/05/how-we-know-that-jesus-is-talking-with-us/
+  /2014/05/how-we-know-that-jesus-is-talking-with-us/
 published: true
 post_date: 2014-05-23 23:53:14
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/07/equal-access-through-jesus-blood/
+  /2015/07/equal-access-through-jesus-blood/
 published: true
 post_date: 2015-07-07 21:27:21
 ---

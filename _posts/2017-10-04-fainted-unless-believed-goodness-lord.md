@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2017/10/fainted-unless-believed-goodness-lord/
+  /2017/10/fainted-unless-believed-goodness-lord/
 published: true
 post_date: 2017-10-04 23:02:46
 ---

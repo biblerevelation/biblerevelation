@@ -4,8 +4,7 @@ post_title: 'Don&#8217;t sing songs to a heavy heart'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/dont-sing-songs-to-heavy-heart/
+permalink: /2014/09/dont-sing-songs-to-heavy-heart/
 published: true
 post_date: 2014-09-25 09:27:25
 ---

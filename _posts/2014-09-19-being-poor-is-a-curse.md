@@ -4,8 +4,7 @@ post_title: Being poor is a curse
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/being-poor-is-a-curse/
+permalink: /2014/09/being-poor-is-a-curse/
 published: true
 post_date: 2014-09-19 10:41:10
 ---

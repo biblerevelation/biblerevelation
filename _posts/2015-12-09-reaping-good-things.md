@@ -4,8 +4,7 @@ post_title: Reaping Good Things
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/reaping-good-things/
+permalink: /2015/12/reaping-good-things/
 published: true
 post_date: 2015-12-09 18:10:41
 ---

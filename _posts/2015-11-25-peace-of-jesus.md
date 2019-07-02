@@ -4,8 +4,7 @@ post_title: The Peace of Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/peace-of-jesus/
+permalink: /2015/11/peace-of-jesus/
 published: true
 post_date: 2015-11-25 23:13:04
 ---

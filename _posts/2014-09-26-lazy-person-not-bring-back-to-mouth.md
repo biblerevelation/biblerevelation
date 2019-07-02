@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/lazy-person-not-bring-back-to-mouth/
+  /2014/09/lazy-person-not-bring-back-to-mouth/
 published: true
 post_date: 2014-09-26 08:24:52
 ---

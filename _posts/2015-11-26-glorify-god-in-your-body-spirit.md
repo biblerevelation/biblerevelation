@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/glorify-god-in-your-body-spirit/
+  /2015/11/glorify-god-in-your-body-spirit/
 published: true
 post_date: 2015-11-26 18:09:49
 ---

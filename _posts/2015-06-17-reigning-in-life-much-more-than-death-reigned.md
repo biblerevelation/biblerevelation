@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/reigning-in-life-much-more-than-death-reigned/
+  /2015/06/reigning-in-life-much-more-than-death-reigned/
 published: true
 post_date: 2015-06-17 23:53:59
 ---

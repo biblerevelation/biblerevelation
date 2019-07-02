@@ -4,8 +4,7 @@ post_title: Bigger the loss, Bigger the restoration
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/bigger-loss-bigger-restoration/
+permalink: /2014/03/bigger-loss-bigger-restoration/
 published: true
 post_date: 2014-03-12 15:46:07
 ---

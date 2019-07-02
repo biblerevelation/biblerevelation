@@ -4,8 +4,7 @@ post_title: What stirs up strife?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/stirs-strife/
+permalink: /2014/09/stirs-strife/
 published: true
 post_date: 2014-09-10 14:47:03
 ---

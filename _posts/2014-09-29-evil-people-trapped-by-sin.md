@@ -4,8 +4,7 @@ post_title: Evil people are trapped by sin
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/evil-people-trapped-by-sin/
+permalink: /2014/09/evil-people-trapped-by-sin/
 published: true
 post_date: 2014-09-29 11:05:47
 ---

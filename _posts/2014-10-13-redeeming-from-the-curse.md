@@ -4,8 +4,7 @@ post_title: Redeeming from the curse
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/redeeming-from-the-curse/
+permalink: /2014/10/redeeming-from-the-curse/
 published: true
 post_date: 2014-10-13 13:27:10
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/03/people-are-destroyed-for-lack-of-knowledge/
+  /2015/03/people-are-destroyed-for-lack-of-knowledge/
 published: true
 post_date: 2015-03-14 08:02:25
 ---

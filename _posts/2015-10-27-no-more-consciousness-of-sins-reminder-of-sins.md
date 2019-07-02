@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/10/no-more-consciousness-of-sins-reminder-of-sins/
+  /2015/10/no-more-consciousness-of-sins-reminder-of-sins/
 published: true
 post_date: 2015-10-27 14:06:48
 ---

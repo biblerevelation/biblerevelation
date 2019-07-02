@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/you-also-will-be-cut-off-is-for-gentiles/
+  /2015/09/you-also-will-be-cut-off-is-for-gentiles/
 published: true
 post_date: 2015-09-16 20:50:23
 ---

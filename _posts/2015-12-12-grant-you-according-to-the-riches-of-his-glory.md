@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/grant-you-according-to-the-riches-of-his-glory/
+  /2015/12/grant-you-according-to-the-riches-of-his-glory/
 published: true
 post_date: 2015-12-12 01:16:39
 ---

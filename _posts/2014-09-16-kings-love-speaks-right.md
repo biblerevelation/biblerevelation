@@ -4,8 +4,7 @@ post_title: Kings love him who speaks what is right
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/kings-love-speaks-right/
+permalink: /2014/09/kings-love-speaks-right/
 published: true
 post_date: 2014-09-16 22:22:49
 ---

@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2018/11/without-defect-blameless-peace/
+permalink: /2018/11/without-defect-blameless-peace/
 published: true
 post_date: 2018-11-03 19:48:06
 ---

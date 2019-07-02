@@ -4,8 +4,7 @@ post_title: What causes contentions to cease?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/causes-contentions-cease/
+permalink: /2014/09/causes-contentions-cease/
 published: true
 post_date: 2014-09-18 10:59:35
 ---

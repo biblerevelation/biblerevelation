@@ -4,8 +4,7 @@ post_title: 'God&#8217;s blessings are irreversible'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/05/gods-blessings-irreversible/
+permalink: /2014/05/gods-blessings-irreversible/
 published: true
 post_date: 2014-05-13 11:48:13
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/importance-of-preaching-forgiveness-of-sins/
+  /2015/11/importance-of-preaching-forgiveness-of-sins/
 published: true
 post_date: 2015-11-22 02:58:09
 ---

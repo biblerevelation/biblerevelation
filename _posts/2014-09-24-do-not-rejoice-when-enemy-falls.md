@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/do-not-rejoice-when-enemy-falls/
+  /2014/09/do-not-rejoice-when-enemy-falls/
 published: true
 post_date: 2014-09-24 09:16:57
 ---

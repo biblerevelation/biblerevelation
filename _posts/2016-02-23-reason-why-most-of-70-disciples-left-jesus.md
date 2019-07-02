@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/02/reason-why-most-of-70-disciples-left-jesus/
+  /2016/02/reason-why-most-of-70-disciples-left-jesus/
 published: true
 post_date: 2016-02-23 18:09:08
 ---

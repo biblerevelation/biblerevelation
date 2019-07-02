@@ -4,8 +4,7 @@ post_title: Words of Wisdom are plain to who?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/words-wisdom-plain/
+permalink: /2014/09/words-wisdom-plain/
 published: true
 post_date: 2014-09-08 16:18:54
 ---

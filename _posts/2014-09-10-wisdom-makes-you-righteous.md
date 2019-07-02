@@ -4,8 +4,7 @@ post_title: Wisdom makes you righteous
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/wisdom-makes-you-righteous/
+permalink: /2014/09/wisdom-makes-you-righteous/
 published: true
 post_date: 2014-09-10 14:48:16
 ---

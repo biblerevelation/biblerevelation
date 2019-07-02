@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/blessing-loved-one-friend-acquaintances/
+  /2015/06/blessing-loved-one-friend-acquaintances/
 published: true
 post_date: 2015-06-30 22:22:57
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/07/jesus-speak-from-above-mercy-seat/
+  /2015/07/jesus-speak-from-above-mercy-seat/
 published: true
 post_date: 2015-07-07 13:40:28
 ---

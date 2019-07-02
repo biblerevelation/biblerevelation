@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/dont-rescue-hot-tempered-person/
+  /2014/09/dont-rescue-hot-tempered-person/
 published: true
 post_date: 2014-09-19 10:48:05
 ---

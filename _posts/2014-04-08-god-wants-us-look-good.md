@@ -4,8 +4,7 @@ post_title: God wants us to Look Good
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/god-wants-us-look-good/
+permalink: /2014/04/god-wants-us-look-good/
 published: true
 post_date: 2014-04-08 08:45:54
 ---

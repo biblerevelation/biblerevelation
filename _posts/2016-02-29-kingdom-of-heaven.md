@@ -4,8 +4,7 @@ post_title: Kingdom of Heaven
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/02/kingdom-of-heaven/
+permalink: /2016/02/kingdom-of-heaven/
 published: true
 post_date: 2016-02-29 18:59:51
 ---

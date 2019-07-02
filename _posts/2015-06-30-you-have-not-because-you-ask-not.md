@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/you-have-not-because-you-ask-not/
+  /2015/06/you-have-not-because-you-ask-not/
 published: true
 post_date: 2015-06-30 18:47:00
 ---

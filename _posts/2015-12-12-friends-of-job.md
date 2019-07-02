@@ -4,8 +4,7 @@ post_title: Friends of Job
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/friends-of-job/
+permalink: /2015/12/friends-of-job/
 published: true
 post_date: 2015-12-12 10:34:52
 ---

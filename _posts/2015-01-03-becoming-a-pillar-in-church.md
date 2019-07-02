@@ -4,8 +4,7 @@ post_title: Becoming a Pillar in the Church
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/becoming-a-pillar-in-church/
+permalink: /2015/01/becoming-a-pillar-in-church/
 published: true
 post_date: 2015-01-03 00:09:57
 ---

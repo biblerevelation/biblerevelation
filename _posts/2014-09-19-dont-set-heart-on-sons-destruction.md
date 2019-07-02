@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/dont-set-heart-on-sons-destruction/
+  /2014/09/dont-set-heart-on-sons-destruction/
 published: true
 post_date: 2014-09-19 10:47:02
 ---

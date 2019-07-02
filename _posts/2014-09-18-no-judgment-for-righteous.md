@@ -4,8 +4,7 @@ post_title: No judgment for the righteous
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/no-judgment-for-righteous/
+permalink: /2014/09/no-judgment-for-righteous/
 published: true
 post_date: 2014-09-18 10:54:16
 ---

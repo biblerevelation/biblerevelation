@@ -4,8 +4,7 @@ post_title: The whole counsel of God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/the-whole-counsel-of-god/
+permalink: /2015/12/the-whole-counsel-of-god/
 published: true
 post_date: 2015-12-02 18:04:04
 ---

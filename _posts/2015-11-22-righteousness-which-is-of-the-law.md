@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/righteousness-which-is-of-the-law/
+  /2015/11/righteousness-which-is-of-the-law/
 published: true
 post_date: 2015-11-22 02:33:00
 ---

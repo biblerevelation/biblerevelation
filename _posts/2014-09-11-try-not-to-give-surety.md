@@ -4,8 +4,7 @@ post_title: Try not to give surety
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/try-not-to-give-surety/
+permalink: /2014/09/try-not-to-give-surety/
 published: true
 post_date: 2014-09-11 09:28:35
 ---

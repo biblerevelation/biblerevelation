@@ -4,8 +4,7 @@ post_title: Escaping Valley of Shadow of Death
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/escaping-valley-shadow-death/
+permalink: /2014/03/escaping-valley-shadow-death/
 published: true
 post_date: 2014-03-19 15:37:07
 ---

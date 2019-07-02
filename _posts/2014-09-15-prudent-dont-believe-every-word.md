@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/prudent-dont-believe-every-word/
+  /2014/09/prudent-dont-believe-every-word/
 published: true
 post_date: 2014-09-15 10:08:36
 ---

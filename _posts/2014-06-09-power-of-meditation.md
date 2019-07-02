@@ -4,8 +4,7 @@ post_title: Power of Meditation
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/power-of-meditation/
+permalink: /2014/06/power-of-meditation/
 published: true
 post_date: 2014-06-09 13:00:49
 ---

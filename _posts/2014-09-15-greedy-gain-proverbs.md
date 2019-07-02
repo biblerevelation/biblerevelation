@@ -4,8 +4,7 @@ post_title: Greedy for gain in Proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/greedy-gain-proverbs/
+permalink: /2014/09/greedy-gain-proverbs/
 published: true
 post_date: 2014-09-15 09:01:30
 ---

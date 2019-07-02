@@ -4,8 +4,7 @@ post_title: How to be wise?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/how-to-be-wise/
+permalink: /2014/10/how-to-be-wise/
 published: true
 post_date: 2014-10-08 11:39:50
 ---

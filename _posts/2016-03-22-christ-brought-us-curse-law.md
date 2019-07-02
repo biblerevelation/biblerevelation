@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/03/christ-brought-us-curse-law/
+permalink: /2016/03/christ-brought-us-curse-law/
 published: true
 post_date: 2016-03-22 18:03:00
 ---

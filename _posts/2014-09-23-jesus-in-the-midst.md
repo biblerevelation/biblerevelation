@@ -4,8 +4,7 @@ post_title: Jesus in the Midst
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/jesus-in-the-midst/
+permalink: /2014/09/jesus-in-the-midst/
 published: true
 post_date: 2014-09-23 09:54:09
 ---

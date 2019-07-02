@@ -4,8 +4,7 @@ post_title: Do not be envious of evil men
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/do-not-envious-evil-men/
+permalink: /2014/09/do-not-envious-evil-men/
 published: true
 post_date: 2014-09-24 09:10:23
 ---

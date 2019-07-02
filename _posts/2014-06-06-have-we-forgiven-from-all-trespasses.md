@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/06/have-we-forgiven-from-all-trespasses/
+  /2014/06/have-we-forgiven-from-all-trespasses/
 published: true
 post_date: 2014-06-06 12:53:58
 ---

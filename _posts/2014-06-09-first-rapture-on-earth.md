@@ -4,8 +4,7 @@ post_title: First rapture on earth
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/first-rapture-on-earth/
+permalink: /2014/06/first-rapture-on-earth/
 published: true
 post_date: 2014-06-09 12:56:40
 ---

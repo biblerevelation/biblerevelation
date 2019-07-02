@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/lying-tongue-hates-who-are-crushed-by-it/
+  /2014/09/lying-tongue-hates-who-are-crushed-by-it/
 published: true
 post_date: 2014-09-26 10:49:22
 ---

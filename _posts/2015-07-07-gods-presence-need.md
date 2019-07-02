@@ -4,8 +4,7 @@ post_title: Gods Presence is all we need
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/gods-presence-need/
+permalink: /2015/07/gods-presence-need/
 published: true
 post_date: 2015-07-07 21:39:12
 ---

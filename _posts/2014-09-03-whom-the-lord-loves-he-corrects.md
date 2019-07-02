@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/whom-the-lord-loves-he-corrects/
+  /2014/09/whom-the-lord-loves-he-corrects/
 published: true
 post_date: 2014-09-03 09:19:40
 ---

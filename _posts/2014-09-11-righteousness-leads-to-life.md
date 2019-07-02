@@ -4,8 +4,7 @@ post_title: Righteousness leads to life
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/righteousness-leads-to-life/
+permalink: /2014/09/righteousness-leads-to-life/
 published: true
 post_date: 2014-09-11 09:18:52
 ---

@@ -4,8 +4,7 @@ post_title: Do not envy the oppressor
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/do-not-envy-oppressor/
+permalink: /2014/10/do-not-envy-oppressor/
 published: true
 post_date: 2014-10-03 10:35:28
 ---

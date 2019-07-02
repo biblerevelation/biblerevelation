@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/08/protection-in-knowing-the-father/
+  /2016/08/protection-in-knowing-the-father/
 published: true
 post_date: 2016-08-12 16:58:02
 ---

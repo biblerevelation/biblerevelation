@@ -4,8 +4,7 @@ post_title: I found No One
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/i-found-no-one/
+permalink: /2015/10/i-found-no-one/
 published: true
 post_date: 2015-10-26 14:19:29
 ---

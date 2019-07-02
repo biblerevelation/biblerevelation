@@ -4,8 +4,7 @@ post_title: Only one reason for your sickness
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/one-reason-for-your-sickness/
+permalink: /2015/06/one-reason-for-your-sickness/
 published: true
 post_date: 2015-06-23 22:42:20
 ---

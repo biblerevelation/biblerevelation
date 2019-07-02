@@ -4,8 +4,7 @@ post_title: Salvation
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/salvation/
+permalink: /2015/11/salvation/
 published: true
 post_date: 2015-11-04 14:50:22
 ---

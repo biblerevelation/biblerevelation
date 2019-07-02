@@ -4,8 +4,7 @@ post_title: God wants to hear your voice
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/god-wants-to-hear-your-voice/
+permalink: /2015/01/god-wants-to-hear-your-voice/
 published: true
 post_date: 2015-01-28 14:14:45
 ---

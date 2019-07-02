@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/whoever-loves-wisdom-makes-father-rejoice/
+  /2014/09/whoever-loves-wisdom-makes-father-rejoice/
 published: true
 post_date: 2014-09-29 11:18:13
 ---

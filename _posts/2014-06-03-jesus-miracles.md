@@ -4,8 +4,7 @@ post_title: Jesus Miracles
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/jesus-miracles/
+permalink: /2014/06/jesus-miracles/
 published: true
 post_date: 2014-06-03 14:01:47
 ---

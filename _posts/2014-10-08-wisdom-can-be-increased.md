@@ -4,8 +4,7 @@ post_title: Wisdom can be increased
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/wisdom-can-be-increased/
+permalink: /2014/10/wisdom-can-be-increased/
 published: true
 post_date: 2014-10-08 11:55:42
 ---

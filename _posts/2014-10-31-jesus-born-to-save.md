@@ -4,8 +4,7 @@ post_title: Jesus, born to save
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/jesus-born-to-save/
+permalink: /2014/10/jesus-born-to-save/
 published: true
 post_date: 2014-10-31 13:45:45
 ---

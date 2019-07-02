@@ -4,8 +4,7 @@ post_title: God Dwells where we Dwell
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/god-dwells-where-we-dwell/
+permalink: /2016/01/god-dwells-where-we-dwell/
 published: true
 post_date: 2016-01-21 18:18:46
 ---

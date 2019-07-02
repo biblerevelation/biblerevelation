@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/07/promise-for-casting-out-spirit-of-fear/
+  /2014/07/promise-for-casting-out-spirit-of-fear/
 published: true
 post_date: 2014-07-24 12:49:29
 ---

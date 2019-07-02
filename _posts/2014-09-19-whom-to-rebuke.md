@@ -4,8 +4,7 @@ post_title: Whom to rebuke?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/whom-to-rebuke/
+permalink: /2014/09/whom-to-rebuke/
 published: true
 post_date: 2014-09-19 10:50:44
 ---

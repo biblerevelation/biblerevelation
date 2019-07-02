@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2019/02/google-maps-israelites-wilderness-journey-suggestion/
+  /2019/02/google-maps-israelites-wilderness-journey-suggestion/
 published: true
 post_date: 2019-02-22 06:08:46
 ---

@@ -4,8 +4,7 @@ post_title: Church is a hospital
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/church-is-a-hospital/
+permalink: /2014/10/church-is-a-hospital/
 published: true
 post_date: 2014-10-21 10:33:58
 ---

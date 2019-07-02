@@ -4,8 +4,7 @@ post_title: What breaks faith and spirit?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/what-breaks-faith-and-spirit/
+permalink: /2015/02/what-breaks-faith-and-spirit/
 published: true
 post_date: 2015-02-27 00:11:48
 ---

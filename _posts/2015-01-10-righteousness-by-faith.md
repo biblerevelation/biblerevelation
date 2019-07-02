@@ -4,8 +4,7 @@ post_title: Righteousness by Faith
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/righteousness-by-faith/
+permalink: /2015/01/righteousness-by-faith/
 published: true
 post_date: 2015-01-10 12:06:56
 ---

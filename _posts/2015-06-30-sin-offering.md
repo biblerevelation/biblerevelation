@@ -4,8 +4,7 @@ post_title: Sin Offering
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/sin-offering/
+permalink: /2015/06/sin-offering/
 published: true
 post_date: 2015-06-30 20:23:08
 ---

@@ -4,8 +4,7 @@ post_title: What brings us before great men?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/brings-us-before-great-men/
+permalink: /2014/09/brings-us-before-great-men/
 published: true
 post_date: 2014-09-18 10:57:15
 ---

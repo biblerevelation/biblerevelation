@@ -4,8 +4,7 @@ post_title: How to retain honor?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/retain-honor/
+permalink: /2014/09/retain-honor/
 published: true
 post_date: 2014-09-29 11:13:49
 ---

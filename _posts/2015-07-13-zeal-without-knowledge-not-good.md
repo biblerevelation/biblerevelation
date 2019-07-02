@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/07/zeal-without-knowledge-not-good/
+  /2015/07/zeal-without-knowledge-not-good/
 published: true
 post_date: 2015-07-13 19:11:38
 ---

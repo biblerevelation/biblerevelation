@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/06/why-bread-and-wine-in-holy-communion/
+  /2014/06/why-bread-and-wine-in-holy-communion/
 published: true
 post_date: 2014-06-12 13:48:36
 ---

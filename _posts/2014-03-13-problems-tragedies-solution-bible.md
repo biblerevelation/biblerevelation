@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/problems-tragedies-solution-bible/
+  /2014/03/problems-tragedies-solution-bible/
 published: true
 post_date: 2014-03-13 17:55:14
 ---

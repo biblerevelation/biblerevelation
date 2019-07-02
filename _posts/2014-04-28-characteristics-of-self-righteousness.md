@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/characteristics-of-self-righteousness/
+  /2014/04/characteristics-of-self-righteousness/
 published: true
 post_date: 2014-04-28 15:30:34
 ---

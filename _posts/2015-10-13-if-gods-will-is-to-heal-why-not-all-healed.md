@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/10/if-gods-will-is-to-heal-why-not-all-healed/
+  /2015/10/if-gods-will-is-to-heal-why-not-all-healed/
 published: true
 post_date: 2015-10-13 22:11:56
 ---

@@ -4,8 +4,7 @@ post_title: Curse without cause shall not alight
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/curse-without-cause-not-alight/
+permalink: /2014/09/curse-without-cause-not-alight/
 published: true
 post_date: 2014-09-26 10:35:35
 ---

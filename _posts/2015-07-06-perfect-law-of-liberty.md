@@ -4,8 +4,7 @@ post_title: Perfect Law of Liberty
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/perfect-law-of-liberty/
+permalink: /2015/07/perfect-law-of-liberty/
 published: true
 post_date: 2015-07-06 14:16:19
 ---

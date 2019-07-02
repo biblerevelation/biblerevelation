@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/man-wise-in-his-eyes-worst-than-fools/
+  /2014/09/man-wise-in-his-eyes-worst-than-fools/
 published: true
 post_date: 2014-09-26 10:41:12
 ---

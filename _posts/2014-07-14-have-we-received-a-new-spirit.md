@@ -4,8 +4,7 @@ post_title: Have we received a new spirit?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/07/have-we-received-a-new-spirit/
+permalink: /2014/07/have-we-received-a-new-spirit/
 published: true
 post_date: 2014-07-14 13:14:28
 ---

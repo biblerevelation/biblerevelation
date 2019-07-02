@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/07/biblical-hope-does-not-disappoint/
+  /2014/07/biblical-hope-does-not-disappoint/
 published: true
 post_date: 2014-07-17 09:53:44
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/01/curse-on-preaching-other-gospel/
+  /2015/01/curse-on-preaching-other-gospel/
 published: true
 post_date: 2015-01-26 04:53:30
 ---

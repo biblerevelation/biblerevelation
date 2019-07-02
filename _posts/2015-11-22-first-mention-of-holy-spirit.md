@@ -4,8 +4,7 @@ post_title: First Mention of Holy Spirit
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/first-mention-of-holy-spirit/
+permalink: /2015/11/first-mention-of-holy-spirit/
 published: true
 post_date: 2015-11-22 02:49:40
 ---

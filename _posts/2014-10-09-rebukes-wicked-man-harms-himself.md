@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/rebukes-wicked-man-harms-himself/
+  /2014/10/rebukes-wicked-man-harms-himself/
 published: true
 post_date: 2014-10-09 10:50:25
 ---

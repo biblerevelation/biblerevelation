@@ -4,8 +4,7 @@ post_title: 'Devil&#8217;s plan of creating doubt'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/06/devils-plan-of-creating-doubt/
+permalink: /2016/06/devils-plan-of-creating-doubt/
 published: true
 post_date: 2016-06-01 22:47:47
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/god-constantly-working-miracles-in-us/
+  /2015/11/god-constantly-working-miracles-in-us/
 published: true
 post_date: 2015-11-23 23:19:56
 ---

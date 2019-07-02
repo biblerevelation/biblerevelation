@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/gods-priority-on-redemption-compared-to-creation/
+  /2015/09/gods-priority-on-redemption-compared-to-creation/
 published: true
 post_date: 2015-09-09 14:08:40
 ---

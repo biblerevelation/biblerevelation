@@ -4,8 +4,7 @@ post_title: Probelm would obey you
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/02/probelm-would-obey-you/
+permalink: /2016/02/probelm-would-obey-you/
 published: true
 post_date: 2016-02-26 18:57:29
 ---

@@ -4,8 +4,7 @@ post_title: How you abide in Jesus?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/05/how-you-abide-in-jesus/
+permalink: /2014/05/how-you-abide-in-jesus/
 published: true
 post_date: 2014-05-12 14:18:40
 ---

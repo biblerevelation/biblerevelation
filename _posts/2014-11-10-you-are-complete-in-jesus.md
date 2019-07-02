@@ -4,8 +4,7 @@ post_title: You are complete in Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/you-are-complete-in-jesus/
+permalink: /2014/11/you-are-complete-in-jesus/
 published: true
 post_date: 2014-11-10 14:39:31
 ---

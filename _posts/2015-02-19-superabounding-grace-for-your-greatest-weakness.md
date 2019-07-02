@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/02/superabounding-grace-for-your-greatest-weakness/
+  /2015/02/superabounding-grace-for-your-greatest-weakness/
 published: true
 post_date: 2015-02-19 02:06:53
 ---

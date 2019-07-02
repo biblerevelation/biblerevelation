@@ -4,8 +4,7 @@ post_title: Surely God is with You
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/surely-god-is-with-you/
+permalink: /2015/11/surely-god-is-with-you/
 published: true
 post_date: 2015-11-17 18:37:06
 ---

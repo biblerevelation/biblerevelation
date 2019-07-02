@@ -4,8 +4,7 @@ post_title: Do not eat the bread of a miser
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/do-not-eat-bread-of-miser/
+permalink: /2014/09/do-not-eat-bread-of-miser/
 published: true
 post_date: 2014-09-23 09:37:47
 ---

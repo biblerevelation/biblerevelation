@@ -4,8 +4,7 @@ post_title: Restraining Lips is Wisdom
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/restraining-lips-wisdom/
+permalink: /2014/09/restraining-lips-wisdom/
 published: true
 post_date: 2014-09-10 14:44:56
 ---

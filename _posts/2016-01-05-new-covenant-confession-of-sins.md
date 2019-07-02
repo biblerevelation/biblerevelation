@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/new-covenant-confession-of-sins/
+  /2016/01/new-covenant-confession-of-sins/
 published: true
 post_date: 2016-01-05 18:07:05
 ---

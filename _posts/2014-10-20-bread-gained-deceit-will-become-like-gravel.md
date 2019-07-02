@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/bread-gained-deceit-will-become-like-gravel/
+  /2014/10/bread-gained-deceit-will-become-like-gravel/
 published: true
 post_date: 2014-10-20 16:08:54
 ---

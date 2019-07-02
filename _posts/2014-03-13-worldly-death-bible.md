@@ -4,8 +4,7 @@ post_title: Worldly Death? (Bible)
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/worldly-death-bible/
+permalink: /2014/03/worldly-death-bible/
 published: true
 post_date: 2014-03-13 17:21:37
 ---

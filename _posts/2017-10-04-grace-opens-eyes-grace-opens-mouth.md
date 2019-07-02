@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2017/10/grace-opens-eyes-grace-opens-mouth/
+  /2017/10/grace-opens-eyes-grace-opens-mouth/
 published: true
 post_date: 2017-10-04 22:54:05
 ---

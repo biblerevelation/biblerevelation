@@ -4,8 +4,7 @@ post_title: God initiates
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/12/god-initiates/
+permalink: /2014/12/god-initiates/
 published: true
 post_date: 2014-12-10 14:43:48
 ---

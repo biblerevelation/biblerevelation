@@ -4,8 +4,7 @@ post_title: 'Who&#8217;s food are deceptive?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/whos-food-deceptive/
+permalink: /2014/09/whos-food-deceptive/
 published: true
 post_date: 2014-09-23 09:38:15
 ---

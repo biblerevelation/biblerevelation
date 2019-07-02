@@ -4,8 +4,7 @@ post_title: Wisdom in Holy Communion
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/wisdom-holy-communion/
+permalink: /2014/09/wisdom-holy-communion/
 published: true
 post_date: 2014-09-09 08:38:04
 ---

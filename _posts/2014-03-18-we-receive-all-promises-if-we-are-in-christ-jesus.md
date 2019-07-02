@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/we-receive-all-promises-if-we-are-in-christ-jesus/
+  /2014/03/we-receive-all-promises-if-we-are-in-christ-jesus/
 published: true
 post_date: 2014-03-18 14:22:21
 ---

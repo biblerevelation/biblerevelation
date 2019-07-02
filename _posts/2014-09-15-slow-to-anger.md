@@ -4,8 +4,7 @@ post_title: Slow to anger
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/slow-to-anger/
+permalink: /2014/09/slow-to-anger/
 published: true
 post_date: 2014-09-15 09:04:12
 ---

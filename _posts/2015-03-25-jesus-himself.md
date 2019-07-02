@@ -4,8 +4,7 @@ post_title: 'Jesus &#8220;Himself&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/03/jesus-himself/
+permalink: /2015/03/jesus-himself/
 published: true
 post_date: 2015-03-25 13:51:29
 ---

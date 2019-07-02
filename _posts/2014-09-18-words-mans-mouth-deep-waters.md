@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/words-mans-mouth-deep-waters/
+permalink: /2014/09/words-mans-mouth-deep-waters/
 published: true
 post_date: 2014-09-18 10:53:19
 ---

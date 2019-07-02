@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/kings-throne-established-righteousness/
+  /2014/09/kings-throne-established-righteousness/
 published: true
 post_date: 2014-09-16 22:23:39
 ---

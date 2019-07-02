@@ -4,8 +4,7 @@ post_title: No more consciousness of sins
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/no-more-consciousness-of-sins/
+permalink: /2015/01/no-more-consciousness-of-sins/
 published: true
 post_date: 2015-01-31 12:04:43
 ---

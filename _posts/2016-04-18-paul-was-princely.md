@@ -4,8 +4,7 @@ post_title: Paul was Princely
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/paul-was-princely/
+permalink: /2016/04/paul-was-princely/
 published: true
 post_date: 2016-04-18 18:30:34
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/all-have-fall-short-of-the-glory-of-god/
+  /2015/11/all-have-fall-short-of-the-glory-of-god/
 published: true
 post_date: 2015-11-11 00:42:19
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/05/self-righteousness-doesnt-provides-fruit/
+  /2014/05/self-righteousness-doesnt-provides-fruit/
 published: true
 post_date: 2014-05-10 04:09:55
 ---

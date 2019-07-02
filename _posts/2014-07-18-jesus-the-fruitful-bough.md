@@ -4,8 +4,7 @@ post_title: Jesus, the fruitful bough
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/07/jesus-the-fruitful-bough/
+permalink: /2014/07/jesus-the-fruitful-bough/
 published: true
 post_date: 2014-07-18 22:59:42
 ---

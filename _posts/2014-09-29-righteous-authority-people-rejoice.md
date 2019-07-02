@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/righteous-authority-people-rejoice/
+  /2014/09/righteous-authority-people-rejoice/
 published: true
 post_date: 2014-09-29 10:52:41
 ---

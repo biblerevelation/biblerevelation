@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/how-you-being-filled-with-the-spirit/
+  /2014/04/how-you-being-filled-with-the-spirit/
 published: true
 post_date: 2014-04-30 10:57:28
 ---

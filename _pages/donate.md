@@ -4,7 +4,7 @@ post_title: Donate
 author: Praison
 post_excerpt: ""
 layout: page
-permalink: https://biblerevelation.org/donate/
+permalink: /donate/
 published: true
 post_date: 2015-11-04 11:32:18
 ---

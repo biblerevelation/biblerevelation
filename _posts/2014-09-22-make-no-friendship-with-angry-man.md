@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/make-no-friendship-with-angry-man/
+  /2014/09/make-no-friendship-with-angry-man/
 published: true
 post_date: 2014-09-22 09:10:59
 ---

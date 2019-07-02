@@ -4,8 +4,7 @@ post_title: Supernatural Miracles in Bible
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/08/supernatural-miracles-in-bible/
+permalink: /2015/08/supernatural-miracles-in-bible/
 published: true
 post_date: 2015-08-19 11:15:12
 ---

@@ -4,8 +4,7 @@ post_title: Let His enemies be scattered
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/let-enemies-scattered/
+permalink: /2014/10/let-enemies-scattered/
 published: true
 post_date: 2014-10-07 11:31:51
 ---

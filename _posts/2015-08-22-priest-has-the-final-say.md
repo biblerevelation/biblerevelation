@@ -4,8 +4,7 @@ post_title: Priest has the final say
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/08/priest-has-the-final-say/
+permalink: /2015/08/priest-has-the-final-say/
 published: true
 post_date: 2015-08-22 17:06:30
 ---

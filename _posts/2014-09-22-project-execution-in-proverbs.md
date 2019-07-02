@@ -4,8 +4,7 @@ post_title: Project Execution in Proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/project-execution-in-proverbs/
+permalink: /2014/09/project-execution-in-proverbs/
 published: true
 post_date: 2014-09-22 10:42:27
 ---

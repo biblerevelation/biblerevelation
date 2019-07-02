@@ -4,8 +4,7 @@ post_title: You are a king priest
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/you-are-a-king-priest/
+permalink: /2016/04/you-are-a-king-priest/
 published: true
 post_date: 2016-04-15 18:13:51
 ---

@@ -4,8 +4,7 @@ post_title: Who is better than the mighty?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/better-than-mighty/
+permalink: /2014/10/better-than-mighty/
 published: true
 post_date: 2014-10-16 14:48:26
 ---

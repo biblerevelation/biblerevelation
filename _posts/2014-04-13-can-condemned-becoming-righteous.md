@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/can-condemned-becoming-righteous/
+  /2014/04/can-condemned-becoming-righteous/
 published: true
 post_date: 2014-04-13 10:18:07
 ---

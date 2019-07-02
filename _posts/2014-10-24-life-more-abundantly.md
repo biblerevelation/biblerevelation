@@ -4,8 +4,7 @@ post_title: Life more Abundantly
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/life-more-abundantly/
+permalink: /2014/10/life-more-abundantly/
 published: true
 post_date: 2014-10-24 13:32:26
 ---

@@ -4,8 +4,7 @@ post_title: Better we Sit, Better we Walk
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/better-we-sit-better-we-walk/
+permalink: /2015/11/better-we-sit-better-we-walk/
 published: true
 post_date: 2015-11-22 02:38:44
 ---

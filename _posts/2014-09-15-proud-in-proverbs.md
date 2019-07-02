@@ -4,8 +4,7 @@ post_title: Proud in Proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/proud-in-proverbs/
+permalink: /2014/09/proud-in-proverbs/
 published: true
 post_date: 2014-09-15 09:02:02
 ---

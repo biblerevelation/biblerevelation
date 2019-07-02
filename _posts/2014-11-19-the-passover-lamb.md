@@ -4,8 +4,7 @@ post_title: The Passover Lamb
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/the-passover-lamb/
+permalink: /2014/11/the-passover-lamb/
 published: true
 post_date: 2014-11-19 15:40:03
 ---

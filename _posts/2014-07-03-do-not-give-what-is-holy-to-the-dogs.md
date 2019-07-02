@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/07/do-not-give-what-is-holy-to-the-dogs/
+  /2014/07/do-not-give-what-is-holy-to-the-dogs/
 published: true
 post_date: 2014-07-03 16:33:23
 ---

@@ -4,8 +4,7 @@ post_title: How to keep you away from seductress?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/keep-away-from-seductress/
+permalink: /2014/10/keep-away-from-seductress/
 published: true
 post_date: 2014-10-07 11:16:23
 ---

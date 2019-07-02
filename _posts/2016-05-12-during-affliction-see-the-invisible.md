@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/05/during-affliction-see-the-invisible/
+  /2016/05/during-affliction-see-the-invisible/
 published: true
 post_date: 2016-05-12 06:58:04
 ---

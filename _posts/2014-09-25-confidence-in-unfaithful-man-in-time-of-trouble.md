@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/confidence-in-unfaithful-man-in-time-of-trouble/
+  /2014/09/confidence-in-unfaithful-man-in-time-of-trouble/
 published: true
 post_date: 2014-09-25 09:26:55
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/11/god-also-bearing-witness-with-signs-wonders/
+  /2014/11/god-also-bearing-witness-with-signs-wonders/
 published: true
 post_date: 2014-11-02 11:44:32
 ---

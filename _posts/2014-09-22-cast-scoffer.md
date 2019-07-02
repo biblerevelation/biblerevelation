@@ -4,8 +4,7 @@ post_title: Why we should Cast out the scoffer?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/cast-scoffer/
+permalink: /2014/09/cast-scoffer/
 published: true
 post_date: 2014-09-22 09:05:07
 ---

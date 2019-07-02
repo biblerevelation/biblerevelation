@@ -4,8 +4,7 @@ post_title: Are you Selfish?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/are-you-selfish/
+permalink: /2016/04/are-you-selfish/
 published: true
 post_date: 2016-04-11 21:13:17
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/05/solution-to-decrease-others-anger/
+  /2015/05/solution-to-decrease-others-anger/
 published: true
 post_date: 2015-05-24 22:21:35
 ---

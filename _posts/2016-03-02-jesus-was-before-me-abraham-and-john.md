@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/03/jesus-was-before-me-abraham-and-john/
+  /2016/03/jesus-was-before-me-abraham-and-john/
 published: true
 post_date: 2016-03-02 18:08:45
 ---

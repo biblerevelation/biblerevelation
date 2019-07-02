@@ -4,8 +4,7 @@ post_title: My cup runs over
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/08/my-cup-runs-over-2/
+permalink: /2016/08/my-cup-runs-over-2/
 published: true
 post_date: 2016-08-11 07:35:54
 ---

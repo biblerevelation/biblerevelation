@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/backbiting-tongue-angry-countenance/
+  /2014/09/backbiting-tongue-angry-countenance/
 published: true
 post_date: 2014-09-25 09:28:14
 ---

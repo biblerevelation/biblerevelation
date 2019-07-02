@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/life-winds-upward-wise/
+permalink: /2014/09/life-winds-upward-wise/
 published: true
 post_date: 2014-09-15 09:02:59
 ---

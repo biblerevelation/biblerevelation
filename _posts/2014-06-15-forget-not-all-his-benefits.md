@@ -4,8 +4,7 @@ post_title: 'Forget Not &#8220;ALL&#8221; His benefits'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/forget-not-all-his-benefits/
+permalink: /2014/06/forget-not-all-his-benefits/
 published: true
 post_date: 2014-06-15 11:27:52
 ---

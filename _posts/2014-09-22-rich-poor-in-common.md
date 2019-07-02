@@ -4,8 +4,7 @@ post_title: What rich and poor have in common?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/rich-poor-in-common/
+permalink: /2014/09/rich-poor-in-common/
 published: true
 post_date: 2014-09-22 09:01:45
 ---

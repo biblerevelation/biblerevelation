@@ -4,8 +4,7 @@ post_title: What will be the hope of the righteous?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/hope-of-righteous/
+permalink: /2014/09/hope-of-righteous/
 published: true
 post_date: 2014-09-10 11:38:33
 ---

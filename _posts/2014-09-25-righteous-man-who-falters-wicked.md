@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/righteous-man-who-falters-wicked/
+  /2014/09/righteous-man-who-falters-wicked/
 published: true
 post_date: 2014-09-25 09:30:47
 ---

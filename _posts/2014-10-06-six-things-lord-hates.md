@@ -4,8 +4,7 @@ post_title: Six things the Lord hates
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/six-things-lord-hates/
+permalink: /2014/10/six-things-lord-hates/
 published: true
 post_date: 2014-10-06 14:42:14
 ---

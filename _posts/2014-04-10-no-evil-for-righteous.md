@@ -4,8 +4,7 @@ post_title: NO Evil for the Righteous
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/no-evil-for-righteous/
+permalink: /2014/04/no-evil-for-righteous/
 published: true
 post_date: 2014-04-10 13:40:00
 ---

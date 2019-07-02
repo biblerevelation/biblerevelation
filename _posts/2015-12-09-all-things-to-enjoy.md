@@ -4,8 +4,7 @@ post_title: All Things to Enjoy!
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/all-things-to-enjoy/
+permalink: /2015/12/all-things-to-enjoy/
 published: true
 post_date: 2015-12-09 18:18:13
 ---

@@ -4,8 +4,7 @@ post_title: How Abraham received blessings?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/12/abraham-received-blessings/
+permalink: /2014/12/abraham-received-blessings/
 published: true
 post_date: 2014-12-01 14:57:49
 ---

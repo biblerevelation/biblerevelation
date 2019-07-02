@@ -4,8 +4,7 @@ post_title: Basis of Healing
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/basis-of-healing/
+permalink: /2016/04/basis-of-healing/
 published: true
 post_date: 2016-04-27 18:27:36
 ---

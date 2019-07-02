@@ -4,8 +4,7 @@ post_title: '&#8220;Sin&#8221; in the Book of Romans'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/06/sin-book-romans/
+permalink: /2016/06/sin-book-romans/
 published: true
 post_date: 2016-06-01 23:23:59
 ---

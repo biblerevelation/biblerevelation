@@ -4,8 +4,7 @@ post_title: Lamp of the Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/lamp-of-the-lord/
+permalink: /2014/10/lamp-of-the-lord/
 published: true
 post_date: 2014-10-20 16:13:46
 ---

@@ -4,8 +4,7 @@ post_title: Abide in Jesus and bear fruit
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/abide-jesus-bear-fruit/
+permalink: /2015/06/abide-jesus-bear-fruit/
 published: true
 post_date: 2015-06-30 22:36:01
 ---

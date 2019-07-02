@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/authority-over-earth-given-to-men/
+  /2015/11/authority-over-earth-given-to-men/
 published: true
 post_date: 2015-11-06 14:42:45
 ---

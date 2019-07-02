@@ -4,8 +4,7 @@ post_title: Foolishness of Preaching
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/foolishness-of-preaching/
+permalink: /2014/06/foolishness-of-preaching/
 published: true
 post_date: 2014-06-06 14:12:54
 ---

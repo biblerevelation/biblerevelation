@@ -4,8 +4,7 @@ post_title: Solving PHYSICAL hunger (Bible)
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/solving-physical-hunger-bible/
+permalink: /2014/03/solving-physical-hunger-bible/
 published: true
 post_date: 2014-03-12 15:49:41
 ---

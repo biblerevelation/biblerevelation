@@ -4,8 +4,7 @@ post_title: Greater than any Priests
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/greater-than-any-priests/
+permalink: /2015/09/greater-than-any-priests/
 published: true
 post_date: 2015-09-02 13:27:21
 ---

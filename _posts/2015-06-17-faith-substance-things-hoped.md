@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/faith-substance-things-hoped/
+permalink: /2015/06/faith-substance-things-hoped/
 published: true
 post_date: 2015-06-17 23:43:23
 ---

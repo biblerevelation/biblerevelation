@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/favor-esteem-sight-of-god-man/
+permalink: /2014/10/favor-esteem-sight-of-god-man/
 published: true
 post_date: 2014-10-03 08:33:20
 ---

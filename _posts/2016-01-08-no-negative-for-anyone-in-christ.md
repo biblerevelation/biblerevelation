@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/no-negative-for-anyone-in-christ/
+  /2016/01/no-negative-for-anyone-in-christ/
 published: true
 post_date: 2016-01-08 18:02:36
 ---

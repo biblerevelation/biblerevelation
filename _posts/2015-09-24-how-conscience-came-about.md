@@ -4,8 +4,7 @@ post_title: How conscience came about?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/how-conscience-came-about/
+permalink: /2015/09/how-conscience-came-about/
 published: true
 post_date: 2015-09-24 18:16:31
 ---

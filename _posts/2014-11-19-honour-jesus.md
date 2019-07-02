@@ -4,8 +4,7 @@ post_title: How you Honour Jesus?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/honour-jesus/
+permalink: /2014/11/honour-jesus/
 published: true
 post_date: 2014-11-19 15:25:23
 ---

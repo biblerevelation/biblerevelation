@@ -4,8 +4,7 @@ post_title: Fool in Proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/fool-in-proverbs/
+permalink: /2014/09/fool-in-proverbs/
 published: true
 post_date: 2014-09-26 10:39:17
 ---

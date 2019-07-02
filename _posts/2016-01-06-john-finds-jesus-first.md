@@ -4,8 +4,7 @@ post_title: John finds Jesus first
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/john-finds-jesus-first/
+permalink: /2016/01/john-finds-jesus-first/
 published: true
 post_date: 2016-01-06 18:04:27
 ---

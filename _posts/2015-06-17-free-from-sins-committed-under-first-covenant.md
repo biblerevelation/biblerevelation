@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/free-from-sins-committed-under-first-covenant/
+  /2015/06/free-from-sins-committed-under-first-covenant/
 published: true
 post_date: 2015-06-17 23:12:57
 ---

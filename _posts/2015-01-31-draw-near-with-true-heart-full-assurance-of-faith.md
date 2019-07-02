@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/01/draw-near-with-true-heart-full-assurance-of-faith/
+  /2015/01/draw-near-with-true-heart-full-assurance-of-faith/
 published: true
 post_date: 2015-01-31 12:02:46
 ---

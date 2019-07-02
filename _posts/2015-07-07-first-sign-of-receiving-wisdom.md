@@ -4,8 +4,7 @@ post_title: First sign of receiving wisdom
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/first-sign-of-receiving-wisdom/
+permalink: /2015/07/first-sign-of-receiving-wisdom/
 published: true
 post_date: 2015-07-07 21:34:23
 ---

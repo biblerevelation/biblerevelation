@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/jesus-meet-you-mercy-seat/
+permalink: /2015/07/jesus-meet-you-mercy-seat/
 published: true
 post_date: 2015-07-07 13:38:00
 ---

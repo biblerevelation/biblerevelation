@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/08/the-spirit-gives-life-to-your-mortal-bodies/
+  /2016/08/the-spirit-gives-life-to-your-mortal-bodies/
 published: true
 post_date: 2016-08-12 18:01:30
 ---

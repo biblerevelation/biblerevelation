@@ -4,8 +4,7 @@ post_title: Let the Lord build the House
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2017/10/let-lord-build-house/
+permalink: /2017/10/let-lord-build-house/
 published: true
 post_date: 2017-10-04 22:39:51
 ---

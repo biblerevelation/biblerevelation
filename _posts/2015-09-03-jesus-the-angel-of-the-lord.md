@@ -4,8 +4,7 @@ post_title: Jesus, the Angel of the Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/jesus-the-angel-of-the-lord/
+permalink: /2015/09/jesus-the-angel-of-the-lord/
 published: true
 post_date: 2015-09-03 13:42:14
 ---

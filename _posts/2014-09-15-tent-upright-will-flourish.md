@@ -4,8 +4,7 @@ post_title: The tent of the upright will flourish
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/tent-upright-will-flourish/
+permalink: /2014/09/tent-upright-will-flourish/
 published: true
 post_date: 2014-09-15 10:14:16
 ---

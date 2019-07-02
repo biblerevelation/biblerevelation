@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/for-church-jesus-is-not-coming-to-deal-with-our-sins/
+  /2015/09/for-church-jesus-is-not-coming-to-deal-with-our-sins/
 published: true
 post_date: 2015-09-19 05:50:34
 ---

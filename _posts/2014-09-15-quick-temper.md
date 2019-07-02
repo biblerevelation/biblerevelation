@@ -4,8 +4,7 @@ post_title: Is quick-temper an act of a wise man?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/quick-temper/
+permalink: /2014/09/quick-temper/
 published: true
 post_date: 2014-09-15 10:09:58
 ---

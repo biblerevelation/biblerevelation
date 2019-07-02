@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/wellspring-wisdom-flowing-brook/
+  /2014/09/wellspring-wisdom-flowing-brook/
 published: true
 post_date: 2014-09-18 10:53:33
 ---

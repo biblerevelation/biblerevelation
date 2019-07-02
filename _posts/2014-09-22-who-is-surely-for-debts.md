@@ -4,8 +4,7 @@ post_title: 'Who is &#8220;surely&#8221; for debts?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/who-is-surely-for-debts/
+permalink: /2014/09/who-is-surely-for-debts/
 published: true
 post_date: 2014-09-22 09:16:03
 ---

@@ -4,8 +4,7 @@ post_title: Lawful captives Redeemed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/03/lawful-captives-redeemed/
+permalink: /2016/03/lawful-captives-redeemed/
 published: true
 post_date: 2016-03-21 18:55:54
 ---

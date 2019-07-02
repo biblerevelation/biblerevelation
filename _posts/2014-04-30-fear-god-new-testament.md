@@ -4,8 +4,7 @@ post_title: '&#8220;Fear of God&#8221; in New Testament'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/fear-god-new-testament/
+permalink: /2014/04/fear-god-new-testament/
 published: true
 post_date: 2014-04-30 14:25:10
 ---

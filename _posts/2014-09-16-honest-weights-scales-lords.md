@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/honest-weights-scales-lords/
+permalink: /2014/09/honest-weights-scales-lords/
 published: true
 post_date: 2014-09-16 22:24:24
 ---

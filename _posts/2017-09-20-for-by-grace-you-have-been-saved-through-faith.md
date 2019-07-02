@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2017/09/for-by-grace-you-have-been-saved-through-faith/
+  /2017/09/for-by-grace-you-have-been-saved-through-faith/
 published: true
 post_date: 2017-09-20 21:22:05
 ---

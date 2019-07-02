@@ -4,8 +4,7 @@ post_title: Who obtains favor from the Lord?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/obtains-favor-from-lord/
+permalink: /2014/09/obtains-favor-from-lord/
 published: true
 post_date: 2014-09-18 10:50:10
 ---

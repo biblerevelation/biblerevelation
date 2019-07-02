@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/03/jesus-healing-physical-diseases/
+  /2016/03/jesus-healing-physical-diseases/
 published: true
 post_date: 2016-03-10 18:14:39
 ---

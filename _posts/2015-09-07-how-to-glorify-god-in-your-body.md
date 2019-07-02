@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/how-to-glorify-god-in-your-body/
+  /2015/09/how-to-glorify-god-in-your-body/
 published: true
 post_date: 2015-09-07 04:57:31
 ---

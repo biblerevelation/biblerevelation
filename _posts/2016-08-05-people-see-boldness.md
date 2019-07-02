@@ -4,8 +4,7 @@ post_title: People see the boldness in you
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/08/people-see-boldness/
+permalink: /2016/08/people-see-boldness/
 published: true
 post_date: 2016-08-05 11:26:53
 ---

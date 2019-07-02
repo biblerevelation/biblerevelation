@@ -4,8 +4,7 @@ post_title: Haughty look of the wicked is sin
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/haughty-look-sin/
+permalink: /2014/10/haughty-look-sin/
 published: true
 post_date: 2014-10-21 16:14:40
 ---

@@ -4,8 +4,7 @@ post_title: Sense of Humor of Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/sense-humor-jesus/
+permalink: /2016/04/sense-humor-jesus/
 published: true
 post_date: 2016-04-21 18:48:18
 ---

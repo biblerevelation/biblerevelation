@@ -4,8 +4,7 @@ post_title: Teach a righteous man
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/teach-righteous-man/
+permalink: /2014/10/teach-righteous-man/
 published: true
 post_date: 2014-10-09 10:53:35
 ---

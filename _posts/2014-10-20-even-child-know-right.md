@@ -4,8 +4,7 @@ post_title: Even a child know what is pure and right
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/even-child-know-right/
+permalink: /2014/10/even-child-know-right/
 published: true
 post_date: 2014-10-20 16:01:24
 ---

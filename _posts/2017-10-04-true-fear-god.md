@@ -4,8 +4,7 @@ post_title: What is TRUE Fear of God ?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2017/10/true-fear-god/
+permalink: /2017/10/true-fear-god/
 published: true
 post_date: 2017-10-04 22:48:37
 ---

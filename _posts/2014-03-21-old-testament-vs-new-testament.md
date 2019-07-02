@@ -4,8 +4,7 @@ post_title: Old Testament Vs New Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/old-testament-vs-new-testament/
+permalink: /2014/03/old-testament-vs-new-testament/
 published: true
 post_date: 2014-03-21 11:14:03
 ---

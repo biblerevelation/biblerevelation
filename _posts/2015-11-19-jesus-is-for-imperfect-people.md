@@ -4,8 +4,7 @@ post_title: Jesus is for imperfect People
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/jesus-is-for-imperfect-people/
+permalink: /2015/11/jesus-is-for-imperfect-people/
 published: true
 post_date: 2015-11-19 22:49:29
 ---

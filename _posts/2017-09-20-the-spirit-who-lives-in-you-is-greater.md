@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2017/09/the-spirit-who-lives-in-you-is-greater/
+  /2017/09/the-spirit-who-lives-in-you-is-greater/
 published: true
 post_date: 2017-09-20 22:04:15
 ---

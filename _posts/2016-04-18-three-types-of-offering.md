@@ -4,8 +4,7 @@ post_title: Three types of offering
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/three-types-of-offering/
+permalink: /2016/04/three-types-of-offering/
 published: true
 post_date: 2016-04-18 18:38:01
 ---

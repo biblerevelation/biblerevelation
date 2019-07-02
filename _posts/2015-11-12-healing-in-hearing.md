@@ -4,8 +4,7 @@ post_title: Healing in Hearing
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/healing-in-hearing/
+permalink: /2015/11/healing-in-hearing/
 published: true
 post_date: 2015-11-12 19:25:57
 ---

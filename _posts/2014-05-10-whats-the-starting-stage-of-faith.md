@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/05/whats-the-starting-stage-of-faith/
+  /2014/05/whats-the-starting-stage-of-faith/
 published: true
 post_date: 2014-05-10 03:42:54
 ---

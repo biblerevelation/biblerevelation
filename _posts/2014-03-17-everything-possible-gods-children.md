@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/everything-possible-gods-children/
+  /2014/03/everything-possible-gods-children/
 published: true
 post_date: 2014-03-17 17:40:17
 ---

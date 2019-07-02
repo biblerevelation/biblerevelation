@@ -4,8 +4,7 @@ post_title: Secret of Riches
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/secret-of-riches/
+permalink: /2014/09/secret-of-riches/
 published: true
 post_date: 2014-09-10 14:49:07
 ---

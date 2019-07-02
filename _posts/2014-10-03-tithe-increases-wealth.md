@@ -4,8 +4,7 @@ post_title: Tithe increases wealth
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/tithe-increases-wealth/
+permalink: /2014/10/tithe-increases-wealth/
 published: true
 post_date: 2014-10-03 09:29:25
 ---

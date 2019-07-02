@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/servant-will-not-be-corrected-by-mere-words/
+  /2014/09/servant-will-not-be-corrected-by-mere-words/
 published: true
 post_date: 2014-09-29 11:11:55
 ---

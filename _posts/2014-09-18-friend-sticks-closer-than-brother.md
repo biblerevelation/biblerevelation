@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/friend-sticks-closer-than-brother/
+  /2014/09/friend-sticks-closer-than-brother/
 published: true
 post_date: 2014-09-18 10:49:25
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/how-you-come-out-of-tribulation/
+  /2015/06/how-you-come-out-of-tribulation/
 published: true
 post_date: 2015-06-30 13:38:40
 ---

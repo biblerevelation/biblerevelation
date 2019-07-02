@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/03/lord-will-bring-permissive-tense/
+  /2016/03/lord-will-bring-permissive-tense/
 published: true
 post_date: 2016-03-22 18:57:35
 ---

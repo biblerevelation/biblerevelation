@@ -4,8 +4,7 @@ post_title: Who will abide in satisfaction?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/who-abide-in-satisfaction/
+permalink: /2014/09/who-abide-in-satisfaction/
 published: true
 post_date: 2014-09-19 10:48:58
 ---

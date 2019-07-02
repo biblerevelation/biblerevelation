@@ -4,8 +4,7 @@ post_title: Talebearer in Proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/talebearer-in-proverbs/
+permalink: /2014/09/talebearer-in-proverbs/
 published: true
 post_date: 2014-09-18 10:55:46
 ---

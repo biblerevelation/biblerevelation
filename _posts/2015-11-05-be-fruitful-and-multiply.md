@@ -4,8 +4,7 @@ post_title: Be Fruitful and Multiply
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/be-fruitful-and-multiply/
+permalink: /2015/11/be-fruitful-and-multiply/
 published: true
 post_date: 2015-11-05 19:50:28
 ---

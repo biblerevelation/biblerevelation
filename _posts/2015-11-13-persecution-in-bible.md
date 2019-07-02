@@ -4,8 +4,7 @@ post_title: Persecution in Bible
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/persecution-in-bible/
+permalink: /2015/11/persecution-in-bible/
 published: true
 post_date: 2015-11-13 02:06:56
 ---

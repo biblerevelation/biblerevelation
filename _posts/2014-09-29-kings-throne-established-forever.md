@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/kings-throne-established-forever/
+  /2014/09/kings-throne-established-forever/
 published: true
 post_date: 2014-09-29 11:10:08
 ---

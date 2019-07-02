@@ -4,8 +4,7 @@ post_title: Protection in Psalms 91
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/protection-in-psalms-91/
+permalink: /2014/11/protection-in-psalms-91/
 published: true
 post_date: 2014-11-24 14:14:01
 ---

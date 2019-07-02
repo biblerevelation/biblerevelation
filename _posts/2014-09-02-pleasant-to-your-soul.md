@@ -4,8 +4,7 @@ post_title: What could be pleasant to your soul?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/pleasant-to-your-soul/
+permalink: /2014/09/pleasant-to-your-soul/
 published: true
 post_date: 2014-09-02 11:14:45
 ---

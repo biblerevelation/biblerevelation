@@ -4,8 +4,7 @@ post_title: Buy the truth, and do not sell it
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/buy-truth-do-not-sell/
+permalink: /2014/09/buy-truth-do-not-sell/
 published: true
 post_date: 2014-09-23 09:33:41
 ---

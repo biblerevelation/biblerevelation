@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/mans-resurrection-from-worldly-death/
+  /2014/04/mans-resurrection-from-worldly-death/
 published: true
 post_date: 2014-04-01 10:02:25
 ---

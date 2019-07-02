@@ -4,8 +4,7 @@ post_title: The glory of God to conceal a matter
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/glory-of-god-to-conceal-matter/
+permalink: /2014/09/glory-of-god-to-conceal-matter/
 published: true
 post_date: 2014-09-25 09:02:46
 ---

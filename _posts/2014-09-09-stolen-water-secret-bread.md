@@ -4,8 +4,7 @@ post_title: Stolen water and secret bread
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/stolen-water-secret-bread/
+permalink: /2014/09/stolen-water-secret-bread/
 published: true
 post_date: 2014-09-09 09:28:57
 ---

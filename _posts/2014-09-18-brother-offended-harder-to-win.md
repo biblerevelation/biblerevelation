@@ -4,8 +4,7 @@ post_title: A brother offended is harder to win
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/brother-offended-harder-to-win/
+permalink: /2014/09/brother-offended-harder-to-win/
 published: true
 post_date: 2014-09-18 10:59:59
 ---

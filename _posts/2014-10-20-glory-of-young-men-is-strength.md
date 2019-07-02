@@ -4,8 +4,7 @@ post_title: The glory of young men is their strength
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/glory-of-young-men-is-strength/
+permalink: /2014/10/glory-of-young-men-is-strength/
 published: true
 post_date: 2014-10-20 16:14:21
 ---

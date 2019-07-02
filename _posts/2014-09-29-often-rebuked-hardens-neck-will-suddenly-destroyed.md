@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/often-rebuked-hardens-neck-will-suddenly-destroyed/
+  /2014/09/often-rebuked-hardens-neck-will-suddenly-destroyed/
 published: true
 post_date: 2014-09-29 11:19:12
 ---

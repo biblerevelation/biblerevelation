@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/kings-revolves-around-jews-church/
+  /2015/09/kings-revolves-around-jews-church/
 published: true
 post_date: 2015-09-17 21:25:29
 ---

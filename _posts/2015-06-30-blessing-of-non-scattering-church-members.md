@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/blessing-of-non-scattering-church-members/
+  /2015/06/blessing-of-non-scattering-church-members/
 published: true
 post_date: 2015-06-30 22:20:54
 ---

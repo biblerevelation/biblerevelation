@@ -4,8 +4,7 @@ post_title: No one will buy you
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/no-one-will-buy-you/
+permalink: /2014/10/no-one-will-buy-you/
 published: true
 post_date: 2014-10-13 13:30:16
 ---

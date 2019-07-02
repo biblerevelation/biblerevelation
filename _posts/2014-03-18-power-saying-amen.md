@@ -4,8 +4,7 @@ post_title: 'Power of saying &#8220;Amen&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/power-saying-amen/
+permalink: /2014/03/power-saying-amen/
 published: true
 post_date: 2014-03-18 14:40:04
 ---

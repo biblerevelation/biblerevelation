@@ -4,8 +4,7 @@ post_title: How to Award Employees?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/how-to-award-employees/
+permalink: /2016/01/how-to-award-employees/
 published: true
 post_date: 2016-01-21 18:02:07
 ---

@@ -4,8 +4,7 @@ post_title: Jesus is The Born King
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/jesus-born-king/
+permalink: /2015/12/jesus-born-king/
 published: true
 post_date: 2015-12-23 18:15:34
 ---

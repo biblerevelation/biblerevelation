@@ -4,8 +4,7 @@ post_title: 'By His &#8220;Stripes&#8221; in Hebrew'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/05/by-his-stripes-in-hebrew/
+permalink: /2015/05/by-his-stripes-in-hebrew/
 published: true
 post_date: 2015-05-15 07:18:54
 ---

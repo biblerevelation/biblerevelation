@@ -4,8 +4,7 @@ post_title: Do not worry and be heathy
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/do-not-worry-be-heathy/
+permalink: /2014/10/do-not-worry-be-heathy/
 published: true
 post_date: 2014-10-21 11:04:06
 ---

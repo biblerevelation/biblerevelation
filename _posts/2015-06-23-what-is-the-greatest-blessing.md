@@ -4,8 +4,7 @@ post_title: What is the Greatest blessing ?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/what-is-the-greatest-blessing/
+permalink: /2015/06/what-is-the-greatest-blessing/
 published: true
 post_date: 2015-06-23 23:14:28
 ---

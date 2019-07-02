@@ -4,8 +4,7 @@ post_title: Way of the sinners are hard
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/05/way-sinners-hard/
+permalink: /2016/05/way-sinners-hard/
 published: true
 post_date: 2016-05-18 21:14:58
 ---

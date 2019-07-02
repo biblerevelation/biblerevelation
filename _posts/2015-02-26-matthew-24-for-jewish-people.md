@@ -4,8 +4,7 @@ post_title: Matthew 24 is for Jewish people
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/matthew-24-for-jewish-people/
+permalink: /2015/02/matthew-24-for-jewish-people/
 published: true
 post_date: 2015-02-26 23:56:06
 ---

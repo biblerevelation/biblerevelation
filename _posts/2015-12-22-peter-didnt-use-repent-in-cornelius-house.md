@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/peter-didnt-use-repent-in-cornelius-house/
+  /2015/12/peter-didnt-use-repent-in-cornelius-house/
 published: true
 post_date: 2015-12-22 18:01:55
 ---

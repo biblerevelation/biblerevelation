@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/hope-is-the-helmet-of-salvation/
+  /2015/11/hope-is-the-helmet-of-salvation/
 published: true
 post_date: 2015-11-19 23:13:12
 ---

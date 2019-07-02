@@ -4,8 +4,7 @@ post_title: Humbleness and Faith together
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/humbleness-faith-together/
+permalink: /2015/09/humbleness-faith-together/
 published: true
 post_date: 2015-09-03 13:09:48
 ---

@@ -4,8 +4,7 @@ post_title: Trouble Formula
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/trouble-formula/
+permalink: /2014/06/trouble-formula/
 published: true
 post_date: 2014-06-13 13:29:45
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/02/who-all-didnt-see-death-in-bible/
+  /2016/02/who-all-didnt-see-death-in-bible/
 published: true
 post_date: 2016-02-23 18:32:14
 ---

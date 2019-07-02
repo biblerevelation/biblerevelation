@@ -4,8 +4,7 @@ post_title: 'Mary said &#8220;My Savior&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/mary-said-my-savior/
+permalink: /2015/12/mary-said-my-savior/
 published: true
 post_date: 2015-12-24 14:29:53
 ---

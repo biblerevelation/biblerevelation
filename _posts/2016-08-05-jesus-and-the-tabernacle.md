@@ -4,8 +4,7 @@ post_title: Jesus and the Tabernacle
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/08/jesus-and-the-tabernacle/
+permalink: /2016/08/jesus-and-the-tabernacle/
 published: true
 post_date: 2016-08-05 11:14:19
 ---

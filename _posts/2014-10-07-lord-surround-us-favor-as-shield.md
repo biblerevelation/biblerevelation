@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/lord-surround-us-favor-as-shield/
+  /2014/10/lord-surround-us-favor-as-shield/
 published: true
 post_date: 2014-10-07 11:41:20
 ---

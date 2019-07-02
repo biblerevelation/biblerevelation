@@ -4,8 +4,7 @@ post_title: Give instruction to a wise man
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/give-instruction-wise-man/
+permalink: /2014/10/give-instruction-wise-man/
 published: true
 post_date: 2014-10-09 10:52:24
 ---

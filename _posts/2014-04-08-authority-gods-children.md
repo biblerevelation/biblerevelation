@@ -4,8 +4,7 @@ post_title: 'Authority of God&#8217;s Children'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/authority-gods-children/
+permalink: /2014/04/authority-gods-children/
 published: true
 post_date: 2014-04-08 00:50:48
 ---

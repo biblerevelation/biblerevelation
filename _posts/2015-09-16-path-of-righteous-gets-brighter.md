@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/path-of-righteous-gets-brighter/
+  /2015/09/path-of-righteous-gets-brighter/
 published: true
 post_date: 2015-09-16 21:21:22
 ---

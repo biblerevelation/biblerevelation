@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/grace-will-make-us-a-cheerful-giver/
+  /2015/11/grace-will-make-us-a-cheerful-giver/
 published: true
 post_date: 2015-11-23 23:57:04
 ---

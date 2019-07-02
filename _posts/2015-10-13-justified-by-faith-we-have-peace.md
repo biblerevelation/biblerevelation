@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/10/justified-by-faith-we-have-peace/
+  /2015/10/justified-by-faith-we-have-peace/
 published: true
 post_date: 2015-10-13 22:20:31
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2017/09/no-condemnation-in-christ-jesus/
+  /2017/09/no-condemnation-in-christ-jesus/
 published: true
 post_date: 2017-09-20 20:04:14
 ---

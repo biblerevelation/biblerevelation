@@ -4,8 +4,7 @@ post_title: The demons tremble
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/demons-tremble/
+permalink: /2015/01/demons-tremble/
 published: true
 post_date: 2015-01-01 23:29:12
 ---

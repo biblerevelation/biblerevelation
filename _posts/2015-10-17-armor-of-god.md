@@ -4,8 +4,7 @@ post_title: Armor of God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/armor-of-god/
+permalink: /2015/10/armor-of-god/
 published: true
 post_date: 2015-10-17 12:15:54
 ---

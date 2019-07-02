@@ -4,8 +4,7 @@ post_title: When and how to Rebuke, correct, Teach?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/rebuke-correct-teach/
+permalink: /2014/09/rebuke-correct-teach/
 published: true
 post_date: 2014-09-09 08:52:02
 ---

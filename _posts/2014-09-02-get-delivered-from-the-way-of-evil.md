@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/get-delivered-from-the-way-of-evil/
+  /2014/09/get-delivered-from-the-way-of-evil/
 published: true
 post_date: 2014-09-02 11:29:51
 ---

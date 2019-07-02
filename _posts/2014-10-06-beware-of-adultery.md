@@ -4,8 +4,7 @@ post_title: Beware of Adultery
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/beware-of-adultery/
+permalink: /2014/10/beware-of-adultery/
 published: true
 post_date: 2014-10-06 14:36:29
 ---

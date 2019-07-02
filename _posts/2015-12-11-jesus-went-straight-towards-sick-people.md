@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/jesus-went-straight-towards-sick-people/
+  /2015/12/jesus-went-straight-towards-sick-people/
 published: true
 post_date: 2015-12-11 18:23:00
 ---

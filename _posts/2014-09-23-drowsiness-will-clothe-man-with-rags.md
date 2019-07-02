@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/drowsiness-will-clothe-man-with-rags/
+  /2014/09/drowsiness-will-clothe-man-with-rags/
 published: true
 post_date: 2014-09-23 09:34:06
 ---

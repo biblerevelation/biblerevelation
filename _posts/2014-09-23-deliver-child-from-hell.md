@@ -4,8 +4,7 @@ post_title: How to deliver your child from hell?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/deliver-child-from-hell/
+permalink: /2014/09/deliver-child-from-hell/
 published: true
 post_date: 2014-09-23 08:03:42
 ---

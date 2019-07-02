@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/02/do-not-provoke-your-children-to-anger/
+  /2015/02/do-not-provoke-your-children-to-anger/
 published: true
 post_date: 2015-02-11 22:13:39
 ---

@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/graceful-ornament-head/
+permalink: /2014/09/graceful-ornament-head/
 published: true
 post_date: 2014-09-01 15:08:26
 ---

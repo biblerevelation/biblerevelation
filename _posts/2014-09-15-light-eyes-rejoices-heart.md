@@ -4,8 +4,7 @@ post_title: The light of the eyes rejoices the heart
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/light-eyes-rejoices-heart/
+permalink: /2014/09/light-eyes-rejoices-heart/
 published: true
 post_date: 2014-09-15 08:58:56
 ---

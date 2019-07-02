@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/long-forbearance-ruler-persuaded/
+  /2014/09/long-forbearance-ruler-persuaded/
 published: true
 post_date: 2014-09-25 09:06:43
 ---

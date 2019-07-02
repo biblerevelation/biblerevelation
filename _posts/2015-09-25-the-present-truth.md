@@ -4,8 +4,7 @@ post_title: The Present Truth
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/the-present-truth/
+permalink: /2015/09/the-present-truth/
 published: true
 post_date: 2015-09-25 18:48:33
 ---

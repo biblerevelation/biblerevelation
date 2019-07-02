@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/rest-holy-spirit-directed-activity/
+  /2014/04/rest-holy-spirit-directed-activity/
 published: true
 post_date: 2014-04-08 01:05:58
 ---

@@ -4,8 +4,7 @@ post_title: Jesus hates Self Righteousness
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/jesus-hates-self-righteousness/
+permalink: /2014/04/jesus-hates-self-righteousness/
 published: true
 post_date: 2014-04-08 17:15:17
 ---

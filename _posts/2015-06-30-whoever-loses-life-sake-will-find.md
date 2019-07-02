@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/whoever-loses-life-sake-will-find/
+  /2015/06/whoever-loses-life-sake-will-find/
 published: true
 post_date: 2015-06-30 20:06:24
 ---

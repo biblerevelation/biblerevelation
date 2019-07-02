@@ -4,8 +4,7 @@ post_title: Who hold all things together?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/05/who-hold-all-things-together/
+permalink: /2014/05/who-hold-all-things-together/
 published: true
 post_date: 2014-05-22 14:44:51
 ---

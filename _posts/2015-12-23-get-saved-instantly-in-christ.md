@@ -4,8 +4,7 @@ post_title: Get Saved Instantly In Christ
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/get-saved-instantly-in-christ/
+permalink: /2015/12/get-saved-instantly-in-christ/
 published: true
 post_date: 2015-12-23 18:37:04
 ---

@@ -4,8 +4,7 @@ post_title: The Person and The Work
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/the-person-and-the-work/
+permalink: /2016/04/the-person-and-the-work/
 published: true
 post_date: 2016-04-25 22:11:18
 ---

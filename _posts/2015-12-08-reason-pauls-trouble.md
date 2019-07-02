@@ -4,8 +4,7 @@ post_title: 'Reason for Paul&#8217;s trouble'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/reason-pauls-trouble/
+permalink: /2015/12/reason-pauls-trouble/
 published: true
 post_date: 2015-12-08 18:54:38
 ---

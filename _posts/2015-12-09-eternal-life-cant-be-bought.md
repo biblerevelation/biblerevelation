@@ -4,8 +4,7 @@ post_title: 'Eternal Life can&#8217;t be bought'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/eternal-life-cant-be-bought/
+permalink: /2015/12/eternal-life-cant-be-bought/
 published: true
 post_date: 2015-12-09 18:24:15
 ---

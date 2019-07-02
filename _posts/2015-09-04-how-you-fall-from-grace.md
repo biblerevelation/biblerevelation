@@ -4,8 +4,7 @@ post_title: How you fall from Grace?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/how-you-fall-from-grace/
+permalink: /2015/09/how-you-fall-from-grace/
 published: true
 post_date: 2015-09-04 13:32:40
 ---

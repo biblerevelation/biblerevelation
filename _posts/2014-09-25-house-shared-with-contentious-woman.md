@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/house-shared-with-contentious-woman/
+  /2014/09/house-shared-with-contentious-woman/
 published: true
 post_date: 2014-09-25 09:29:17
 ---

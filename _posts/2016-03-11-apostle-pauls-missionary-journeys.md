@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/03/apostle-pauls-missionary-journeys/
+  /2016/03/apostle-pauls-missionary-journeys/
 published: true
 post_date: 2016-03-11 18:54:57
 ---

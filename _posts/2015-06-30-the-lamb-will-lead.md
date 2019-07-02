@@ -4,8 +4,7 @@ post_title: The Lamb will lead
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/the-lamb-will-lead/
+permalink: /2015/06/the-lamb-will-lead/
 published: true
 post_date: 2015-06-30 21:56:16
 ---

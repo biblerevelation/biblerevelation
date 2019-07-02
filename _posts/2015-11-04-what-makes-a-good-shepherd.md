@@ -4,8 +4,7 @@ post_title: What makes a Good Shepherd?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/what-makes-a-good-shepherd/
+permalink: /2015/11/what-makes-a-good-shepherd/
 published: true
 post_date: 2015-11-04 15:12:08
 ---

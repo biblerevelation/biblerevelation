@@ -4,8 +4,7 @@ post_title: 'The Power &#8220;In Christ Jesus&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/02/power-christ-jesus/
+permalink: /2016/02/power-christ-jesus/
 published: true
 post_date: 2016-02-18 18:50:13
 ---

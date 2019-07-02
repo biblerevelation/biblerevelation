@@ -4,8 +4,7 @@ post_title: Power of being Righteous
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/power-of-being-righteous/
+permalink: /2014/04/power-of-being-righteous/
 published: true
 post_date: 2014-04-10 13:59:03
 ---

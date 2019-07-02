@@ -4,8 +4,7 @@ post_title: North side in bible
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/north-side-bible/
+permalink: /2015/06/north-side-bible/
 published: true
 post_date: 2015-06-30 22:26:42
 ---

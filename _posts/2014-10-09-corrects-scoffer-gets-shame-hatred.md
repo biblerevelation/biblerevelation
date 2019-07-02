@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/corrects-scoffer-gets-shame-hatred/
+  /2014/10/corrects-scoffer-gets-shame-hatred/
 published: true
 post_date: 2014-10-09 10:49:15
 ---

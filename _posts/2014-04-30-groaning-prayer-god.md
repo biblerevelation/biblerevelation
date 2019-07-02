@@ -4,8 +4,7 @@ post_title: Groaning is a Prayer for God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/groaning-prayer-god/
+permalink: /2014/04/groaning-prayer-god/
 published: true
 post_date: 2014-04-30 13:55:09
 ---

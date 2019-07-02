@@ -4,8 +4,7 @@ post_title: 'Why life has Up&#8217;s and Down&#8217;s?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/life-ups-downs/
+permalink: /2014/03/life-ups-downs/
 published: true
 post_date: 2014-03-31 11:32:59
 ---

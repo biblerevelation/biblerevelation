@@ -4,8 +4,7 @@ post_title: 'Who are the epistle&#8217;s?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/who-are-the-epistles/
+permalink: /2014/06/who-are-the-epistles/
 published: true
 post_date: 2014-06-06 14:21:26
 ---

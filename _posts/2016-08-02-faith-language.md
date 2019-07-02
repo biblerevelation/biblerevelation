@@ -4,8 +4,7 @@ post_title: Faith Language
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/08/faith-language/
+permalink: /2016/08/faith-language/
 published: true
 post_date: 2016-08-02 23:14:02
 ---

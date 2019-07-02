@@ -4,8 +4,7 @@ post_title: 'Windows in Noah&#8217;s Ark'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/windows-in-noahs-ark/
+permalink: /2016/01/windows-in-noahs-ark/
 published: true
 post_date: 2016-01-20 18:34:46
 ---

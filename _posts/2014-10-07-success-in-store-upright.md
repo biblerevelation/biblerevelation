@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/success-in-store-upright/
+permalink: /2014/10/success-in-store-upright/
 published: true
 post_date: 2014-10-07 11:44:23
 ---

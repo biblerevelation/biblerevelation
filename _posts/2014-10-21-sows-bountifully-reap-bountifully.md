@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/sows-bountifully-reap-bountifully/
+  /2014/10/sows-bountifully-reap-bountifully/
 published: true
 post_date: 2014-10-21 09:27:45
 ---

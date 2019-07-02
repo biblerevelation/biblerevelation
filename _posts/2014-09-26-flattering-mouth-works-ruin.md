@@ -4,8 +4,7 @@ post_title: A flattering mouth works ruin
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/flattering-mouth-works-ruin/
+permalink: /2014/09/flattering-mouth-works-ruin/
 published: true
 post_date: 2014-09-26 10:49:43
 ---

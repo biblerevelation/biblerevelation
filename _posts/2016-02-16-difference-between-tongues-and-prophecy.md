@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/02/difference-between-tongues-and-prophecy/
+  /2016/02/difference-between-tongues-and-prophecy/
 published: true
 post_date: 2016-02-16 18:51:59
 ---

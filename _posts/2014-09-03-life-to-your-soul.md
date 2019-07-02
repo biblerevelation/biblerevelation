@@ -4,8 +4,7 @@ post_title: What gives Life to your soul?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/life-to-your-soul/
+permalink: /2014/09/life-to-your-soul/
 published: true
 post_date: 2014-09-03 09:45:03
 ---

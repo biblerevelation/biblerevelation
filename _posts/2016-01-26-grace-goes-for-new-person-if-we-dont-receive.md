@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/grace-goes-for-new-person-if-we-dont-receive/
+  /2016/01/grace-goes-for-new-person-if-we-dont-receive/
 published: true
 post_date: 2016-01-26 18:24:22
 ---

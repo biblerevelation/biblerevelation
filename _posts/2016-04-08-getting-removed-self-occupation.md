@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/04/getting-removed-self-occupation/
+  /2016/04/getting-removed-self-occupation/
 published: true
 post_date: 2016-04-08 18:42:40
 ---

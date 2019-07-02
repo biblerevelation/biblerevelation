@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/10/the-love-of-god-has-been-poured-out-by-the-holy-spirit/
+  /2015/10/the-love-of-god-has-been-poured-out-by-the-holy-spirit/
 published: true
 post_date: 2015-10-13 22:21:36
 ---

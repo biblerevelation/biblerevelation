@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/10-commandments-ministry-death-bible/
+  /2014/03/10-commandments-ministry-death-bible/
 published: true
 post_date: 2014-03-19 14:40:56
 ---

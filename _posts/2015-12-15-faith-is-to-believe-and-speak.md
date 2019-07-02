@@ -4,8 +4,7 @@ post_title: Faith is to Believe and Speak
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/faith-is-to-believe-and-speak/
+permalink: /2015/12/faith-is-to-believe-and-speak/
 published: true
 post_date: 2015-12-15 18:22:38
 ---

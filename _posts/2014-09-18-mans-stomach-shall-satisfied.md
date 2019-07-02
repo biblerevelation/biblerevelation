@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/mans-stomach-shall-satisfied/
+permalink: /2014/09/mans-stomach-shall-satisfied/
 published: true
 post_date: 2014-09-18 11:02:42
 ---

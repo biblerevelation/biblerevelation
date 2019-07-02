@@ -4,8 +4,7 @@ post_title: Who loves life?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/who-loves-life/
+permalink: /2014/09/who-loves-life/
 published: true
 post_date: 2014-09-19 10:41:41
 ---

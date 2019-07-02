@@ -4,8 +4,7 @@ post_title: I will make your name great
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/i-will-make-your-name-great/
+permalink: /2015/09/i-will-make-your-name-great/
 published: true
 post_date: 2015-09-25 06:57:46
 ---

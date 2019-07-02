@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/02/heart-of-god-in-the-old-testament/
+  /2015/02/heart-of-god-in-the-old-testament/
 published: true
 post_date: 2015-02-10 01:22:58
 ---

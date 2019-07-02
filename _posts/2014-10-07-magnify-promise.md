@@ -4,8 +4,7 @@ post_title: Magnify the promise
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/magnify-promise/
+permalink: /2014/10/magnify-promise/
 published: true
 post_date: 2014-10-07 11:37:14
 ---

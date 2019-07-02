@@ -4,8 +4,7 @@ post_title: 'What&#8217;s the opposite of unbelief?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/whats-opposite-unbelief/
+permalink: /2014/06/whats-opposite-unbelief/
 published: true
 post_date: 2014-06-13 13:40:33
 ---

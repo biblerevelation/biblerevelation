@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/those-who-preach-the-gospel-should-live-from-the-gospel/
+  /2015/06/those-who-preach-the-gospel-should-live-from-the-gospel/
 published: true
 post_date: 2015-06-20 10:53:11
 ---

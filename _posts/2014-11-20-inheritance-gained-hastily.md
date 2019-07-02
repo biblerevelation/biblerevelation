@@ -4,8 +4,7 @@ post_title: An inheritance gained hastily
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/11/inheritance-gained-hastily/
+permalink: /2014/11/inheritance-gained-hastily/
 published: true
 post_date: 2014-11-20 09:15:04
 ---

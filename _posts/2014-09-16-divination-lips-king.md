@@ -4,8 +4,7 @@ post_title: Divination is on the lips of the king
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/divination-lips-king/
+permalink: /2014/09/divination-lips-king/
 published: true
 post_date: 2014-09-16 22:25:21
 ---

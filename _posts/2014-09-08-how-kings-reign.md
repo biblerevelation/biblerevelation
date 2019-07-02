@@ -4,8 +4,7 @@ post_title: How Kings reign?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/how-kings-reign/
+permalink: /2014/09/how-kings-reign/
 published: true
 post_date: 2014-09-08 16:21:10
 ---

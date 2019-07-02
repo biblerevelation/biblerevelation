@@ -4,8 +4,7 @@ post_title: The day of trouble
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/the-day-of-trouble/
+permalink: /2015/12/the-day-of-trouble/
 published: true
 post_date: 2015-12-08 18:58:38
 ---

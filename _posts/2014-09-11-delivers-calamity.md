@@ -4,8 +4,7 @@ post_title: What delivers you from calamity?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/delivers-calamity/
+permalink: /2014/09/delivers-calamity/
 published: true
 post_date: 2014-09-11 09:37:37
 ---

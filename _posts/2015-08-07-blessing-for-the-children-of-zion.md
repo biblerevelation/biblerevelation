@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/08/blessing-for-the-children-of-zion/
+  /2015/08/blessing-for-the-children-of-zion/
 published: true
 post_date: 2015-08-07 13:23:04
 ---

@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/deliverance-is-of-the-lord/
+permalink: /2014/10/deliverance-is-of-the-lord/
 published: true
 post_date: 2014-10-21 16:06:05
 ---

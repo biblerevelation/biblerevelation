@@ -4,8 +4,7 @@ post_title: 'Who can say, &#8220;I am clean, pure&#8221;?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/who-can-say-clean-pure/
+permalink: /2014/10/who-can-say-clean-pure/
 published: true
 post_date: 2014-10-20 16:03:09
 ---

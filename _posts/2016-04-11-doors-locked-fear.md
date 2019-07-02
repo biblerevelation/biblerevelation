@@ -4,8 +4,7 @@ post_title: Doors were locked because of fear
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/doors-locked-fear/
+permalink: /2016/04/doors-locked-fear/
 published: true
 post_date: 2016-04-11 18:47:01
 ---

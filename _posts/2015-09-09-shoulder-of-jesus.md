@@ -4,8 +4,7 @@ post_title: Shoulder of Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/shoulder-of-jesus/
+permalink: /2015/09/shoulder-of-jesus/
 published: true
 post_date: 2015-09-09 14:07:20
 ---

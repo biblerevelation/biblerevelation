@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/what-is-the-greatest-blessing-on-earth/
+  /2015/06/what-is-the-greatest-blessing-on-earth/
 published: true
 post_date: 2015-06-23 23:22:22
 ---

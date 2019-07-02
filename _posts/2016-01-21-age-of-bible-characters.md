@@ -4,8 +4,7 @@ post_title: Age of Bible Characters
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/age-of-bible-characters/
+permalink: /2016/01/age-of-bible-characters/
 published: true
 post_date: 2016-01-21 18:44:28
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/01/go-into-all-the-world-vs-lost-sheet-of-israel/
+  /2016/01/go-into-all-the-world-vs-lost-sheet-of-israel/
 published: true
 post_date: 2016-01-20 18:26:04
 ---

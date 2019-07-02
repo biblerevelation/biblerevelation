@@ -4,8 +4,7 @@ post_title: 'You don&#8217;t need to search'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/03/dont-need-search/
+permalink: /2016/03/dont-need-search/
 published: true
 post_date: 2016-03-15 18:30:44
 ---

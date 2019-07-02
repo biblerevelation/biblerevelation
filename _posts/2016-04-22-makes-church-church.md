@@ -4,8 +4,7 @@ post_title: What makes a Church, Church?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/makes-church-church/
+permalink: /2016/04/makes-church-church/
 published: true
 post_date: 2016-04-22 18:23:34
 ---

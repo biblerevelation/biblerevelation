@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/07/we-are-kings-and-priests-in-christ/
+  /2014/07/we-are-kings-and-priests-in-christ/
 published: true
 post_date: 2014-07-16 10:24:20
 ---

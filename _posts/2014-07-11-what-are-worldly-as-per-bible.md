@@ -4,8 +4,7 @@ post_title: What are worldly as per bible?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/07/what-are-worldly-as-per-bible/
+permalink: /2014/07/what-are-worldly-as-per-bible/
 published: true
 post_date: 2014-07-11 16:43:30
 ---

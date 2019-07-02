@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/blasphemy-against-holy-spirit-meaning/
+  /2015/09/blasphemy-against-holy-spirit-meaning/
 published: true
 post_date: 2015-09-02 14:16:39
 ---

@@ -4,8 +4,7 @@ post_title: Making intercession means
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/making-intercession-means/
+permalink: /2015/06/making-intercession-means/
 published: true
 post_date: 2015-06-30 19:16:36
 ---

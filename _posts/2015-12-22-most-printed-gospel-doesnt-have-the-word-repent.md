@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/most-printed-gospel-doesnt-have-the-word-repent/
+  /2015/12/most-printed-gospel-doesnt-have-the-word-repent/
 published: true
 post_date: 2015-12-22 18:33:51
 ---

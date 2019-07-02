@@ -4,8 +4,7 @@ post_title: Fervent lips with a wicked heart
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/fervent-lips-wicked-heart/
+permalink: /2014/09/fervent-lips-wicked-heart/
 published: true
 post_date: 2014-09-26 10:44:17
 ---

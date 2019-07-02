@@ -4,8 +4,7 @@ post_title: New Covenant Repentance
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/new-covenant-repentance/
+permalink: /2015/10/new-covenant-repentance/
 published: true
 post_date: 2015-10-13 22:17:31
 ---

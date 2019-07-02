@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/god-sees-three-groups-people-world/
+  /2015/09/god-sees-three-groups-people-world/
 published: true
 post_date: 2015-09-16 20:52:51
 ---

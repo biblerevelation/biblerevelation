@@ -4,8 +4,7 @@ post_title: Can believers walk in darkness?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/can-believers-walk-darkness/
+permalink: /2014/06/can-believers-walk-darkness/
 published: true
 post_date: 2014-06-04 13:11:55
 ---

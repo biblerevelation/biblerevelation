@@ -4,8 +4,7 @@ post_title: Sow Good things to the Spirit
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/sow-good-things-to-the-spirit/
+permalink: /2016/01/sow-good-things-to-the-spirit/
 published: true
 post_date: 2016-01-25 18:34:57
 ---

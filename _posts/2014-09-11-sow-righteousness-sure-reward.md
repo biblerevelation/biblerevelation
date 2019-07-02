@@ -4,8 +4,7 @@ post_title: Sow Righteousness, sure reward
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/sow-righteousness-sure-reward/
+permalink: /2014/09/sow-righteousness-sure-reward/
 published: true
 post_date: 2014-09-11 09:26:43
 ---

@@ -4,8 +4,7 @@ post_title: Places where Holy Spirit bears Witness
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/holy-spirit-bears-witness/
+permalink: /2015/01/holy-spirit-bears-witness/
 published: true
 post_date: 2015-01-29 13:55:43
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/death-is-like-taking-rest-and-sleeping-for-jesus/
+  /2014/04/death-is-like-taking-rest-and-sleeping-for-jesus/
 published: true
 post_date: 2014-04-01 09:23:11
 ---

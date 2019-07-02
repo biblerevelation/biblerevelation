@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/health-flesh-strength-bones/
+permalink: /2014/10/health-flesh-strength-bones/
 published: true
 post_date: 2014-10-03 09:07:16
 ---

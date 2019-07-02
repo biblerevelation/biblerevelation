@@ -4,8 +4,7 @@ post_title: Who is the Verse addressing to?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/who-is-the-verse-addressing-to/
+permalink: /2015/11/who-is-the-verse-addressing-to/
 published: true
 post_date: 2015-11-16 18:49:02
 ---

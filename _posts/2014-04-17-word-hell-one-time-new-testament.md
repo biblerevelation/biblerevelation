@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/word-hell-one-time-new-testament/
+  /2014/04/word-hell-one-time-new-testament/
 published: true
 post_date: 2014-04-17 15:52:22
 ---

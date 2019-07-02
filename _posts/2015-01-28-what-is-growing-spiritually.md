@@ -4,8 +4,7 @@ post_title: What is growing spiritually?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/what-is-growing-spiritually/
+permalink: /2015/01/what-is-growing-spiritually/
 published: true
 post_date: 2015-01-28 14:10:58
 ---

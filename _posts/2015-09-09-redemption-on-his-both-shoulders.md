@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/redemption-on-his-both-shoulders/
+  /2015/09/redemption-on-his-both-shoulders/
 published: true
 post_date: 2015-09-09 13:51:33
 ---

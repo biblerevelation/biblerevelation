@@ -4,8 +4,7 @@ post_title: How to receive the blessing of Abraham?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/receive-blessing-abraham/
+permalink: /2015/09/receive-blessing-abraham/
 published: true
 post_date: 2015-09-24 17:48:53
 ---

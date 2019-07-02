@@ -4,8 +4,7 @@ post_title: Decision of the Lot is from the Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/decision-lot-lord/
+permalink: /2014/10/decision-lot-lord/
 published: true
 post_date: 2014-10-16 14:47:07
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/in-heaven-great-multitude-which-no-one-could-number/
+  /2015/12/in-heaven-great-multitude-which-no-one-could-number/
 published: true
 post_date: 2015-12-23 18:55:16
 ---

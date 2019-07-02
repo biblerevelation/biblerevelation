@@ -4,8 +4,7 @@ post_title: Judgments are for who?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/judgments-are-for-who/
+permalink: /2014/09/judgments-are-for-who/
 published: true
 post_date: 2014-09-19 10:51:18
 ---

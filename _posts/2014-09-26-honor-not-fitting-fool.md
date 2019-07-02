@@ -4,8 +4,7 @@ post_title: Honor is not fitting for a fool
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/honor-not-fitting-fool/
+permalink: /2014/09/honor-not-fitting-fool/
 published: true
 post_date: 2014-09-26 10:35:14
 ---

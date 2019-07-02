@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/he-who-rolls-stone-will-roll-back/
+  /2014/09/he-who-rolls-stone-will-roll-back/
 published: true
 post_date: 2014-09-26 10:48:15
 ---

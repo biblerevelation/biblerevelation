@@ -4,8 +4,7 @@ post_title: The joy of the Lord is your strength
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/joy-lord-strength/
+permalink: /2016/04/joy-lord-strength/
 published: true
 post_date: 2016-04-21 18:51:31
 ---

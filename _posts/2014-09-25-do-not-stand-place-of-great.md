@@ -4,8 +4,7 @@ post_title: Do not stand in the place of the great
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/do-not-stand-place-of-great/
+permalink: /2014/09/do-not-stand-place-of-great/
 published: true
 post_date: 2014-09-25 09:04:27
 ---

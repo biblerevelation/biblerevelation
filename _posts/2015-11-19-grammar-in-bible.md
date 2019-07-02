@@ -4,8 +4,7 @@ post_title: Grammar in Bible
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/grammar-in-bible/
+permalink: /2015/11/grammar-in-bible/
 published: true
 post_date: 2015-11-19 22:49:52
 ---

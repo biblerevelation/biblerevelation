@@ -4,8 +4,7 @@ post_title: Ishmael Persecuted Isaac
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2017/01/ishmael-persecuted-isaac/
+permalink: /2017/01/ishmael-persecuted-isaac/
 published: true
 post_date: 2017-01-04 22:39:13
 ---

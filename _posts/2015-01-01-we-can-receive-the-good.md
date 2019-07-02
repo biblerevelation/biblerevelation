@@ -4,8 +4,7 @@ post_title: 'We can receive the good that we don&#8217;t deserve'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/we-can-receive-the-good/
+permalink: /2015/01/we-can-receive-the-good/
 published: true
 post_date: 2015-01-01 18:47:40
 ---

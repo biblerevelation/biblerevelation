@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2017/10/isaiah-54-new-covenant-heritage/
+  /2017/10/isaiah-54-new-covenant-heritage/
 published: true
 post_date: 2017-10-04 22:34:27
 ---

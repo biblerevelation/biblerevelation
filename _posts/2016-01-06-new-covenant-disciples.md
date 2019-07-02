@@ -4,8 +4,7 @@ post_title: New Covenant Disciples
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/new-covenant-disciples/
+permalink: /2016/01/new-covenant-disciples/
 published: true
 post_date: 2016-01-06 18:18:33
 ---

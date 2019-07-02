@@ -4,8 +4,7 @@ post_title: 'Don&#8217;t go with furious man'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/dont-go-with-furious-man/
+permalink: /2014/09/dont-go-with-furious-man/
 published: true
 post_date: 2014-09-22 09:12:03
 ---

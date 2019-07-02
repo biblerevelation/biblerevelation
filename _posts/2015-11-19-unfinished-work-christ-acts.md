@@ -4,8 +4,7 @@ post_title: Unfinished work of Christ in Acts
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/unfinished-work-christ-acts/
+permalink: /2015/11/unfinished-work-christ-acts/
 published: true
 post_date: 2015-11-19 22:59:56
 ---

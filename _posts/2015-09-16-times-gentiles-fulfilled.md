@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/times-gentiles-fulfilled/
+permalink: /2015/09/times-gentiles-fulfilled/
 published: true
 post_date: 2015-09-16 21:10:52
 ---

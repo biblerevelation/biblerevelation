@@ -4,8 +4,7 @@ post_title: Being Holy
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2018/11/being-holy/
+permalink: /2018/11/being-holy/
 published: true
 post_date: 2018-11-10 19:43:57
 ---

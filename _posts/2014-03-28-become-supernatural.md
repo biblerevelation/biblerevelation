@@ -4,8 +4,7 @@ post_title: How you become supernatural?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/become-supernatural/
+permalink: /2014/03/become-supernatural/
 published: true
 post_date: 2014-03-28 09:24:01
 ---

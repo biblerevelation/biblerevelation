@@ -4,8 +4,7 @@ post_title: Hear and be healed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/hear-and-be-healed/
+permalink: /2014/09/hear-and-be-healed/
 published: true
 post_date: 2014-09-15 16:07:57
 ---

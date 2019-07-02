@@ -4,8 +4,7 @@ post_title: 'How to make the Lord&#8217;s heart to rejoice?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/make-lords-heart-rejoice/
+permalink: /2014/09/make-lords-heart-rejoice/
 published: true
 post_date: 2014-09-23 08:50:36
 ---

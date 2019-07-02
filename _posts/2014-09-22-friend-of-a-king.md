@@ -4,8 +4,7 @@ post_title: How to be a friend of a king?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/friend-of-a-king/
+permalink: /2014/09/friend-of-a-king/
 published: true
 post_date: 2014-09-22 09:05:33
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/07/dont-cast-your-pearls-before-swine/
+  /2014/07/dont-cast-your-pearls-before-swine/
 published: true
 post_date: 2014-07-03 16:23:42
 ---

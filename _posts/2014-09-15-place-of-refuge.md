@@ -4,8 +4,7 @@ post_title: Place of Refuge
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/place-of-refuge/
+permalink: /2014/09/place-of-refuge/
 published: true
 post_date: 2014-09-15 09:11:33
 ---

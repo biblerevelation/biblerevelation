@@ -4,8 +4,7 @@ post_title: We Grow IN Grace
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/we-grow-in-grace/
+permalink: /2015/11/we-grow-in-grace/
 published: true
 post_date: 2015-11-13 01:55:57
 ---

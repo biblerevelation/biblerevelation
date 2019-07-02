@@ -4,8 +4,7 @@ post_title: Hearing the word of Christos
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/hearing-the-word-of-christos/
+permalink: /2015/10/hearing-the-word-of-christos/
 published: true
 post_date: 2015-10-30 00:27:24
 ---

@@ -4,8 +4,7 @@ post_title: Miracle of Luxury
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/miracle-of-luxury/
+permalink: /2016/04/miracle-of-luxury/
 published: true
 post_date: 2016-04-28 18:43:18
 ---

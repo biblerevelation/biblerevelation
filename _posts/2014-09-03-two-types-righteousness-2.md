@@ -4,8 +4,7 @@ post_title: Two types of Righteousness
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/two-types-righteousness-2/
+permalink: /2014/09/two-types-righteousness-2/
 published: true
 post_date: 2014-09-03 09:10:50
 ---

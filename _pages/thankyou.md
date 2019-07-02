@@ -4,7 +4,7 @@ post_title: Thank You
 author: Praison
 post_excerpt: ""
 layout: page
-permalink: https://biblerevelation.org/thankyou/
+permalink: /thankyou/
 published: true
 post_date: 2015-11-04 11:38:17
 ---

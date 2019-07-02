@@ -4,8 +4,7 @@ post_title: Importants of Counsel
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/importants-of-counsel/
+permalink: /2014/09/importants-of-counsel/
 published: true
 post_date: 2014-09-11 09:29:16
 ---

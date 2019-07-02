@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/healing-prayer-of-faith-and-holy-communion/
+  /2015/06/healing-prayer-of-faith-and-holy-communion/
 published: true
 post_date: 2015-06-23 23:07:56
 ---

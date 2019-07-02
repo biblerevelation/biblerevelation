@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/10/pray-i-believe-help-my-unbelief/
+  /2015/10/pray-i-believe-help-my-unbelief/
 published: true
 post_date: 2015-10-13 22:22:49
 ---

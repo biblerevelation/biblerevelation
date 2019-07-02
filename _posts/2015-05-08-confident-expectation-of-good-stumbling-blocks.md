@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/05/confident-expectation-of-good-stumbling-blocks/
+  /2015/05/confident-expectation-of-good-stumbling-blocks/
 published: true
 post_date: 2015-05-08 13:13:06
 ---

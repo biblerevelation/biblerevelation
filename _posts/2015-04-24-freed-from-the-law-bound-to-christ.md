@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/04/freed-from-the-law-bound-to-christ/
+  /2015/04/freed-from-the-law-bound-to-christ/
 published: true
 post_date: 2015-04-24 12:55:23
 ---

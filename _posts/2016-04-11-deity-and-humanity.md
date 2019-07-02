@@ -4,8 +4,7 @@ post_title: Deity and Humanity
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/deity-and-humanity/
+permalink: /2016/04/deity-and-humanity/
 published: true
 post_date: 2016-04-11 18:07:01
 ---

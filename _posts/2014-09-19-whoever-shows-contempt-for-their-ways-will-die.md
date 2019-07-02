@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/whoever-shows-contempt-for-their-ways-will-die/
+  /2014/09/whoever-shows-contempt-for-their-ways-will-die/
 published: true
 post_date: 2014-09-19 10:45:38
 ---

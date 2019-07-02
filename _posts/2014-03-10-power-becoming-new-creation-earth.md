@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/power-becoming-new-creation-earth/
+  /2014/03/power-becoming-new-creation-earth/
 published: true
 post_date: 2014-03-10 17:51:25
 ---

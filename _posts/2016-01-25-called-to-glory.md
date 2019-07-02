@@ -4,8 +4,7 @@ post_title: Called to Glory
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/01/called-to-glory/
+permalink: /2016/01/called-to-glory/
 published: true
 post_date: 2016-01-25 18:49:28
 ---

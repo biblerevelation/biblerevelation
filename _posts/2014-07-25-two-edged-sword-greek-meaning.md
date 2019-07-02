@@ -4,8 +4,7 @@ post_title: Two-edged sword, Greek meaning
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/07/two-edged-sword-greek-meaning/
+permalink: /2014/07/two-edged-sword-greek-meaning/
 published: true
 post_date: 2014-07-25 09:25:14
 ---

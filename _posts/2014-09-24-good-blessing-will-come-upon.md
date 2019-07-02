@@ -4,8 +4,7 @@ post_title: When good blessing will come upon them?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/good-blessing-will-come-upon/
+permalink: /2014/09/good-blessing-will-come-upon/
 published: true
 post_date: 2014-09-24 09:19:35
 ---

@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/03/what-should-be-your-number-1-prayer-request/
+  /2014/03/what-should-be-your-number-1-prayer-request/
 published: true
 post_date: 2014-03-20 16:45:12
 ---

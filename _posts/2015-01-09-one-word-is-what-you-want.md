@@ -4,8 +4,7 @@ post_title: One word is what you want
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/01/one-word-is-what-you-want/
+permalink: /2015/01/one-word-is-what-you-want/
 published: true
 post_date: 2015-01-09 10:58:40
 ---

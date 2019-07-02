@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/why-god-opened-door-to-gentiles/
+  /2015/12/why-god-opened-door-to-gentiles/
 published: true
 post_date: 2015-12-22 18:21:45
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/blood-jesus-speaks-better-things/
+  /2015/06/blood-jesus-speaks-better-things/
 published: true
 post_date: 2015-06-17 23:35:28
 ---

@@ -4,8 +4,7 @@ post_title: Instant Healing
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/instant-healing/
+permalink: /2014/04/instant-healing/
 published: true
 post_date: 2014-04-19 23:35:00
 ---

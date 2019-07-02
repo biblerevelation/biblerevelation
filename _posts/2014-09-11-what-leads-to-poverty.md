@@ -4,8 +4,7 @@ post_title: What leads to poverty?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/what-leads-to-poverty/
+permalink: /2014/09/what-leads-to-poverty/
 published: true
 post_date: 2014-09-11 08:44:49
 ---

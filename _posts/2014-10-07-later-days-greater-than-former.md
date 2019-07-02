@@ -4,8 +4,7 @@ post_title: Later days greater than the former
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/later-days-greater-than-former/
+permalink: /2014/10/later-days-greater-than-former/
 published: true
 post_date: 2014-10-07 11:40:06
 ---

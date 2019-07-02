@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/07/how-to-know-if-anyone-is-a-false-prophet/
+  /2014/07/how-to-know-if-anyone-is-a-false-prophet/
 published: true
 post_date: 2014-07-18 10:53:23
 ---

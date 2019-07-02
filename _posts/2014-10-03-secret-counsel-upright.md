@@ -4,8 +4,7 @@ post_title: 'His &#8220;secret counsel&#8221; is with the upright'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/secret-counsel-upright/
+permalink: /2014/10/secret-counsel-upright/
 published: true
 post_date: 2014-10-03 10:34:39
 ---

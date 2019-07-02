@@ -4,8 +4,7 @@ post_title: Jesus our Foundation
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/jesus-our-foundation/
+permalink: /2015/09/jesus-our-foundation/
 published: true
 post_date: 2015-09-07 04:36:35
 ---

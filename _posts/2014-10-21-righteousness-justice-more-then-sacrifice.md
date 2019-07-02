@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/righteousness-justice-more-then-sacrifice/
+  /2014/10/righteousness-justice-more-then-sacrifice/
 published: true
 post_date: 2014-10-21 16:10:54
 ---

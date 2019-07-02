@@ -4,8 +4,7 @@ post_title: Tongue, Lips, Mouth in Proverbs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/tongue-lips-mouth-proverbs/
+permalink: /2014/09/tongue-lips-mouth-proverbs/
 published: true
 post_date: 2014-09-10 12:55:02
 ---

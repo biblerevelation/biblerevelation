@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/words-talebearer-go-inmost-body/
+  /2014/09/words-talebearer-go-inmost-body/
 published: true
 post_date: 2014-09-18 10:56:04
 ---

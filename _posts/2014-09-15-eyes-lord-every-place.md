@@ -4,8 +4,7 @@ post_title: The eyes of the Lord are in every place
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/eyes-lord-every-place/
+permalink: /2014/09/eyes-lord-every-place/
 published: true
 post_date: 2014-09-15 09:08:10
 ---

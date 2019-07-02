@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/12/woe-when-all-men-speak-well-of-you/
+  /2014/12/woe-when-all-men-speak-well-of-you/
 published: true
 post_date: 2014-12-05 23:03:24
 ---

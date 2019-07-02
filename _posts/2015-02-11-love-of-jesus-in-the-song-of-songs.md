@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/02/love-of-jesus-in-the-song-of-songs/
+  /2015/02/love-of-jesus-in-the-song-of-songs/
 published: true
 post_date: 2015-02-11 21:18:25
 ---

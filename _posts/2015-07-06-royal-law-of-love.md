@@ -4,8 +4,7 @@ post_title: Royal law of Love
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/royal-law-of-love/
+permalink: /2015/07/royal-law-of-love/
 published: true
 post_date: 2015-07-06 14:17:58
 ---

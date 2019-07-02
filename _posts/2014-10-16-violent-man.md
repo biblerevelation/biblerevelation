@@ -4,8 +4,7 @@ post_title: Violent man
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/violent-man/
+permalink: /2014/10/violent-man/
 published: true
 post_date: 2014-10-16 11:29:11
 ---

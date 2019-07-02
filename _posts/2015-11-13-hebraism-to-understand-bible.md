@@ -4,8 +4,7 @@ post_title: Hebraism to Understand Bible
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/hebraism-to-understand-bible/
+permalink: /2015/11/hebraism-to-understand-bible/
 published: true
 post_date: 2015-11-13 22:10:50
 ---

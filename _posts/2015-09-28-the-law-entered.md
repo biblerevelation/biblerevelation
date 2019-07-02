@@ -4,8 +4,7 @@ post_title: The Law ENTERED
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/the-law-entered/
+permalink: /2015/09/the-law-entered/
 published: true
 post_date: 2015-09-28 17:50:50
 ---

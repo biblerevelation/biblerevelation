@@ -4,8 +4,7 @@ post_title: Generous eye will be blessed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/generous-eye-will-be-blessed/
+permalink: /2014/09/generous-eye-will-be-blessed/
 published: true
 post_date: 2014-09-22 09:04:38
 ---

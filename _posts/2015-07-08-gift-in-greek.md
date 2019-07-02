@@ -4,8 +4,7 @@ post_title: Gift in Greek
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/gift-in-greek/
+permalink: /2015/07/gift-in-greek/
 published: true
 post_date: 2015-07-08 13:33:06
 ---

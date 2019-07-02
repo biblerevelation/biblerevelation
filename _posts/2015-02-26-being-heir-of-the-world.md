@@ -4,8 +4,7 @@ post_title: Being heir of the world
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/being-heir-of-the-world/
+permalink: /2015/02/being-heir-of-the-world/
 published: true
 post_date: 2015-02-26 23:30:07
 ---

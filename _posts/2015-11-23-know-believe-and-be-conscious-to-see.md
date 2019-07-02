@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/know-believe-and-be-conscious-to-see/
+  /2015/11/know-believe-and-be-conscious-to-see/
 published: true
 post_date: 2015-11-23 23:48:38
 ---

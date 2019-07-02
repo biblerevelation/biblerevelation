@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/splendor-old-men-gray-head/
+permalink: /2014/10/splendor-old-men-gray-head/
 published: true
 post_date: 2014-10-20 16:14:46
 ---

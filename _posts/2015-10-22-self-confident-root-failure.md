@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/10/self-confident-root-failure/
+permalink: /2015/10/self-confident-root-failure/
 published: true
 post_date: 2015-10-22 13:01:07
 ---

@@ -4,8 +4,7 @@ post_title: Love for Wisdom
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/love-for-wisdom/
+permalink: /2014/10/love-for-wisdom/
 published: true
 post_date: 2014-10-08 11:34:25
 ---

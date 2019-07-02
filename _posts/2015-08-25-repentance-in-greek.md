@@ -4,8 +4,7 @@ post_title: Repentance in Greek
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/08/repentance-in-greek/
+permalink: /2015/08/repentance-in-greek/
 published: true
 post_date: 2015-08-25 13:16:21
 ---

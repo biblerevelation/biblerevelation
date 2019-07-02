@@ -4,8 +4,7 @@ post_title: Satan was cast out at the cross
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/satan-cast-cross/
+permalink: /2014/06/satan-cast-cross/
 published: true
 post_date: 2014-06-13 13:21:30
 ---

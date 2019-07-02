@@ -4,8 +4,7 @@ post_title: Jesus both Child and Son
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/12/jesus-both-child-and-son/
+permalink: /2015/12/jesus-both-child-and-son/
 published: true
 post_date: 2015-12-23 18:25:53
 ---

@@ -4,8 +4,7 @@ post_title: How to find the knowledge of God?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/find-the-knowledge-of-god/
+permalink: /2014/09/find-the-knowledge-of-god/
 published: true
 post_date: 2014-09-02 11:22:13
 ---

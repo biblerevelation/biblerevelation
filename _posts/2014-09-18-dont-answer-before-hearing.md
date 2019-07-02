@@ -4,8 +4,7 @@ post_title: 'Don&#8217;t answer before hearing : Wisdom'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/dont-answer-before-hearing/
+permalink: /2014/09/dont-answer-before-hearing/
 published: true
 post_date: 2014-09-18 10:57:00
 ---

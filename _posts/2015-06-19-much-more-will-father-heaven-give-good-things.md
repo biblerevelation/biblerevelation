@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/much-more-will-father-heaven-give-good-things/
+  /2015/06/much-more-will-father-heaven-give-good-things/
 published: true
 post_date: 2015-06-19 17:36:09
 ---

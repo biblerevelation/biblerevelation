@@ -4,8 +4,7 @@ post_title: Residual Blessings of Abraham
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/residual-blessings-abraham/
+permalink: /2015/09/residual-blessings-abraham/
 published: true
 post_date: 2015-09-24 17:56:27
 ---

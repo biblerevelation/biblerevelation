@@ -4,8 +4,7 @@ post_title: 'Jesus said &#8220;My word&#8221; to Jews'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/04/jesus-said-my-word-to-jews/
+permalink: /2014/04/jesus-said-my-word-to-jews/
 published: true
 post_date: 2014-04-02 10:44:51
 ---

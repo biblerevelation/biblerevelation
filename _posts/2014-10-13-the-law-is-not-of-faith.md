@@ -4,8 +4,7 @@ post_title: The law is not of faith
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/the-law-is-not-of-faith/
+permalink: /2014/10/the-law-is-not-of-faith/
 published: true
 post_date: 2014-10-13 14:29:50
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/09/acceptable-year-day-of-vengeance/
+  /2015/09/acceptable-year-day-of-vengeance/
 published: true
 post_date: 2015-09-04 13:53:49
 ---

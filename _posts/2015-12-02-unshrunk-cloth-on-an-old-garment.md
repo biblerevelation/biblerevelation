@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/unshrunk-cloth-on-an-old-garment/
+  /2015/12/unshrunk-cloth-on-an-old-garment/
 published: true
 post_date: 2015-12-02 18:44:50
 ---

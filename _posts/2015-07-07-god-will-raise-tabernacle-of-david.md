@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/07/god-will-raise-tabernacle-of-david/
+  /2015/07/god-will-raise-tabernacle-of-david/
 published: true
 post_date: 2015-07-07 14:04:21
 ---

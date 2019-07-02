@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/not-good-to-show-partiality-wicked/
+  /2014/09/not-good-to-show-partiality-wicked/
 published: true
 post_date: 2014-09-18 10:54:49
 ---

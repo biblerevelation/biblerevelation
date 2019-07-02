@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/06/high-priest-old-and-new-testament/
+  /2015/06/high-priest-old-and-new-testament/
 published: true
 post_date: 2015-06-30 20:01:39
 ---

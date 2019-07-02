@@ -4,8 +4,7 @@ post_title: Sit in the Heat of the Day
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/sit-heat-day/
+permalink: /2015/09/sit-heat-day/
 published: true
 post_date: 2015-09-25 18:35:42
 ---

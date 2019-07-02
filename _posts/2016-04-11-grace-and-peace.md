@@ -4,8 +4,7 @@ post_title: Grace and Peace
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/04/grace-and-peace/
+permalink: /2016/04/grace-and-peace/
 published: true
 post_date: 2016-04-11 21:00:18
 ---

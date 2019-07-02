@@ -4,8 +4,7 @@ post_title: First temptation for Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/06/first-temptation-jesus/
+permalink: /2015/06/first-temptation-jesus/
 published: true
 post_date: 2015-06-30 18:58:58
 ---

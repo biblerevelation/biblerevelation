@@ -4,8 +4,7 @@ post_title: Strength of Abraham and Joshua
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/strength-of-abraham-and-joshua/
+permalink: /2015/09/strength-of-abraham-and-joshua/
 published: true
 post_date: 2015-09-25 18:31:16
 ---

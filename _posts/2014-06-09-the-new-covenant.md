@@ -4,8 +4,7 @@ post_title: The New Covenant
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/06/the-new-covenant/
+permalink: /2014/06/the-new-covenant/
 published: true
 post_date: 2014-06-09 09:41:48
 ---

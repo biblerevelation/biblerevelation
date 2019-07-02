@@ -4,8 +4,7 @@ post_title: The devising of foolishness is sin
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/devising-of-foolishness-is-sin/
+permalink: /2014/09/devising-of-foolishness-is-sin/
 published: true
 post_date: 2014-09-24 09:07:45
 ---

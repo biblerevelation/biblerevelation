@@ -4,8 +4,7 @@ post_title: How we get peace?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/02/how-we-get-peace/
+permalink: /2015/02/how-we-get-peace/
 published: true
 post_date: 2015-02-04 23:25:31
 ---

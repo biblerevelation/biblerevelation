@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/09/lord-overthrows-words-of-faithless/
+  /2014/09/lord-overthrows-words-of-faithless/
 published: true
 post_date: 2014-09-22 09:07:13
 ---

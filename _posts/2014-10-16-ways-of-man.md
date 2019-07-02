@@ -4,8 +4,7 @@ post_title: Ways of Man
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/ways-of-man/
+permalink: /2014/10/ways-of-man/
 published: true
 post_date: 2014-10-16 14:57:28
 ---

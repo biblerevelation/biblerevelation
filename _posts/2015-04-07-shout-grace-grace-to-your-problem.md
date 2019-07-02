@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/04/shout-grace-grace-to-your-problem/
+  /2015/04/shout-grace-grace-to-your-problem/
 published: true
 post_date: 2015-04-07 18:24:28
 ---

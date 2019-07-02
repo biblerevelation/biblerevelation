@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/05/it-pleased-the-lord-to-bruise-jesus/
+  /2015/05/it-pleased-the-lord-to-bruise-jesus/
 published: true
 post_date: 2015-05-15 13:54:04
 ---

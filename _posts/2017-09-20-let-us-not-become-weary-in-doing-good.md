@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2017/09/let-us-not-become-weary-in-doing-good/
+  /2017/09/let-us-not-become-weary-in-doing-good/
 published: true
 post_date: 2017-09-20 22:28:36
 ---

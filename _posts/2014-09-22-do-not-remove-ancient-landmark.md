@@ -4,8 +4,7 @@ post_title: Do not remove the ancient landmark
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/do-not-remove-ancient-landmark/
+permalink: /2014/09/do-not-remove-ancient-landmark/
 published: true
 post_date: 2014-09-22 09:15:01
 ---

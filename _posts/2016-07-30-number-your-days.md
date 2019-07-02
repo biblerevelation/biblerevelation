@@ -4,8 +4,7 @@ post_title: Number your days
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2016/07/number-your-days/
+permalink: /2016/07/number-your-days/
 published: true
 post_date: 2016-07-30 12:07:31
 ---

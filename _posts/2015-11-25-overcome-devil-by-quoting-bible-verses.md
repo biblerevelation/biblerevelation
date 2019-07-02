@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/overcome-devil-by-quoting-bible-verses/
+  /2015/11/overcome-devil-by-quoting-bible-verses/
 published: true
 post_date: 2015-11-25 22:37:28
 ---

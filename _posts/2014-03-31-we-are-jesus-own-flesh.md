@@ -4,8 +4,7 @@ post_title: 'We are Jesus&#8217;s own flesh'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/we-are-jesus-own-flesh/
+permalink: /2014/03/we-are-jesus-own-flesh/
 published: true
 post_date: 2014-03-31 10:49:54
 ---

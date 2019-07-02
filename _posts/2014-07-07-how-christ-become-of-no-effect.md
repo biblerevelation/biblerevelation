@@ -4,8 +4,7 @@ post_title: How Christ become of no effect?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/07/how-christ-become-of-no-effect/
+permalink: /2014/07/how-christ-become-of-no-effect/
 published: true
 post_date: 2014-07-07 10:09:21
 ---

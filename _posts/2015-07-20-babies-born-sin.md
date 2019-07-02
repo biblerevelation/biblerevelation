@@ -4,8 +4,7 @@ post_title: Babies being born in sin
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/07/babies-born-sin/
+permalink: /2015/07/babies-born-sin/
 published: true
 post_date: 2015-07-20 17:35:51
 ---

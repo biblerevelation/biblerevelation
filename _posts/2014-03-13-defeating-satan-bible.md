@@ -4,8 +4,7 @@ post_title: Defeating Satan (Bible)
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/defeating-satan-bible/
+permalink: /2014/03/defeating-satan-bible/
 published: true
 post_date: 2014-03-13 17:36:51
 ---

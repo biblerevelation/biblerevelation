@@ -4,8 +4,7 @@ post_title: Way that seems right to a man
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/way-seems-right-to-man/
+permalink: /2014/09/way-seems-right-to-man/
 published: true
 post_date: 2014-09-15 10:12:58
 ---

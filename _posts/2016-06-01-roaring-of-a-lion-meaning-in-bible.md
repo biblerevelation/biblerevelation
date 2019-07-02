@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2016/06/roaring-of-a-lion-meaning-in-bible/
+  /2016/06/roaring-of-a-lion-meaning-in-bible/
 published: true
 post_date: 2016-06-01 23:03:57
 ---

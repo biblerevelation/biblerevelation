@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/02/three-pillars-of-theology-about-god/
+  /2015/02/three-pillars-of-theology-about-god/
 published: true
 post_date: 2015-02-14 10:42:59
 ---

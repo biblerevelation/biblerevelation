@@ -4,8 +4,7 @@ post_title: Why we have 31 Chapters in Proverbs?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/03/31-chapters-proverbs/
+permalink: /2014/03/31-chapters-proverbs/
 published: true
 post_date: 2014-03-27 13:38:34
 ---

@@ -6,8 +6,7 @@ post_title: >
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/gives-right-answer-kisses-lips/
+permalink: /2014/09/gives-right-answer-kisses-lips/
 published: true
 post_date: 2014-09-24 09:19:49
 ---

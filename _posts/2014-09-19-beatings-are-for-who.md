@@ -4,8 +4,7 @@ post_title: Beatings are for who?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/09/beatings-are-for-who/
+permalink: /2014/09/beatings-are-for-who/
 published: true
 post_date: 2014-09-19 10:53:49
 ---

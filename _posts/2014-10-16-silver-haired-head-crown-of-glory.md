@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/10/silver-haired-head-crown-of-glory/
+  /2014/10/silver-haired-head-crown-of-glory/
 published: true
 post_date: 2014-10-16 14:48:41
 ---

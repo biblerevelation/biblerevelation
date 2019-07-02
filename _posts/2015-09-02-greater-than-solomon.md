@@ -4,8 +4,7 @@ post_title: Greater than Solomon
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/09/greater-than-solomon/
+permalink: /2015/09/greater-than-solomon/
 published: true
 post_date: 2015-09-02 13:25:38
 ---

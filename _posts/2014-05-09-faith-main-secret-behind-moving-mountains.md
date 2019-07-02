@@ -5,7 +5,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/05/faith-main-secret-behind-moving-mountains/
+  /2014/05/faith-main-secret-behind-moving-mountains/
 published: true
 post_date: 2014-05-09 15:14:54
 ---

@@ -4,8 +4,7 @@ post_title: Life, and Health to ALL their flesh
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/04/life-health-to-all-their-flesh/
+permalink: /2015/04/life-health-to-all-their-flesh/
 published: true
 post_date: 2015-04-07 18:44:25
 ---

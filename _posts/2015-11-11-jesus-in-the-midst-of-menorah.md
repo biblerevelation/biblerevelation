@@ -4,8 +4,7 @@ post_title: Jesus in the Midst of Menorah
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2015/11/jesus-in-the-midst-of-menorah/
+permalink: /2015/11/jesus-in-the-midst-of-menorah/
 published: true
 post_date: 2015-11-11 00:43:17
 ---

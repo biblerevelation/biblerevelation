@@ -4,7 +4,7 @@ post_title: iPhone App
 author: Praison
 post_excerpt: ""
 layout: page
-permalink: https://biblerevelation.org/iphone/
+permalink: /iphone/
 published: true
 post_date: 2016-02-08 22:33:15
 ---

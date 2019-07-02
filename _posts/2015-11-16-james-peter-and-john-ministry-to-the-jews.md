@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/11/james-peter-and-john-ministry-to-the-jews/
+  /2015/11/james-peter-and-john-ministry-to-the-jews/
 published: true
 post_date: 2015-11-16 18:41:23
 ---

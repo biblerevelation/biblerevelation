@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2015/12/why-thieves-both-sides-when-jesus-on-the-cross/
+  /2015/12/why-thieves-both-sides-when-jesus-on-the-cross/
 published: true
 post_date: 2015-12-23 18:40:36
 ---

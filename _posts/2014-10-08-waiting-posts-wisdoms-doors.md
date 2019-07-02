@@ -4,8 +4,7 @@ post_title: '&#8220;Waiting&#8221; at the posts of Wisdoms&#8217; doors'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/waiting-posts-wisdoms-doors/
+permalink: /2014/10/waiting-posts-wisdoms-doors/
 published: true
 post_date: 2014-10-08 11:31:09
 ---

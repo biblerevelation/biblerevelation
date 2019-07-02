@@ -4,8 +4,7 @@ post_title: Blows that hurt purifies the heart
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://biblerevelation.org/2014/10/blows-hurt-purifies-heart/
+permalink: /2014/10/blows-hurt-purifies-heart/
 published: true
 post_date: 2014-10-20 16:16:12
 ---

@@ -7,7 +7,7 @@ author: Praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://biblerevelation.org/2014/04/men-come-against-you-shall-be-ashamed/
+  /2014/04/men-come-against-you-shall-be-ashamed/
 published: true
 post_date: 2014-04-10 13:21:34
 ---
