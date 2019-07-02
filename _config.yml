@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+auto: true
+markdown: rdiscount
+permalink: /:year/:month/:title
+rdiscount extensions: [smart]
