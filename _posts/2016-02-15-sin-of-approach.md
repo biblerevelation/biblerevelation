@@ -135,7 +135,7 @@ post_date: 2016-02-15 18:14:21
 </li>
 	<li>John is full of "Beloved"
 <ul>
-	<li>Reference : <a href="http://biblehub.com/greek/27.htm" target="_blank" rel="nofollow">http://biblehub.com/greek/27.htm</a></li>
+	<li>Reference : <a href="http://biblehub.com/greek/27.htm" target="_blank" rel="nofollow noopener noreferrer">http://biblehub.com/greek/27.htm</a></li>
 	<li>Beloved in Greek : agapétos</li>
 	<li>agapétos means "you loved ones", "as beloved by God, Christ, and one another"</li>
 	<li>Remind one another they they are loved.

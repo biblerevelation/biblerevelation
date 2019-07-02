@@ -12,7 +12,7 @@ post_date: 2014-03-27 13:38:34
 <h2>What should be your #1 Prayer Request?</h2>
 Wisdom!!
 <h2>Why Wisdom is our #1 Prayer Request?</h2>
-<a title="What should be your #1 Prayer Request?" href="http://biblerevelation.org/2014/03/20/number-1-prayer-request/" target="_blank">Click me for more info</a>
+<a title="What should be your #1 Prayer Request?" href="http://biblerevelation.org/2014/03/20/number-1-prayer-request/" target="_blank" rel="noopener noreferrer">Click me for more info</a>
 <h2>Short Note about Wisdom:</h2>
 <ul>
 	<li>Wisdom being the Principal thing mentioned in Bible ( Proverbs 4:7 )</li>
@@ -21,7 +21,7 @@ Wisdom!!
 	<li>Wisdom Brings Happiness, Length of Days (Health), Riches, Honor, Pleasantness, Peace ( Proverbs 3:13-17 )</li>
 	<li>“Word of Wisdom” is the 1st Spiritual Gift mentioned (1 Corinthians 12:7-10)</li>
 </ul>
-<a title="What should be your #1 Prayer Request?" href="http://biblerevelation.org/2014/03/20/number-1-prayer-request/" target="_blank">For Elaborated note please click me</a>
+<a title="What should be your #1 Prayer Request?" href="http://biblerevelation.org/2014/03/20/number-1-prayer-request/" target="_blank" rel="noopener noreferrer">For Elaborated note please click me</a>
 <h2>Answer:</h2>
 <ul>
 	<li>Everything in Bible has a Predominance</li>

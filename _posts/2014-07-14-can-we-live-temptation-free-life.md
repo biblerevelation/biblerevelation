@@ -36,7 +36,7 @@ post_date: 2014-07-14 10:47:38
 	<li>Only one law in Garden of Eden : Not to eat the fruit from the tree of Knowledge of Good and evil --&gt; satan could use only that to bring temptation</li>
 	<li>10 commandments was given --&gt; satan could use only that to bring temptation</li>
 	<li>Christ has redeemed us from the curse of the law</li>
-	<li>Now there is no 10 commandments ( <a title="10 commandments is the ministry of death (Bible)" href="http://biblerevelation.org/2014/03/19/10-commandments-ministry-death-bible/" target="_blank">More info</a> )</li>
+	<li>Now there is no 10 commandments ( <a title="10 commandments is the ministry of death (Bible)" href="http://biblerevelation.org/2014/03/19/10-commandments-ministry-death-bible/" target="_blank" rel="noopener noreferrer">More info</a> )</li>
 	<li>So now there is no law in the new Testament for satan to tempt us</li>
 </ul>
 <h4 class="passage-display" style="font-weight: 500; color: #000000;"><strong><span class="passage-display-bcv">Galatians 3:13</span></strong></h4>

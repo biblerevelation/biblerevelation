@@ -24,7 +24,7 @@ post_date: 2014-12-01 14:57:49
 	<li><span style="color: #0000ff;"><strong>I will multiply your descendants as the stars of the heaven : represents the church</strong></span>
 <ul>
 	<li>Gentiles</li>
-	<li><a title="Who are sons of Abraham?" href="http://biblerevelation.org/2014/10/13/sons-of-abraham/" target="_blank">Sons of Abraham</a> - More info</li>
+	<li><a title="Who are sons of Abraham?" href="http://biblerevelation.org/2014/10/13/sons-of-abraham/" target="_blank" rel="noopener noreferrer">Sons of Abraham</a> - More info</li>
 </ul>
 </li>
 	<li><span style="color: #008000;"><strong>as the sand which is on the seashore </strong></span>

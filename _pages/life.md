@@ -177,7 +177,7 @@ But Why People die?
 	<li>Or <span style="color: #ff0000;"><strong>People might receive Christ, but they might mix both Old Testament and New Testament ( eg: old vine in to new vine skin, either be warm or be cold )</strong></span></li>
 </ul>
 <h2 dir="ltr">Are you Preaching 10 Commandments? (Old Testament)</h2>
-<p dir="ltr"><a title="10 commandments is the ministry of death (Bible)" href="http://biblerevelation.org/2014/03/19/10-commandments-ministry-death-bible/" target="_blank">“You are doing Ministry of death as per Bible” -- More info click here</a></p>
+<p dir="ltr"><a title="10 commandments is the ministry of death (Bible)" href="http://biblerevelation.org/2014/03/19/10-commandments-ministry-death-bible/" target="_blank" rel="noopener noreferrer">“You are doing Ministry of death as per Bible” -- More info click here</a></p>
 <p dir="ltr">Commandments / Law says</p>
 
 <ul>

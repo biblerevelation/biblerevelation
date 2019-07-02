@@ -309,7 +309,7 @@ Many of the 70 left</li>
 	<li>He sees you mature before you are mature ( do this with others )</li>
 </ul>
 </li>
-	<li><a title="Do not provoke your children to anger" href="http://biblerevelation.org/2015/02/11/do-not-provoke-your-children-to-anger/" target="_blank">Do not provoke you children to anger</a></li>
+	<li><a title="Do not provoke your children to anger" href="http://biblerevelation.org/2015/02/11/do-not-provoke-your-children-to-anger/" target="_blank" rel="noopener noreferrer">Do not provoke you children to anger</a></li>
 </ul>
 <strong>Jeremiah 8:22</strong>
 <strong>New King James Version (NKJV)</strong>

@@ -86,7 +86,7 @@ That <span style="color: #ff00ff;"><strong>you may know the righteousness of the
 	<li class="line">It didn't say, they didn't do iniquity</li>
 </ul>
 </li>
-	<li><strong><span style="color: #666699;">He has strength like a wild ox</span> : </strong><a title="The Passover Lamp" href="http://biblerevelation.org/2014/11/19/the-passover-lamp/" target="_blank">There was non feeble -- More info</a></li>
+	<li><strong><span style="color: #666699;">He has strength like a wild ox</span> : </strong><a title="The Passover Lamp" href="http://biblerevelation.org/2014/11/19/the-passover-lamp/" target="_blank" rel="noopener noreferrer">There was non feeble -- More info</a></li>
 </ul>
 <h2>Error of Balaam</h2>
 <strong>Jude 1:11</strong>

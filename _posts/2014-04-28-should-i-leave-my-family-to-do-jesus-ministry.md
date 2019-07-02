@@ -185,9 +185,9 @@ Jesus fulfilled the Law/Commandment for us knowing that we cant fulfill. Shows t
 </ul>
 <strong>Suggested Reading</strong>
 <ul>
-	<li><a title="How you became a Sinner? by Sinning? NO" href="http://biblerevelation.org/2014/03/27/how-you-became-a-sinner-by-sinning-no/" target="_blank">How you became a sinner? By Sinning? No</a></li>
-	<li><a title="How you became Righteous?" href="http://biblerevelation.org/2014/04/10/how-you-became-righteous/" target="_blank">How you became Righteous?</a></li>
-	<li><a title="How you get Righteousness?" href="http://biblerevelation.org/2014/03/28/how-you-get-righteousness/" target="_blank">How you get Righteousness?</a></li>
+	<li><a title="How you became a Sinner? by Sinning? NO" href="http://biblerevelation.org/2014/03/27/how-you-became-a-sinner-by-sinning-no/" target="_blank" rel="noopener noreferrer">How you became a sinner? By Sinning? No</a></li>
+	<li><a title="How you became Righteous?" href="http://biblerevelation.org/2014/04/10/how-you-became-righteous/" target="_blank" rel="noopener noreferrer">How you became Righteous?</a></li>
+	<li><a title="How you get Righteousness?" href="http://biblerevelation.org/2014/03/28/how-you-get-righteousness/" target="_blank" rel="noopener noreferrer">How you get Righteousness?</a></li>
 </ul>
 </div>
 </div>

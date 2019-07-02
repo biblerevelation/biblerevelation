@@ -86,8 +86,8 @@ What is grace of God? .. click for more information
 
 <strong>Meaning</strong>: I exercise oversight, care for, visit.
 <ul>
-	<li><a href="http://biblehub.com/greek/episkopountes_1983.htm" target="_blank" rel="nofollow">http://biblehub.com/greek/episkopountes_1983.htm</a></li>
-	<li><a href="http://biblehub.com/thayers/1983.htm" target="_blank" rel="nofollow">http://biblehub.com/thayers/1983.htm</a></li>
+	<li><a href="http://biblehub.com/greek/episkopountes_1983.htm" target="_blank" rel="nofollow noopener noreferrer">http://biblehub.com/greek/episkopountes_1983.htm</a></li>
+	<li><a href="http://biblehub.com/thayers/1983.htm" target="_blank" rel="nofollow noopener noreferrer">http://biblehub.com/thayers/1983.htm</a></li>
 </ul>
 <strong>1 Peter 5:2</strong>
 <strong> New King James Version (NKJV)</strong>
@@ -108,7 +108,7 @@ For they shall see God.
 
 9 and made no distinction between us and them, <strong>purifying their hearts by faith</strong>.
 
-<a title="How to purify our hearts?" href="http://biblerevelation.org/2015/01/20/how-to-purify-our-hearts/" target="_blank">How to purify our Hearts? </a>
+<a title="How to purify our hearts?" href="http://biblerevelation.org/2015/01/20/how-to-purify-our-hearts/" target="_blank" rel="noopener noreferrer">How to purify our Hearts? </a>
 <ul>
 	<li>Gentiles Hearts were purified at Cornelius house when they believed the good news that their sins were forgiven through Jesus Christ</li>
 	<li>We should live hungry for fresh revelation of the Lord everyday</li>
@@ -224,7 +224,7 @@ And <span style="color: #0000ff;"><strong>the older shall serve the younger</str
 <ul>
 	<li>repentance means <strong>metanoia</strong> in Greek
 <ul>
-	<li><a title="Repentance in Greek" href="http://biblehub.com/greek/3341.htm" target="_blank">http://biblehub.com/greek/3341.htm</a></li>
+	<li><a title="Repentance in Greek" href="http://biblehub.com/greek/3341.htm" target="_blank" rel="noopener noreferrer">http://biblehub.com/greek/3341.htm</a></li>
 </ul>
 </li>
 	<li>He found no place to change fathers mind</li>

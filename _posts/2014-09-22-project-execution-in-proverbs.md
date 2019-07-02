@@ -73,7 +73,7 @@ And afterward build your house.
 27 <span style="color: #ff00ff;"><strong>Do your planning and prepare your fields before building your house</strong></span>.
 <h2>Importance of Counsel</h2>
 <ul>
-	<li><a title="Importants of Counsel" href="http://biblerevelation.org/2014/09/11/importants-of-counsel/" target="_blank">Importance of Counsel</a></li>
+	<li><a title="Importants of Counsel" href="http://biblerevelation.org/2014/09/11/importants-of-counsel/" target="_blank" rel="noopener noreferrer">Importance of Counsel</a></li>
 </ul>
 <h2>Decision Making</h2>
 <ul>

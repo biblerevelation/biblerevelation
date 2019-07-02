@@ -87,8 +87,8 @@ And the pleasure of the Lord shall prosper in His hand.
 	<li>Righteous people don't sin because the Love of the Father is in them</li>
 	<li>Righteous people don't lie because they are not afraid of anyone, except God in the sense of worshipping Him</li>
 	<li>Righteous people don't steal because they know God will provide for their need</li>
-	<li>More information about <a title="The New Covenant" href="http://biblerevelation.org/2014/06/09/the-new-covenant/" target="_blank">New Testament</a></li>
-	<li><a title="Places where Holy Spirit bears Witness" href="http://biblerevelation.org/2015/01/29/holy-spirit-bears-witness/" target="_blank">Places where Holy Spirit bears witness</a></li>
+	<li>More information about <a title="The New Covenant" href="http://biblerevelation.org/2014/06/09/the-new-covenant/" target="_blank" rel="noopener noreferrer">New Testament</a></li>
+	<li><a title="Places where Holy Spirit bears Witness" href="http://biblerevelation.org/2015/01/29/holy-spirit-bears-witness/" target="_blank" rel="noopener noreferrer">Places where Holy Spirit bears witness</a></li>
 </ul>
 <strong>Isaiah 53:5</strong>
 <strong> New King James Version (NKJV)</strong>

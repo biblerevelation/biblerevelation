@@ -93,7 +93,7 @@ Shall abide under the shadow of <span style="color: #ff00ff;"><strong>the Almigh
 </ul>
 <h3>More information</h3>
 <ul>
-	<li>Look now towards heaven and see if you are able to <span style="color: #339966;"><strong>count</strong> </span>the stars : *<strong><span style="color: #339966;">count</span> </strong>: re-count (<a href="http://biblehub.com/hebrew/5608.htm" target="_blank">http://biblehub.com/hebrew/5608.htm</a> )
+	<li>Look now towards heaven and see if you are able to <span style="color: #339966;"><strong>count</strong> </span>the stars : *<strong><span style="color: #339966;">count</span> </strong>: re-count (<a href="http://biblehub.com/hebrew/5608.htm" target="_blank" rel="noopener noreferrer">http://biblehub.com/hebrew/5608.htm</a> )
 <ul>
 	<li>Psalms 19:1  : the heavens declare the glory of God ( declare = Saphar )</li>
 	<li>Saphar = count : re-count</li>

@@ -26,7 +26,7 @@ Time for you to change your mind
 <ul>
 	<li>Only through Jesus you could expect <strong>confident expectation of Good</strong> (Biblical Hope)</li>
 	<li><strong>Bible Hope meaning :</strong> Confident expectation of Good only ( Never Bad)</li>
-	<li><a title="Hope : Biblical meaning" href="http://biblerevelation.org/2014/03/30/hope-biblical-meaning/" target="_blank">more info</a></li>
+	<li><a title="Hope : Biblical meaning" href="http://biblerevelation.org/2014/03/30/hope-biblical-meaning/" target="_blank" rel="noopener noreferrer">more info</a></li>
 </ul>
 <h2>Why life has Up's and Down's?</h2>
 Because that's what you believe. That's what you have faith on. So that's what you get.

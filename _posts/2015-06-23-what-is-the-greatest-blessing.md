@@ -19,4 +19,4 @@ post_date: 2015-06-23 23:14:28
 	<li>Jesus is our Salvation</li>
 	<li>Name of Jesus in Hebrew Yeshuah which means Salvation</li>
 </ul>
-<a href="http://biblehub.com/hebrew/3444.htm" target="_blank">http://biblehub.com/hebrew/3444.htm</a>
+<a href="http://biblehub.com/hebrew/3444.htm" target="_blank" rel="noopener noreferrer">http://biblehub.com/hebrew/3444.htm</a>

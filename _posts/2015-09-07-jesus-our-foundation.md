@@ -206,7 +206,7 @@ Despite of Ministers bad foundation
 <ul>
 	<li><span style="color: #333399;"><strong>Despite of what they are doing/done, their bodies are still the members of Christ</strong></span></li>
 	<li><span style="color: #00ff00;"><strong>Glorify God in your body</strong></span> by having a healthy body.</li>
-	<li><a href="http://biblerevelation.org/2015/09/07/how-to-glorify-god-in-your-body/" target="_blank">How to Glorify God in your body?</a> - read more</li>
+	<li><a href="http://biblerevelation.org/2015/09/07/how-to-glorify-god-in-your-body/" target="_blank" rel="noopener noreferrer">How to Glorify God in your body?</a> - read more</li>
 </ul>
 <div class="footnotes">
 <h4>Footnotes:</h4>

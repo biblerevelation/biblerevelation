@@ -303,8 +303,8 @@ Amen --&gt; Endurance --&gt; Seeing the blessing
 	<li>The Fast of Esther, observed before Purim, on the 13th of Adar</li>
 	<li>More info
 <ul>
-	<li><a href="https://en.wikipedia.org/wiki/Purim" target="_blank" rel="nofollow">https://en.wikipedia.org/wiki/Purim</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/Fast_of_Esther" target="_blank" rel="nofollow">https://en.wikipedia.org/wiki/Fast_of_Esther</a></li>
+	<li><a href="https://en.wikipedia.org/wiki/Purim" target="_blank" rel="nofollow noopener noreferrer">https://en.wikipedia.org/wiki/Purim</a></li>
+	<li><a href="https://en.wikipedia.org/wiki/Fast_of_Esther" target="_blank" rel="nofollow noopener noreferrer">https://en.wikipedia.org/wiki/Fast_of_Esther</a></li>
 </ul>
 </li>
 	<li>Another Haman trying to destroy Jews

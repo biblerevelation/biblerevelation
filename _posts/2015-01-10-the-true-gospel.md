@@ -24,7 +24,7 @@ post_date: 2015-01-10 10:43:06
 
 4 <span style="color: #ff00ff;"><strong>For</strong></span> certain men have crept in unnoticed, who long ago were marked out for this condemnation, ungodly men, who <span style="color: #800080;"><strong>turn</strong> </span>the grace of our God into lewdness and deny the only Lord God and our Lord Jesus Christ.
 
-<span style="color: #800080;"><strong>turn</strong> </span>= Replacement : <span style="color: #800080;"><strong>metatithemi</strong> </span>in Greek ( <a title="metatithemi" href="http://biblehub.com/greek/3346.htm" target="_blank">http://biblehub.com/greek/3346.htm</a> ) 5 more occurrences
+<span style="color: #800080;"><strong>turn</strong> </span>= Replacement : <span style="color: #800080;"><strong>metatithemi</strong> </span>in Greek ( <a title="metatithemi" href="http://biblehub.com/greek/3346.htm" target="_blank" rel="noopener noreferrer">http://biblehub.com/greek/3346.htm</a> ) 5 more occurrences
 
 licentiousness = lewdness
 <ul>

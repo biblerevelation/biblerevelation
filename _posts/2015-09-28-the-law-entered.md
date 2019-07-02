@@ -28,4 +28,4 @@ post_date: 2015-09-28 17:50:50
 <ul>
 	<li>"SECRETLY BROUGH IN"&nbsp;in Greek :&nbsp;pareiserchomai</li>
 </ul>
-Greek Meaning Source : <a href="http://biblehub.com/greek/3922.htm" target="_blank" rel="nofollow">http://biblehub.com/greek/3922.htm</a>
+Greek Meaning Source : <a href="http://biblehub.com/greek/3922.htm" target="_blank" rel="nofollow noopener noreferrer">http://biblehub.com/greek/3922.htm</a>

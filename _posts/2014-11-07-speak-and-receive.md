@@ -43,7 +43,7 @@ post_date: 2014-11-07 14:59:59
 	<li>Place of faith is to walk like God and talk like God.</li>
 	<li>God saw Gideon who was trembling , an angel appeared and said " mighty man of valor!"</li>
 	<li>Man saw a shepherd boy, but God called him a king</li>
-	<li>Jesus saw Simon. Simon means "<a title="Read/Hearing/Listen" rel="nofollow" href="http://www.abarim-publications.com/Meaning/Simon.html" target="_blank">read/hearing/listen</a>..". Jesus called his as Petros ( Peter ). You shall be a rock. Finally he end-up becoming a rock/pillar for the church.</li>
+	<li>Jesus saw Simon. Simon means "<a title="Read/Hearing/Listen" rel="nofollow noopener noreferrer" href="http://www.abarim-publications.com/Meaning/Simon.html" target="_blank">read/hearing/listen</a>..". Jesus called his as Petros ( Peter ). You shall be a rock. Finally he end-up becoming a rock/pillar for the church.</li>
 	<li>God doesn't see who you are in natural. He sees your potential and destiny by which he called you to.</li>
 	<li>We are definitely not an accident.</li>
 </ul>

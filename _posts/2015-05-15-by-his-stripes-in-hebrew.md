@@ -19,12 +19,12 @@ And by His <span style="color: #0000ff;"><strong>stripes</strong> </span>we are 
 <h2>Stripes in Hebrew</h2>
 <ul>
 	<li>Stripes in Hebrew : chabburah</li>
-	<li>Reference : <a href="http://biblehub.com/hebrew/2250.htm" target="_blank" rel="nofollow">http://biblehub.com/hebrew/2250.htm</a></li>
+	<li>Reference : <a href="http://biblehub.com/hebrew/2250.htm" target="_blank" rel="nofollow noopener noreferrer">http://biblehub.com/hebrew/2250.htm</a></li>
 </ul>
 <h2>Chabburah root word</h2>
 <ul>
 	<li>chabburah root word : chabar</li>
-	<li>Reference : <a href="http://biblehub.com/hebrew/2266.htm" target="_blank" rel="nofollow">http://biblehub.com/hebrew/2266.htm</a></li>
+	<li>Reference : <a href="http://biblehub.com/hebrew/2266.htm" target="_blank" rel="nofollow noopener noreferrer">http://biblehub.com/hebrew/2266.htm</a></li>
 </ul>
 <h2>Chabar means joined</h2>
 <ul>

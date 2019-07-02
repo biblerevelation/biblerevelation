@@ -40,7 +40,7 @@ Amplified Bible (AMP)
 <div></div>
 <div>
 <ul>
-	<li>Wisdom Brings Happiness, Length of Days (Health), Riches, Honor, Pleasantness, Peace ( Proverbs 3:13-17 ) <a title="What should be your #1 Prayer Request?" href="http://biblerevelation.org/2014/03/20/number-1-prayer-request/" target="_blank">more info</a></li>
+	<li>Wisdom Brings Happiness, Length of Days (Health), Riches, Honor, Pleasantness, Peace ( Proverbs 3:13-17 ) <a title="What should be your #1 Prayer Request?" href="http://biblerevelation.org/2014/03/20/number-1-prayer-request/" target="_blank" rel="noopener noreferrer">more info</a></li>
 </ul>
 <ul>
 	<li><strong>Even Righteousness, Holiness and Redemption comes after wisdom (below verse)</strong></li>

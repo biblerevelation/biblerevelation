@@ -21,7 +21,7 @@ King James Version (KJV)
 <h2>Who are you?</h2>
 <ul>
 	<li>You are the Righteousness of God in Christ</li>
-	<li><a title="Can we become UnRighteous after becoming Righteous?" href="http://biblerevelation.org/2014/04/10/can-we-become-unrighteous-after-becoming-righteous/" target="_blank">You got the everlasting Righteousness through Jesus</a></li>
+	<li><a title="Can we become UnRighteous after becoming Righteous?" href="http://biblerevelation.org/2014/04/10/can-we-become-unrighteous-after-becoming-righteous/" target="_blank" rel="noopener noreferrer">You got the everlasting Righteousness through Jesus</a></li>
 </ul>
 <h2>Abomination to the Lord</h2>
 <ul>

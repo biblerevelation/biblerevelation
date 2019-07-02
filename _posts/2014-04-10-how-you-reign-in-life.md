@@ -24,7 +24,7 @@ By <span style="color: #ff00ff;"><strong>Receiving </strong></span>
 </ol>
 <strong><span style="color: #ff00ff;">through Jesus Christ</span></strong>
 
-<a title="How you get Righteousness?" href="http://biblerevelation.org/2014/03/28/how-you-get-righteousness/" target="_blank">Remember Righteousness is a gift, NOT REWARD.  more info</a>
+<a title="How you get Righteousness?" href="http://biblerevelation.org/2014/03/28/how-you-get-righteousness/" target="_blank" rel="noopener noreferrer">Remember Righteousness is a gift, NOT REWARD.  more info</a>
 <ul>
 	<li>Reign over sicknesses</li>
 	<li>Reign over diseases</li>

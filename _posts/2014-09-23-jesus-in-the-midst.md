@@ -45,4 +45,4 @@ Jesus Appears to His Disciples
 
 19 And when they could not find how they might bring him in, because of the crowd, they went up on the housetop and let him down with his bed through the tiling into the <span style="color: #ff00ff;"><strong>midst</strong></span> before Jesus.
 <h2>Other Verses for Midst</h2>
-<a href="http://biblehub.com/greek/meson_3319.htm" target="_blank" rel="nofollow">http://biblehub.com/greek/meson_3319.htm</a>
+<a href="http://biblehub.com/greek/meson_3319.htm" target="_blank" rel="nofollow noopener noreferrer">http://biblehub.com/greek/meson_3319.htm</a>
