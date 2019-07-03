@@ -11,6 +11,20 @@ defaults:
     values:
       image: assets/img/triangle.png # seo tag
 
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
