@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: god"
-tag: god
+title: "Tag: [love,"
+tag: [love,
 robots: noindex
 ---
