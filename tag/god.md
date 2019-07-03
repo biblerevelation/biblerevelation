@@ -1,6 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: god"
+title: "Tag: God"
 tag: god
+permalink: tag/god/
 robots: noindex
 ---

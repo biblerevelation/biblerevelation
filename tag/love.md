@@ -1,6 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: love"
+title: "Tag: Love"
 tag: love
+permalink: tag/love/
 robots: noindex
 ---
