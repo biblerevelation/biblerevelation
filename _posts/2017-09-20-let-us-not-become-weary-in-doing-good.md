@@ -4,8 +4,7 @@ post_title: Let us not become weary in doing good
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/09/let-us-not-become-weary-in-doing-good/
+permalink: /2017/09/let-us-not-become-weary-in-doing-good/
 published: true
 post_date: 2017-09-20 22:28:36
 ---
