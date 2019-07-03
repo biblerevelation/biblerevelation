@@ -6,6 +6,7 @@ post_excerpt: ""
 layout: post
 permalink: /2014/03/love-of-god/
 published: true
+tags: love god "agape love"
 post_date: 2014-03-10 16:44:55
 ---
 <h3 dir="ltr">John 3:16</h3>
