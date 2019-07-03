@@ -4,6 +4,7 @@ url: "https://biblerevelation.github.io"
 title: Bible Revelation # site's title
 description: "A website with blog posts and pages" # used by search engines
 
+paginate_path:      "/posts/page:num/"
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-remote-theme]
 exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea",
           "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
