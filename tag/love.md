@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: Love"
-tag: Love
+title: "Tag: love"
+tag: love
 permalink: tag/love/
 robots: noindex
 ---

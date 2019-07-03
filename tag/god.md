@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: God"
-tag: God
+title: "Tag: god"
+tag: god
 permalink: tag/god/
 robots: noindex
 ---
