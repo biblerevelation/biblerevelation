@@ -4,7 +4,6 @@
     {{ tag[1].size | plus: 1000 }}#{{ tag[0] | replace: ' ', '-' }}#{{ tag[1].size }}
   {% endfor %}
 {% endcapture %}
-{{ temptags }}
 {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
