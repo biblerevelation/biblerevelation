@@ -1,7 +1,7 @@
 ---
 layout: tagpage
 title: "Tag: Agape Love"
-tag: agape love
+tag: Agape Love
 permalink: tag/agape-love/
 robots: noindex
 ---
