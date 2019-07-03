@@ -1,7 +1,7 @@
 <h2>Archive</h2>
 {% capture temptags %}
   {% for tag in site.tags %}
-    {{ tag[1].size | plus: 1000 }}#{{ tag[0] | url_encode }}#{{ tag[1].size }}
+    {{ tag[1].size | plus: 1000 }}#{{ tag[0] | replace: ' ', '-' }}#{{ tag[1].size }}
   {% endfor %}
 {% endcapture %}
 {{ temptags }}
@@ -9,5 +9,5 @@
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  <a href="/tag/{{ tagname | replace: ' ', '-' }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
+  <a href="/tag/{{ tagname | replace: ' ', '-' }}"><code class="highligher-rouge"><nobr>{{ tagname | replace: '-', ' '}}</nobr></code></a>
 {% endfor %}
