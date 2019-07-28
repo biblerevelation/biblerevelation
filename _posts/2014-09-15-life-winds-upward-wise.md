@@ -1,4 +1,5 @@
 ---
+---
 ID: 1366
 post_title: The way of life winds upward for the wise
 author: Praison

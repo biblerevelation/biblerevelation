@@ -1,4 +1,5 @@
 ---
+---
 ID: 1850
 post_title: How to evaluate your strength?
 author: Praison

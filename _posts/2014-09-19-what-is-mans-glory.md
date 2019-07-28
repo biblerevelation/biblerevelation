@@ -1,4 +1,5 @@
 ---
+---
 ID: 1614
 post_title: What is mans glory?
 author: Praison

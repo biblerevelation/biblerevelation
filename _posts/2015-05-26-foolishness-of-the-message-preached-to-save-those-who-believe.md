@@ -1,4 +1,5 @@
 ---
+---
 ID: 3733
 post_title: Foolishness of the message preached to save those who believe
 author: Praison

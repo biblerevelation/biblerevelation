@@ -1,4 +1,5 @@
 ---
+---
 ID: 1932
 post_title: What refreshes the soul of your master?
 author: Praison

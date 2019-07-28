@@ -1,4 +1,5 @@
 ---
+---
 ID: 401
 post_title: Characteristics of Self Righteousness
 author: Praison

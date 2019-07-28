@@ -1,4 +1,5 @@
 ---
+---
 ID: 2343
 post_title: Foolish woman in Proverbs
 author: Praison

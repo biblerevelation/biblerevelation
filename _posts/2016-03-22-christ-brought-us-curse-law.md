@@ -1,4 +1,5 @@
 ---
+---
 ID: 5934
 post_title: Christ brought us out from the Curse of the Law
 author: Praison

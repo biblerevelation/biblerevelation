@@ -1,4 +1,5 @@
 ---
+---
 ID: 2353
 post_title: 'He who rebukes a wicked man &#8220;only&#8221; harms himself'
 author: Praison

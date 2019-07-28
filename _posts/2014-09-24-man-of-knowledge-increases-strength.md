@@ -1,4 +1,5 @@
 ---
+---
 ID: 1839
 post_title: A man of knowledge increases strength
 author: Praison

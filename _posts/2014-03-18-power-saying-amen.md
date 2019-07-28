@@ -1,4 +1,5 @@
 ---
+---
 ID: 73
 post_title: 'Power of saying &#8220;Amen&#8221;'
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 1267
 post_title: Pride in Proverbs
 author: Praison

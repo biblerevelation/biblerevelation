@@ -1,4 +1,5 @@
 ---
+---
 ID: 4449
 post_title: The Law ENTERED
 author: Praison

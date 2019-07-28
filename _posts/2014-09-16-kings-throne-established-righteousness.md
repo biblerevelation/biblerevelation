@@ -1,4 +1,5 @@
 ---
+---
 ID: 1480
 post_title: Kings throne is established by righteousness
 author: Praison

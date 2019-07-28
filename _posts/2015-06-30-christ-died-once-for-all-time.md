@@ -1,4 +1,5 @@
 ---
+---
 ID: 3865
 post_title: Christ died once for all time
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 1864
 post_title: Do not let your heart be glad when enemy stumbles
 author: Praison

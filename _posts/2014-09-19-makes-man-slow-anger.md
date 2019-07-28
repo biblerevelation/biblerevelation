@@ -1,4 +1,5 @@
 ---
+---
 ID: 1611
 post_title: What makes a man slow to anger?
 author: Praison

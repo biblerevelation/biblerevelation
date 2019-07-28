@@ -1,4 +1,5 @@
 ---
+---
 ID: 1093
 post_title: Wisdom, Understanding and Knowledge
 author: Praison

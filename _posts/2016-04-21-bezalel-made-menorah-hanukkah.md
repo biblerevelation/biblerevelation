@@ -1,4 +1,5 @@
 ---
+---
 ID: 6033
 post_title: Bezalel made Menorah (Hanukkah)
 author: Praison

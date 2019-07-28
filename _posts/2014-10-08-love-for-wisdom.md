@@ -1,4 +1,5 @@
 ---
+---
 ID: 2308
 post_title: Love for Wisdom
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 1331
 post_title: Where wisdom rests?
 author: Praison

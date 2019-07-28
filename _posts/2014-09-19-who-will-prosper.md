@@ -1,4 +1,5 @@
 ---
+---
 ID: 1609
 post_title: Who will prosper?
 author: Praison

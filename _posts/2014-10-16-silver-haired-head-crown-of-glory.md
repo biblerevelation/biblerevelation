@@ -1,4 +1,5 @@
 ---
+---
 ID: 2519
 post_title: Silver-haired head is a crown of glory
 author: Praison

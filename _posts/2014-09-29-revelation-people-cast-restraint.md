@@ -1,4 +1,5 @@
 ---
+---
 ID: 2102
 post_title: Where there is no revelation, the people cast off restraint
 author: Praison

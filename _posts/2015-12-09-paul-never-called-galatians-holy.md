@@ -1,4 +1,5 @@
 ---
+---
 ID: 5169
 post_title: Paul never called Galatians as Holy
 author: Praison

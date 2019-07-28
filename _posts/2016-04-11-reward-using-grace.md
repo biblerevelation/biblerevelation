@@ -1,4 +1,5 @@
 ---
+---
 ID: 5967
 post_title: Reward for using His Grace
 author: Praison

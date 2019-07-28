@@ -1,4 +1,5 @@
 ---
+---
 ID: 1616
 post_title: King’s wrath and favor
 author: Praison

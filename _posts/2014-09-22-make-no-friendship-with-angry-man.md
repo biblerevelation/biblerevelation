@@ -1,4 +1,5 @@
 ---
+---
 ID: 1726
 post_title: Make no friendship with an angry man
 author: Praison

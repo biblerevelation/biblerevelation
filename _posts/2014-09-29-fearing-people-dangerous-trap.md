@@ -1,4 +1,5 @@
 ---
+---
 ID: 2121
 post_title: Fearing people is a dangerous trap
 author: Praison

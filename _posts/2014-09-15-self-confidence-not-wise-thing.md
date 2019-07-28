@@ -1,4 +1,5 @@
 ---
+---
 ID: 1312
 post_title: Is self-confidence a wise thing?
 author: Praison

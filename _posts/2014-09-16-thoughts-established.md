@@ -1,4 +1,5 @@
 ---
+---
 ID: 1462
 post_title: How your thoughts be established?
 author: Praison

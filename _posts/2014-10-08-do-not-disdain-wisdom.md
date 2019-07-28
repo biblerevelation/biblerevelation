@@ -1,4 +1,5 @@
 ---
+---
 ID: 2316
 post_title: Do not disdain Wisdom
 author: Praison

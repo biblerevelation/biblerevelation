@@ -1,4 +1,5 @@
 ---
+---
 ID: 3719
 post_title: According to His riches
 author: Praison

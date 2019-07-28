@@ -1,4 +1,5 @@
 ---
+---
 ID: 526
 post_title: Lord speaks clearly with His faithful person
 author: Praison

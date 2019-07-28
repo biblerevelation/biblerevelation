@@ -1,4 +1,5 @@
 ---
+---
 ID: 946
 post_title: Bible, The two-edged sword
 author: Praison

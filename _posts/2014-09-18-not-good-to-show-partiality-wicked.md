@@ -1,4 +1,5 @@
 ---
+---
 ID: 1529
 post_title: Not good to show partiality to the wicked
 author: Praison

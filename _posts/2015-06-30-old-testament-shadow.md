@@ -1,4 +1,5 @@
 ---
+---
 ID: 3859
 post_title: Old Testament is a shadow
 author: Praison

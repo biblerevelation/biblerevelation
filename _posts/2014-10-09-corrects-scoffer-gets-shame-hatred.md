@@ -1,4 +1,5 @@
 ---
+---
 ID: 2351
 post_title: He who corrects a scoffer gets shame and hatred
 author: Praison

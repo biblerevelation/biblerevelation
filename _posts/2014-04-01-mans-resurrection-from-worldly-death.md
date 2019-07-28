@@ -1,4 +1,5 @@
 ---
+---
 ID: 295
 post_title: 'Man&#8217;s Resurrection from Worldly Death'
 author: Praison

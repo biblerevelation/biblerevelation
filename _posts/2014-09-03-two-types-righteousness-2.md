@@ -1,4 +1,5 @@
 ---
+---
 ID: 1076
 post_title: Two types of Righteousness
 author: Praison

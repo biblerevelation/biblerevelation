@@ -1,4 +1,5 @@
 ---
+---
 ID: 2334
 post_title: How to obtain favor from the Lord?
 author: Praison

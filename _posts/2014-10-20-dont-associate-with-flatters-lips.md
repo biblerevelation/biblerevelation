@@ -1,4 +1,5 @@
 ---
+---
 ID: 2688
 post_title: Do not associate with one who flatters with his lips
 author: Praison

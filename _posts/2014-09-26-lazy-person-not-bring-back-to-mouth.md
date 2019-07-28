@@ -1,4 +1,5 @@
 ---
+---
 ID: 1027
 post_title: Lazy Person not even bring it back to his mouth (Two similar Verse)
 author: Praison

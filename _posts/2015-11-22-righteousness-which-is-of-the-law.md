@@ -1,4 +1,5 @@
 ---
+---
 ID: 5016
 post_title: Righteousness which is of the Law
 author: Praison

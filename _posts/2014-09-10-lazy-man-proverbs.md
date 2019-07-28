@@ -1,4 +1,5 @@
 ---
+---
 ID: 1199
 post_title: Lazy man in Proverbs
 author: Praison

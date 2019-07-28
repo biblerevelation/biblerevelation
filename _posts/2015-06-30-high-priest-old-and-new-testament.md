@@ -1,4 +1,5 @@
 ---
+---
 ID: 3908
 post_title: High Priest in Old and New Testament
 author: Praison

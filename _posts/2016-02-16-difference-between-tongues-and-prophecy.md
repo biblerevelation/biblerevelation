@@ -1,4 +1,5 @@
 ---
+---
 ID: 5748
 post_title: Difference between Tongues and Prophecy
 author: Praison

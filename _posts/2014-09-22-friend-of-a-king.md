@@ -1,4 +1,5 @@
 ---
+---
 ID: 1712
 post_title: How to be a friend of a king?
 author: Praison

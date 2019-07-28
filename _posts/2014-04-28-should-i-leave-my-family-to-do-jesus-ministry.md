@@ -1,4 +1,5 @@
 ---
+---
 ID: 394
 post_title: Should I leave my family to do Jesus Ministry?
 author: Praison

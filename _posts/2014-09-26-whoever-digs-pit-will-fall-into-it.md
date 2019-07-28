@@ -1,4 +1,5 @@
 ---
+---
 ID: 2029
 post_title: Whoever digs a pit will fall into it
 author: Praison

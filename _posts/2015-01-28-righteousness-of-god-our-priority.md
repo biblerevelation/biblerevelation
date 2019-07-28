@@ -1,4 +1,5 @@
 ---
+---
 ID: 3344
 post_title: Righteousness of God our priority
 author: Praison

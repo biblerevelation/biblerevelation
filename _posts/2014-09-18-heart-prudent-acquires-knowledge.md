@@ -1,4 +1,5 @@
 ---
+---
 ID: 1546
 post_title: The heart of the prudent acquires knowledge
 author: Praison

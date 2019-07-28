@@ -1,4 +1,5 @@
 ---
+---
 ID: 2545
 post_title: Correction of fools is folly
 author: Praison

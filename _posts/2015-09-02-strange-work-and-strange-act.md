@@ -1,4 +1,5 @@
 ---
+---
 ID: 4264
 post_title: Strange Work and Strange Act
 author: Praison

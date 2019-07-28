@@ -1,4 +1,5 @@
 ---
+---
 ID: 2748
 post_title: To do righteousness and justice Is more acceptable then sacrifice
 author: Praison

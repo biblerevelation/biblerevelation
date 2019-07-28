@@ -1,4 +1,5 @@
 ---
+---
 ID: 1829
 post_title: Do not be envious of evil men
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 1697
 post_title: A prudent man foresees evil and hides himself
 author: Praison

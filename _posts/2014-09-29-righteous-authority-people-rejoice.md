@@ -1,4 +1,5 @@
 ---
+---
 ID: 2059
 post_title: When the righteous are in authority, the people rejoice
 author: Praison

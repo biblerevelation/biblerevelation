@@ -1,4 +1,5 @@
 ---
+---
 ID: 1544
 post_title: The spirit of a man will sustain him in sickness
 author: Praison

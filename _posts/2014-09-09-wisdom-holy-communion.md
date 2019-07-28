@@ -1,4 +1,5 @@
 ---
+---
 ID: 1143
 post_title: Wisdom in Holy Communion
 author: Praison

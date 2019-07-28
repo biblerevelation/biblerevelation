@@ -1,4 +1,5 @@
 ---
+---
 ID: 2338
 post_title: Wisdom can be increased
 author: Praison

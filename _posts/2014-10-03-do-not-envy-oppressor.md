@@ -1,4 +1,5 @@
 ---
+---
 ID: 2251
 post_title: Do not envy the oppressor
 author: Praison

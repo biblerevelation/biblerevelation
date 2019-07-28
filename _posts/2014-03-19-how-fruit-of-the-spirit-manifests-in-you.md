@@ -1,4 +1,5 @@
 ---
+---
 ID: 90
 post_title: How Fruit of the Spirit Manifests in you?
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 2868
 post_title: 'Don&#8217;t assure any form of payment'
 author: Praison

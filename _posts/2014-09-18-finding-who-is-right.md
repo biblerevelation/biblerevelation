@@ -1,4 +1,5 @@
 ---
+---
 ID: 1550
 post_title: Finding who is right
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 3465
 post_title: Heart of God in the Old Testament
 author: Praison

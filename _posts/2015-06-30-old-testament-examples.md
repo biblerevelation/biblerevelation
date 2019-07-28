@@ -1,4 +1,5 @@
 ---
+---
 ID: 3834
 post_title: Old Testament are examples
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 592
 post_title: Life
 author: Praison

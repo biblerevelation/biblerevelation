@@ -1,4 +1,5 @@
 ---
+---
 ID: 1482
 post_title: Kings love him who speaks what is right
 author: Praison

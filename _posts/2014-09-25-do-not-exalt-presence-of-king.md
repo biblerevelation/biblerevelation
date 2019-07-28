@@ -1,4 +1,5 @@
 ---
+---
 ID: 1922
 post_title: Do not exalt yourself in the presence of the king
 author: Praison

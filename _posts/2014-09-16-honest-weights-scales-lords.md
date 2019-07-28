@@ -1,4 +1,5 @@
 ---
+---
 ID: 1478
 post_title: Honest weights and scales are the Lord’s
 author: Praison

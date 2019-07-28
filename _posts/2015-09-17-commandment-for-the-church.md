@@ -1,4 +1,5 @@
 ---
+---
 ID: 4354
 post_title: Commandment for the Church
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 4298
 post_title: God preached the gospel to Abraham
 author: Praison

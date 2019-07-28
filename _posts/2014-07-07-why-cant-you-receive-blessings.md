@@ -1,4 +1,5 @@
 ---
+---
 ID: 823
 post_title: 'Why can&#8217;t you receive blessings?'
 author: Praison

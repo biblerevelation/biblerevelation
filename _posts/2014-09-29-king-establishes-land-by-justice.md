@@ -1,4 +1,5 @@
 ---
+---
 ID: 2063
 post_title: The king establishes the land by justice
 author: Praison

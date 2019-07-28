@@ -1,4 +1,5 @@
 ---
+---
 ID: 1484
 post_title: Wise man will appease Kings wrath
 author: Praison

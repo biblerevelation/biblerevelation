@@ -1,4 +1,5 @@
 ---
+---
 ID: 6281
 post_title: Hold fast the confession of our hope
 author: Praison

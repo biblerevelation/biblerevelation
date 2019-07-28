@@ -1,4 +1,5 @@
 ---
+---
 ID: 2061
 post_title: Whoever loves wisdom makes his father rejoice
 author: Praison

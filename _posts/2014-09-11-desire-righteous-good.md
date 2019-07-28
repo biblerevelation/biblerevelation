@@ -1,4 +1,5 @@
 ---
+---
 ID: 1280
 post_title: The desire of the righteous is only good
 author: Praison

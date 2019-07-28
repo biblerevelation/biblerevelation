@@ -1,4 +1,5 @@
 ---
+---
 ID: 3952
 post_title: Why God chose Jesus rather than Adam?
 author: Praison

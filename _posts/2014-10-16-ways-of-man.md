@@ -1,4 +1,5 @@
 ---
+---
 ID: 2573
 post_title: Ways of Man
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 2651
 post_title: How do we take thought?
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 1936
 post_title: By long forbearance a ruler is persuaded
 author: Praison

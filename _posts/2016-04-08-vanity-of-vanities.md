@@ -1,4 +1,5 @@
 ---
+---
 ID: 5947
 post_title: Vanity of Vanities
 author: Praison

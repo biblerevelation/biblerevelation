@@ -1,4 +1,5 @@
 ---
+---
 ID: 1649
 post_title: Whom to rebuke?
 author: Praison

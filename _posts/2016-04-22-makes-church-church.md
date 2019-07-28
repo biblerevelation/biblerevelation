@@ -1,4 +1,5 @@
 ---
+---
 ID: 6052
 post_title: What makes a Church, Church?
 author: Praison

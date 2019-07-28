@@ -1,4 +1,5 @@
 ---
+---
 ID: 1659
 post_title: A good name is to be chosen rather than great riches
 author: Praison

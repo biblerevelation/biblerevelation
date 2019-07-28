@@ -1,4 +1,5 @@
 ---
+---
 ID: 2123
 post_title: Many seek the ruler’s favor, but justice comes from the Lord
 author: Praison

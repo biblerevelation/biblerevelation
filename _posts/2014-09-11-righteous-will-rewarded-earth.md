@@ -1,4 +1,5 @@
 ---
+---
 ID: 1261
 post_title: Righteous will be rewarded here on earth
 author: Praison

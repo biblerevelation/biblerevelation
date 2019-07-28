@@ -1,4 +1,5 @@
 ---
+---
 ID: 5779
 post_title: Reason why most of 70 Disciples left Jesus
 author: Praison

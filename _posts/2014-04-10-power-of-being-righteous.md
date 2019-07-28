@@ -1,4 +1,5 @@
 ---
+---
 ID: 366
 post_title: Power of being Righteous
 author: Praison

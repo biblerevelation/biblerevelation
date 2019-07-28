@@ -1,4 +1,5 @@
 ---
+---
 ID: 1764
 post_title: Project Execution in Proverbs
 author: Praison

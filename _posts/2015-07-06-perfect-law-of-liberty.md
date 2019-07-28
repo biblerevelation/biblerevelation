@@ -1,4 +1,5 @@
 ---
+---
 ID: 3978
 post_title: Perfect Law of Liberty
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 2705
 post_title: The spirit of a man searches all the inner depths of his heart
 author: Praison

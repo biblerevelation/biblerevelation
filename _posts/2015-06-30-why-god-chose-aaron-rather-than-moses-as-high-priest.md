@@ -1,4 +1,5 @@
 ---
+---
 ID: 3949
 post_title: Why God chose Aaron rather than Moses as High Priest?
 author: Praison

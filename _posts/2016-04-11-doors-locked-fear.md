@@ -1,4 +1,5 @@
 ---
+---
 ID: 5961
 post_title: Doors were locked because of fear
 author: Praison

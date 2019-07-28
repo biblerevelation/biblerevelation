@@ -1,4 +1,5 @@
 ---
+---
 ID: 980
 post_title: Promise for Casting out spirit of fear
 author: Praison

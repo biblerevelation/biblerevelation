@@ -1,4 +1,5 @@
 ---
+---
 ID: 4907
 post_title: Hebraism to Understand Bible
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 1044
 post_title: The ways of everyone who is greedy for gain
 author: Praison

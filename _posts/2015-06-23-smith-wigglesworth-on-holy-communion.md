@@ -1,4 +1,5 @@
 ---
+---
 ID: 3835
 post_title: Smith Wigglesworth on Holy Communion
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 4046
 post_title: Our Word is Our Bond
 author: Praison

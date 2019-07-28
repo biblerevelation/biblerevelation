@@ -1,4 +1,5 @@
 ---
+---
 ID: 1360
 post_title: How a man has joy?
 author: Praison

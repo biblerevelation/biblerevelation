@@ -1,4 +1,5 @@
 ---
+---
 ID: 1486
 post_title: king’s favor is like a cloud of the latter rain
 author: Praison

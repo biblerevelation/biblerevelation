@@ -1,4 +1,5 @@
 ---
+---
 ID: 573
 post_title: How to be wise in this world?
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 2003
 post_title: Proverb in the mouth of fools is like?
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 4070
 post_title: Lay BOTH hands on sick, and they will be healed
 author: Praison

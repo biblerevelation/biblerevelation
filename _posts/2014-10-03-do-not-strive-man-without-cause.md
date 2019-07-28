@@ -1,4 +1,5 @@
 ---
+---
 ID: 2240
 post_title: Do not strive with a man without cause
 author: Praison

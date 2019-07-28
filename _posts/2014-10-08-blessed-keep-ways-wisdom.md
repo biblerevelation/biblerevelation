@@ -1,4 +1,5 @@
 ---
+---
 ID: 2312
 post_title: Blessed are those who keep the ways of Wisdom
 author: Praison

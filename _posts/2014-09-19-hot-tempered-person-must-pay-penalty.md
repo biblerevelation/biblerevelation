@@ -1,4 +1,5 @@
 ---
+---
 ID: 1635
 post_title: A hot-tempered person must pay the penalty
 author: Praison

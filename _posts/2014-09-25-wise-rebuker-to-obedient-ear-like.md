@@ -1,4 +1,5 @@
 ---
+---
 ID: 1926
 post_title: Wise rebuker to an obedient ear is like?
 author: Praison

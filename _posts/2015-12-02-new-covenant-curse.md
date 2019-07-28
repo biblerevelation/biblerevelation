@@ -1,4 +1,5 @@
 ---
+---
 ID: 5162
 post_title: New Covenant Curse
 author: Praison

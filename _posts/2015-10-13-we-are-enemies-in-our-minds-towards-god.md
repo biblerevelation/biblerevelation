@@ -1,4 +1,5 @@
 ---
+---
 ID: 4527
 post_title: We are enemies in our Minds towards God
 author: Praison

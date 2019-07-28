@@ -1,4 +1,5 @@
 ---
+---
 ID: 3348
 post_title: Spiritual warfare
 author: Praison

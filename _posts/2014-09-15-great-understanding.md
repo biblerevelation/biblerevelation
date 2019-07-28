@@ -1,4 +1,5 @@
 ---
+---
 ID: 1329
 post_title: Who has great understanding?
 author: Praison

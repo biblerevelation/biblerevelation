@@ -1,4 +1,5 @@
 ---
+---
 ID: 1618
 post_title: A foolish son is the ruin of his father
 author: Praison

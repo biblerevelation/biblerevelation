@@ -1,4 +1,5 @@
 ---
+---
 ID: 1298
 post_title: Go from the presence of a foolish man
 author: Praison

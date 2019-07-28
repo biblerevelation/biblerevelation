@@ -1,4 +1,5 @@
 ---
+---
 ID: 6120
 post_title: Faith sees God and His resources
 author: Praison

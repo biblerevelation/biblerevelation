@@ -1,4 +1,5 @@
 ---
+---
 ID: 4352
 post_title: Commandment in the New Testament
 author: Praison

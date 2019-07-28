@@ -1,4 +1,5 @@
 ---
+---
 ID: 4315
 post_title: 'God&#8217;s priority on Redemption compared to Creation'
 author: Praison
