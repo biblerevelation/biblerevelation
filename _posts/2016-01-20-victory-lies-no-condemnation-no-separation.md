@@ -1,5 +1,4 @@
 ---
----
 ID: 5517
 post_title: Victory lies between No Condemnation and No Separation
 author: Praison

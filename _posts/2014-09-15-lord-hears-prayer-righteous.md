@@ -1,5 +1,4 @@
 ---
----
 ID: 1376
 post_title: The Lord hears the prayer of the righteous
 author: Praison

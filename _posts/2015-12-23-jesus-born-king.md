@@ -1,5 +1,4 @@
 ---
----
 ID: 5294
 post_title: Jesus is The Born King
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 6008
 post_title: Paul was Princely
 author: Praison

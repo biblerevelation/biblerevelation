@@ -1,5 +1,4 @@
 ---
----
 ID: 2202
 post_title: The fear of the Lord is the beginning of wisdom
 author: Praison

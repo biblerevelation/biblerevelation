@@ -1,5 +1,4 @@
 ---
----
 ID: 2082
 post_title: Wise man hold their feelings
 author: Praison

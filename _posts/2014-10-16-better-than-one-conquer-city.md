@@ -1,5 +1,4 @@
 ---
----
 ID: 2563
 post_title: Who is better than one who conquer a city?
 author: Praison

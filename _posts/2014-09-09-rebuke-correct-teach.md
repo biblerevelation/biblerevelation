@@ -1,5 +1,4 @@
 ---
----
 ID: 1153
 post_title: When and how to Rebuke, correct, Teach?
 author: Praison

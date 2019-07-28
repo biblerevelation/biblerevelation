@@ -1,5 +1,4 @@
 ---
----
 ID: 2106
 post_title: A servant will not be corrected by mere words
 author: Praison

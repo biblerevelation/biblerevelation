@@ -1,5 +1,4 @@
 ---
----
 ID: 3031
 post_title: Do not call anything impure that God has made clean
 author: Praison

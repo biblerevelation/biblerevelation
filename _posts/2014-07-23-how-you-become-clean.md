@@ -1,5 +1,4 @@
 ---
----
 ID: 956
 post_title: How you become clean?
 author: Praison

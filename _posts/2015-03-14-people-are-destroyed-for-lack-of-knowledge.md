@@ -1,5 +1,4 @@
 ---
----
 ID: 3627
 post_title: People are destroyed for lack of knowledge
 author: Praison

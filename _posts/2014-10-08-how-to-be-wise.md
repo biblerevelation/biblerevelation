@@ -1,5 +1,4 @@
 ---
----
 ID: 2336
 post_title: How to be wise?
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 5302
 post_title: Repentance in New Testament
 author: Praison

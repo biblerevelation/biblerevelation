@@ -1,5 +1,4 @@
 ---
----
 ID: 3243
 post_title: The True Gospel
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 5534
 post_title: Sow Good things to the Spirit
 author: Praison

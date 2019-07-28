@@ -1,5 +1,4 @@
 ---
----
 ID: 288
 post_title: Death is like taking rest and Sleeping, for Jesus
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 5916
 post_title: Lawful captives Redeemed
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 4649
 post_title: What is Pride as per Bible?
 author: Praison

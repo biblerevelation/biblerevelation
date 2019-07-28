@@ -1,5 +1,4 @@
 ---
----
 ID: 1607
 post_title: Who loves life?
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 2232
 post_title: 'Don&#8217;t be intimidated in any way by your enemies'
 author: Praison

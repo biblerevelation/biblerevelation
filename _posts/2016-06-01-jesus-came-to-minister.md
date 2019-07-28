@@ -1,5 +1,4 @@
 ---
----
 ID: 6196
 post_title: Jesus came to Minister
 author: Praison

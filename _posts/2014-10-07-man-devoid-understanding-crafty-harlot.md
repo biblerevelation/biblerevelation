@@ -1,5 +1,4 @@
 ---
----
 ID: 2280
 post_title: A man devoid of understanding and The Crafty Harlot
 author: Praison

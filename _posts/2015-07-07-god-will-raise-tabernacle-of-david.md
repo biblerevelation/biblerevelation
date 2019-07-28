@@ -1,5 +1,4 @@
 ---
----
 ID: 4004
 post_title: God will raise The tabernacle of David
 author: Praison

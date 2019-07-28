@@ -1,5 +1,4 @@
 ---
----
 ID: 3657
 post_title: 'By His &#8220;Stripes&#8221; in Hebrew'
 author: Praison

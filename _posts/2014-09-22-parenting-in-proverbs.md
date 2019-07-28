@@ -1,5 +1,4 @@
 ---
----
 ID: 1768
 post_title: Parenting in Proverbs
 author: Praison

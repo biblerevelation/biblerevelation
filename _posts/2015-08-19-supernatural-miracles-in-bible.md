@@ -1,5 +1,4 @@
 ---
----
 ID: 4178
 post_title: Supernatural Miracles in Bible
 author: Praison

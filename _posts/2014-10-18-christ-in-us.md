@@ -1,5 +1,4 @@
 ---
----
 ID: 2567
 post_title: Christ in us
 author: Praison

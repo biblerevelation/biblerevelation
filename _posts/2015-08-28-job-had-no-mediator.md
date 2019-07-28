@@ -1,5 +1,4 @@
 ---
----
 ID: 4234
 post_title: Job had no mediator
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 2699
 post_title: Can a man understand his own way?
 author: Praison

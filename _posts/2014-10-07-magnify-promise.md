@@ -1,5 +1,4 @@
 ---
----
 ID: 2228
 post_title: Magnify the promise
 author: Praison

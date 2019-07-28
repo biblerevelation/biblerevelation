@@ -1,5 +1,4 @@
 ---
----
 ID: 5275
 post_title: Heir of Salvation
 author: Praison

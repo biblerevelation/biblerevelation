@@ -1,5 +1,4 @@
 ---
----
 ID: 1778
 post_title: Do not eat the bread of a miser
 author: Praison

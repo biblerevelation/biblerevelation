@@ -1,5 +1,4 @@
 ---
----
 ID: 6400
 post_title: One call on HIS name to be saved
 author: Praison

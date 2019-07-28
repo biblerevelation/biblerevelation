@@ -1,5 +1,4 @@
 ---
----
 ID: 6016
 post_title: Sense of Humor of Jesus
 author: Praison

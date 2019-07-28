@@ -1,5 +1,4 @@
 ---
----
 ID: 2560
 post_title: Who is better than the mighty?
 author: Praison

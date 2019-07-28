@@ -1,5 +1,4 @@
 ---
----
 ID: 5439
 post_title: No Negative for anyone in Christ
 author: Praison

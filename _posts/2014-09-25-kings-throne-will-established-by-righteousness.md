@@ -1,5 +1,4 @@
 ---
----
 ID: 1920
 post_title: How kings throne will be established in righteousness?
 author: Praison

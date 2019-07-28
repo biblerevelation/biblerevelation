@@ -1,5 +1,4 @@
 ---
----
 ID: 5389
 post_title: New Covenant Disciples
 author: Praison

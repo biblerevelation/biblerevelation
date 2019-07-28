@@ -1,5 +1,4 @@
 ---
----
 ID: 2014
 post_title: Fool his hire and the transgressor his wages
 author: Praison

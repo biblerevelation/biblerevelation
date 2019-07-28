@@ -1,5 +1,4 @@
 ---
----
 ID: 2091
 post_title: 'How a king&#8217;s throne is established forever'
 author: Praison

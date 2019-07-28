@@ -1,5 +1,4 @@
 ---
----
 ID: 2322
 post_title: '&#8220;Waiting&#8221; at the posts of Wisdoms&#8217; doors'
 author: Praison

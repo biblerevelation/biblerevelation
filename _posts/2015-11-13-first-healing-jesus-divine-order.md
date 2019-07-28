@@ -1,5 +1,4 @@
 ---
----
 ID: 4889
 post_title: First Healing of Jesus in Divine Order
 author: Praison

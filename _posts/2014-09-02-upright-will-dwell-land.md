@@ -1,5 +1,4 @@
 ---
----
 ID: 1071
 post_title: Upright will dwell in the land
 author: Praison

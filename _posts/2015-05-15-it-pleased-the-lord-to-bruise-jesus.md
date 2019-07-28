@@ -1,5 +1,4 @@
 ---
----
 ID: 3703
 post_title: It pleased the Lord to bruise Jesus
 author: Praison

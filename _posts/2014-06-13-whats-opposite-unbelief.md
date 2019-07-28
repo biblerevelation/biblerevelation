@@ -1,5 +1,4 @@
 ---
----
 ID: 782
 post_title: 'What&#8217;s the opposite of unbelief?'
 author: Praison

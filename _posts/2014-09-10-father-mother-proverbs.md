@@ -1,5 +1,4 @@
 ---
----
 ID: 1160
 post_title: Father and Mother in Proverbs
 author: Praison

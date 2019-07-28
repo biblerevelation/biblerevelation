@@ -1,5 +1,4 @@
 ---
----
 ID: 1525
 post_title: The wellspring of wisdom is a flowing brook
 author: Praison

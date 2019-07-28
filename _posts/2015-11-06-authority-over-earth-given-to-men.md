@@ -1,5 +1,4 @@
 ---
----
 ID: 4805
 post_title: Authority over earth given to men
 author: Praison

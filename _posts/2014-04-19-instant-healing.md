@@ -1,5 +1,4 @@
 ---
----
 ID: 390
 post_title: Instant Healing
 author: Praison

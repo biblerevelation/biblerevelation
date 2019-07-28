@@ -1,5 +1,4 @@
 ---
----
 ID: 960
 post_title: Want more peace? (Bible)
 author: Praison

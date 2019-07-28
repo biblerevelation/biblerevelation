@@ -1,5 +1,4 @@
 ---
----
 ID: 3062
 post_title: An inheritance gained hastily
 author: Praison

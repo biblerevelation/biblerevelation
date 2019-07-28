@@ -1,5 +1,4 @@
 ---
----
 ID: 3770
 post_title: The ministry of righteousness exceeds much more in glory
 author: Praison

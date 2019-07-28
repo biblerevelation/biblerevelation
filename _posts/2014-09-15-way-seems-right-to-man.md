@@ -1,5 +1,4 @@
 ---
----
 ID: 1305
 post_title: Way that seems right to a man
 author: Praison

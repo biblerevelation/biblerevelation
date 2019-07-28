@@ -1,5 +1,4 @@
 ---
----
 ID: 5207
 post_title: Uncertain riches
 author: Praison

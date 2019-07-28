@@ -1,5 +1,4 @@
 ---
----
 ID: 3592
 post_title: Matthew 24 is for Jewish people
 author: Praison

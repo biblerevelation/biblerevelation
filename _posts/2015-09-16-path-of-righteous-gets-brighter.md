@@ -1,5 +1,4 @@
 ---
----
 ID: 4335
 post_title: The Path of the Righteous gets Brighter and Brighter
 author: Praison

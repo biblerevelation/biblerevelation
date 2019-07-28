@@ -1,5 +1,4 @@
 ---
----
 ID: 1637
 post_title: 'Don&#8217;t rescue a hot-tempered person'
 author: Praison

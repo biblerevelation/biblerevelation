@@ -1,5 +1,4 @@
 ---
----
 ID: 2514
 post_title: How gentiles are blessed with believing Abraham?
 author: Praison

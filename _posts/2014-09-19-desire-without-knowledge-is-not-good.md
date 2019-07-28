@@ -1,5 +1,4 @@
 ---
----
 ID: 1593
 post_title: Desire without knowledge is not good
 author: Praison

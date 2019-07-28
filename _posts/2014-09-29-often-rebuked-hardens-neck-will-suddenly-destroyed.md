@@ -1,5 +1,4 @@
 ---
----
 ID: 2037
 post_title: He who is often rebuked, and hardens his neck, Will suddenly be destroyed
 author: Praison

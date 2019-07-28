@@ -1,5 +1,4 @@
 ---
----
 ID: 4966
 post_title: Knowing The Lord
 author: Praison

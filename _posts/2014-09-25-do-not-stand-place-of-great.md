@@ -1,5 +1,4 @@
 ---
----
 ID: 1924
 post_title: Do not stand in the place of the great
 author: Praison

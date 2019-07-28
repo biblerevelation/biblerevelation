@@ -1,5 +1,4 @@
 ---
----
 ID: 4326
 post_title: God sees Three Groups of people in this World
 author: Praison

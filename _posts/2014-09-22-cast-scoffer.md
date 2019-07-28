@@ -1,5 +1,4 @@
 ---
----
 ID: 1710
 post_title: Why we should Cast out the scoffer?
 author: Praison

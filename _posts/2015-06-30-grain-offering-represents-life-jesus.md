@@ -1,5 +1,4 @@
 ---
----
 ID: 3881
 post_title: Grain Offering represents the Life of Jesus
 author: Praison

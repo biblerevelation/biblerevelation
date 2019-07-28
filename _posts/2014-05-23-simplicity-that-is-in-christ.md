@@ -1,5 +1,4 @@
 ---
----
 ID: 575
 post_title: Simplicity that is in Christ
 author: Praison

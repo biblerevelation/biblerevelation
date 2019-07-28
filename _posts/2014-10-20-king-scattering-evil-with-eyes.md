@@ -1,5 +1,4 @@
 ---
----
 ID: 2670
 post_title: King, scattering all evil with his eyes
 author: Praison

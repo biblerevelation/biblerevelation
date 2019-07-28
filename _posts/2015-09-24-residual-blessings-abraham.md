@@ -1,5 +1,4 @@
 ---
----
 ID: 4414
 post_title: Residual Blessings of Abraham
 author: Praison

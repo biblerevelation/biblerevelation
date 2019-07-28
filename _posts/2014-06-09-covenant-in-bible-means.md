@@ -1,5 +1,4 @@
 ---
----
 ID: 700
 post_title: Covenant in Bible means?
 author: Praison

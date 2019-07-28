@@ -1,5 +1,4 @@
 ---
----
 ID: 1960
 post_title: A person without self-control is like a city with broken-down walls
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 4980
 post_title: Jesus is for imperfect People
 author: Praison

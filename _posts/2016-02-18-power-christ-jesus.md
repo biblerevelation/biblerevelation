@@ -1,5 +1,4 @@
 ---
----
 ID: 5752
 post_title: 'The Power &#8220;In Christ Jesus&#8221;'
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 5993
 post_title: You are a king priest
 author: Praison

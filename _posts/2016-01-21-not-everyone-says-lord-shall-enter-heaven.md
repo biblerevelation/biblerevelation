@@ -1,5 +1,4 @@
 ---
----
 ID: 5559
 post_title: Not everyone who says , ‘Lord’ shall enter heaven ?
 author: Praison

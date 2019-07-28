@@ -1,5 +1,4 @@
 ---
----
 ID: 326
 post_title: Rest, in Holy Spirit directed activity
 author: Praison

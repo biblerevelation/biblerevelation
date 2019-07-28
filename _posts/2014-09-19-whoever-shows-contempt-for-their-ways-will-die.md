@@ -1,5 +1,4 @@
 ---
----
 ID: 1627
 post_title: Whoever shows contempt for their ways will die
 author: Praison

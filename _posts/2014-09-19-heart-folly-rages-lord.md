@@ -1,5 +1,4 @@
 ---
----
 ID: 1595
 post_title: Heart of folly rages against the Lord
 author: Praison

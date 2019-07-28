@@ -1,5 +1,4 @@
 ---
----
 ID: 2242
 post_title: How to find favor and high esteem In the sight of God and man
 author: Praison

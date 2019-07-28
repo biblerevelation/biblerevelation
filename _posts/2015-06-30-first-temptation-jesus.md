@@ -1,5 +1,4 @@
 ---
----
 ID: 3917
 post_title: First temptation for Jesus
 author: Praison

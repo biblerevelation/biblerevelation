@@ -1,5 +1,4 @@
 ---
----
 ID: 1870
 post_title: Those who rebuke the wicked will have delight
 author: Praison

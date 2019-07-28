@@ -1,5 +1,4 @@
 ---
----
 ID: 4167
 post_title: Blessing for the children of Zion
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 5352
 post_title: Jesus both Child and Son
 author: Praison

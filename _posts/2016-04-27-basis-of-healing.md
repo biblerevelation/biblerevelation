@@ -1,5 +1,4 @@
 ---
----
 ID: 6088
 post_title: Basis of Healing
 author: Praison

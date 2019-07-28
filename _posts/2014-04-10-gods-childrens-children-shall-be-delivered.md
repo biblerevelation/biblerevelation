@@ -1,5 +1,4 @@
 ---
----
 ID: 364
 post_title: 'God&#8217;s children&#8217;s children shall be delivered'
 author: Praison

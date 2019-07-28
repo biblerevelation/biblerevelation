@@ -1,5 +1,4 @@
 ---
----
 ID: 3340
 post_title: What is growing spiritually?
 author: Praison

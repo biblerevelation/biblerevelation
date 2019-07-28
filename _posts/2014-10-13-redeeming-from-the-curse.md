@@ -1,5 +1,4 @@
 ---
----
 ID: 2399
 post_title: Redeeming from the curse
 author: Praison

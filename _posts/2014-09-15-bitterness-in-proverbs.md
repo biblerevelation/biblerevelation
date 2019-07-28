@@ -1,5 +1,4 @@
 ---
----
 ID: 1300
 post_title: Bitterness in Proverbs
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 3803
 post_title: Those who PREACH the Gospel should LIVE from the Gospel
 author: Praison

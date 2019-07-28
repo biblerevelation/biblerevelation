@@ -1,5 +1,4 @@
 ---
----
 ID: 2009
 post_title: Rod for the fool’s back
 author: Praison

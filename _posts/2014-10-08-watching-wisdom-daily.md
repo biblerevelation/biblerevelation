@@ -1,5 +1,4 @@
 ---
----
 ID: 2318
 post_title: 'Watching Wisdom &#8220;Daily&#8221;'
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1566
 post_title: There is a friend who sticks closer than a brother
 author: Praison

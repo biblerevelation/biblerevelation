@@ -1,5 +1,4 @@
 ---
----
 ID: 1187
 post_title: 'What is Rich man&#8217;s wealth?'
 author: Praison

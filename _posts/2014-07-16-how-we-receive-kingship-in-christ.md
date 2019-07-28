@@ -1,5 +1,4 @@
 ---
----
 ID: 882
 post_title: How we receive Kingship in Christ ?
 author: Praison

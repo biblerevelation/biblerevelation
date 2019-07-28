@@ -1,5 +1,4 @@
 ---
----
 ID: 2701
 post_title: 'Don&#8217;t devote something rashly, as holy'
 author: Praison

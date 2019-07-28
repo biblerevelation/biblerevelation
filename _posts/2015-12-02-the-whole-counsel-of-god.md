@@ -1,5 +1,4 @@
 ---
----
 ID: 5159
 post_title: The whole counsel of God
 author: Praison

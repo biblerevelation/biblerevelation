@@ -1,5 +1,4 @@
 ---
----
 ID: 1177
 post_title: Wisdom makes you righteous
 author: Praison

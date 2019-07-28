@@ -1,5 +1,4 @@
 ---
----
 ID: 5893
 post_title: Journey of Jesus
 author: Praison

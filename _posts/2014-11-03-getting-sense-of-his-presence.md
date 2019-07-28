@@ -1,5 +1,4 @@
 ---
----
 ID: 2978
 post_title: Getting the sense of His presence
 author: Praison

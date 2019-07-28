@@ -1,5 +1,4 @@
 ---
----
 ID: 5598
 post_title: 'Why others can&#8217;t see what we see?'
 author: Praison

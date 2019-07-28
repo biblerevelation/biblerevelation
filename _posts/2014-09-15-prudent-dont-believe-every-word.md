@@ -1,5 +1,4 @@
 ---
----
 ID: 1309
 post_title: 'Be Prudent and don&#8217;t believe every word'
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 2108
 post_title: Danger of Anger
 author: Praison

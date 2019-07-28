@@ -1,5 +1,4 @@
 ---
----
 ID: 528
 post_title: How the Lord speaks with us?
 author: Praison

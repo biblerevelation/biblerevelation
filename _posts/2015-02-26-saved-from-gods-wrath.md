@@ -1,5 +1,4 @@
 ---
----
 ID: 3582
 post_title: 'Saved from God&#8217;s wrath'
 author: Praison

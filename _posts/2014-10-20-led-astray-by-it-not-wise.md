@@ -1,5 +1,4 @@
 ---
----
 ID: 2637
 post_title: Whoever is led astray by it is not wise
 author: Praison

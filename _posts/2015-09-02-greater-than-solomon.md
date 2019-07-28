@@ -1,5 +1,4 @@
 ---
----
 ID: 4258
 post_title: Greater than Solomon
 author: Praison

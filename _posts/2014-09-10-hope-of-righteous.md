@@ -1,5 +1,4 @@
 ---
----
 ID: 1183
 post_title: What will be the hope of the righteous?
 author: Praison

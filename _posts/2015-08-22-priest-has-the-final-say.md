@@ -1,5 +1,4 @@
 ---
----
 ID: 4200
 post_title: Priest has the final say
 author: Praison

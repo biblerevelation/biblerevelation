@@ -1,5 +1,4 @@
 ---
----
 ID: 6079
 post_title: The Person and The Work
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1722
 post_title: How your trust may be in the Lord?
 author: Praison

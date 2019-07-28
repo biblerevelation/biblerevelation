@@ -1,5 +1,4 @@
 ---
----
 ID: 157
 post_title: Why we have 31 Chapters in Proverbs?
 author: Praison

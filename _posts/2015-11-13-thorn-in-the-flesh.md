@@ -1,5 +1,4 @@
 ---
----
 ID: 4911
 post_title: Thorn in The Flesh
 author: Praison

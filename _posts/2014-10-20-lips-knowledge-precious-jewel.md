@@ -1,5 +1,4 @@
 ---
----
 ID: 2682
 post_title: Lips of knowledge are a precious jewel
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1703
 post_title: Train up a child in the way he should go
 author: Praison

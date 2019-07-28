@@ -1,5 +1,4 @@
 ---
----
 ID: 5398
 post_title: New Covenant Confession of sins
 author: Praison

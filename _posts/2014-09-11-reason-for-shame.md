@@ -1,5 +1,4 @@
 ---
----
 ID: 1201
 post_title: Reason for shame?
 author: Praison

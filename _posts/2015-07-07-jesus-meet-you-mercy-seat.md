@@ -1,5 +1,4 @@
 ---
----
 ID: 3992
 post_title: Jesus will meet with you in the mercy seat
 author: Praison

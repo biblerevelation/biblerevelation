@@ -1,5 +1,4 @@
 ---
----
 ID: 4282
 post_title: Jesus, the Angel of the Lord
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1728
 post_title: 'Don&#8217;t buy any products in contract payment basis'
 author: Praison

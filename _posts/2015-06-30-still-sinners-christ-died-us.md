@@ -1,5 +1,4 @@
 ---
----
 ID: 3785
 post_title: While we were still sinners, Christ died for us
 author: Praison

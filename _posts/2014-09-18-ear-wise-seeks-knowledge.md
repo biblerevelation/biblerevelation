@@ -1,5 +1,4 @@
 ---
----
 ID: 1548
 post_title: The ear of the wise seeks knowledge
 author: Praison

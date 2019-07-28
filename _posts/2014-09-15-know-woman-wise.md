@@ -1,5 +1,4 @@
 ---
----
 ID: 1296
 post_title: How to know if a woman is wise or not?
 author: Praison

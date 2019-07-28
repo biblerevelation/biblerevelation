@@ -1,5 +1,4 @@
 ---
----
 ID: 30
 post_title: Bigger the loss, Bigger the restoration
 author: Praison

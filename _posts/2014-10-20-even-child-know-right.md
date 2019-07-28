@@ -1,5 +1,4 @@
 ---
----
 ID: 2674
 post_title: Even a child know what is pure and right
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 6011
 post_title: Three types of offering
 author: Praison

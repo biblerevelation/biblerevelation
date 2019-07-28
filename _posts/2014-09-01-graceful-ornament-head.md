@@ -1,5 +1,4 @@
 ---
----
 ID: 1054
 post_title: What is a graceful ornament to your head? (Bible)
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 4010
 post_title: First sign of receiving wisdom
 author: Praison

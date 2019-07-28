@@ -1,5 +1,4 @@
 ---
----
 ID: 1465
 post_title: The Lord has made all for Himself
 author: Praison

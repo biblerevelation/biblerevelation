@@ -1,5 +1,4 @@
 ---
----
 ID: 3757
 post_title: Getting Inwardly Clean
 author: Praison

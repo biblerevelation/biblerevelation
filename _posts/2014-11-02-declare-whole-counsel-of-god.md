@@ -1,5 +1,4 @@
 ---
----
 ID: 2984
 post_title: Declare whole counsel of God
 author: Praison

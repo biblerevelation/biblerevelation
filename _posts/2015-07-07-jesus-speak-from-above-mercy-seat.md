@@ -1,5 +1,4 @@
 ---
----
 ID: 3995
 post_title: Jesus will speak with you from above the mercy seat
 author: Praison

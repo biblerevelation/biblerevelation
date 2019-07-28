@@ -1,5 +1,4 @@
 ---
----
 ID: 1314
 post_title: Is quick-temper an act of a wise man?
 author: Praison

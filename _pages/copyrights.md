@@ -1,5 +1,4 @@
 ---
----
 ID: 5766
 post_title: Copyrights
 author: Praison

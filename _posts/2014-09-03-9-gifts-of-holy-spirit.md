@@ -1,5 +1,4 @@
 ---
----
 ID: 1096
 post_title: 9 Gifts of Holy Spirit
 author: Praison

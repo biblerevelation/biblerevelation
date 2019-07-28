@@ -1,5 +1,4 @@
 ---
----
 ID: 2078
 post_title: 'Don&#8217;t have an argument with a fool'
 author: Praison

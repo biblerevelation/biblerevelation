@@ -1,5 +1,4 @@
 ---
----
 ID: 2355
 post_title: Rebuke a wise man, and he will love you
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 3727
 post_title: Solution to decrease others anger
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 68
 post_title: We receive ALL promises, if we are IN Christ Jesus
 author: Praison

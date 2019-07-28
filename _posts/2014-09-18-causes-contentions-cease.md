@@ -1,5 +1,4 @@
 ---
----
 ID: 1552
 post_title: What causes contentions to cease?
 author: Praison

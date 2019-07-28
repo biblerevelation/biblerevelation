@@ -1,5 +1,4 @@
 ---
----
 ID: 498
 post_title: 'Self Righteousness doesn&#8217;t provides any fruit'
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1132
 post_title: How Kings reign?
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 4384
 post_title: For Church, Jesus is not coming to deal with our sins
 author: Praison

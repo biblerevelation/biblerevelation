@@ -1,5 +1,4 @@
 ---
----
 ID: 1848
 post_title: Who is called schemer?
 author: Praison

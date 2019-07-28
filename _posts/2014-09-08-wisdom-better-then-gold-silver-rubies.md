@@ -1,5 +1,4 @@
 ---
----
 ID: 1129
 post_title: Wisdom, better than Gold, Silver and Rubies
 author: Praison

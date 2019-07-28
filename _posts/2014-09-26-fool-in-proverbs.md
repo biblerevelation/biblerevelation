@@ -1,5 +1,4 @@
 ---
----
 ID: 2012
 post_title: Fool in Proverbs
 author: Praison

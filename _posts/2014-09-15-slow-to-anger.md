@@ -1,5 +1,4 @@
 ---
----
 ID: 1357
 post_title: Slow to anger
 author: Praison

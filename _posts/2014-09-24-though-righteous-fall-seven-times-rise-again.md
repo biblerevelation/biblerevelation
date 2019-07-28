@@ -1,5 +1,4 @@
 ---
----
 ID: 1858
 post_title: Though the righteous fall seven times, they rise again
 author: Praison

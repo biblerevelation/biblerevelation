@@ -1,5 +1,4 @@
 ---
----
 ID: 4311
 post_title: Redemption on HIS Both Shoulders
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1879
 post_title: Do your planning and prepare your fields before building your house
 author: Praison

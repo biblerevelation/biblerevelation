@@ -1,5 +1,4 @@
 ---
----
 ID: 298
 post_title: 'Jesus said &#8220;My word&#8221; to Jews'
 author: Praison

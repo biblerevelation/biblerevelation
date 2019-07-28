@@ -1,5 +1,4 @@
 ---
----
 ID: 1730
 post_title: Do not remove the ancient landmark
 author: Praison

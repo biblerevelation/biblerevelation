@@ -1,5 +1,4 @@
 ---
----
 ID: 6433
 post_title: Law of Faith
 author: Praison

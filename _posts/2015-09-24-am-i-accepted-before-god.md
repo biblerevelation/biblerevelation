@@ -1,5 +1,4 @@
 ---
----
 ID: 4411
 post_title: Am I accepted before God?
 author: Praison

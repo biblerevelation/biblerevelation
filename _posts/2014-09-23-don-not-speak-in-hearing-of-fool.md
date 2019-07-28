@@ -1,5 +1,4 @@
 ---
----
 ID: 1781
 post_title: Do not speak in the hearing of a fool
 author: Praison

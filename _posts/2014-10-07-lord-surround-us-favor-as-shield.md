@@ -1,5 +1,4 @@
 ---
----
 ID: 2222
 post_title: The Lord surround us with His favor as with a shield
 author: Praison

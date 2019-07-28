@@ -1,5 +1,4 @@
 ---
----
 ID: 3125
 post_title: King Nebuchadnezzar
 author: Praison

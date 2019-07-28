@@ -1,5 +1,4 @@
 ---
----
 ID: 1193
 post_title: Restraining Lips is Wisdom
 author: Praison

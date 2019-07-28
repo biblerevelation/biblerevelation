@@ -1,5 +1,4 @@
 ---
----
 ID: 2100
 post_title: 'righteous will see wicked&#8217;s fall'
 author: Praison

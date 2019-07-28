@@ -1,5 +1,4 @@
 ---
----
 ID: 4679
 post_title: Hearing the word of Christos
 author: Praison

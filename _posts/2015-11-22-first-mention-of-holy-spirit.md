@@ -1,5 +1,4 @@
 ---
----
 ID: 5025
 post_title: First Mention of Holy Spirit
 author: Praison

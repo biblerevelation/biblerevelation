@@ -1,5 +1,4 @@
 ---
----
 ID: 1488
 post_title: What is the highway of the upright?
 author: Praison

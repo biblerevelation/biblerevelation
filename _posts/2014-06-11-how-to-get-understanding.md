@@ -1,5 +1,4 @@
 ---
----
 ID: 755
 post_title: How to get Understanding?
 author: Praison

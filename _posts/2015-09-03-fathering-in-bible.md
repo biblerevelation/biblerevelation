@@ -1,5 +1,4 @@
 ---
----
 ID: 4288
 post_title: Fathering in Bible
 author: Praison

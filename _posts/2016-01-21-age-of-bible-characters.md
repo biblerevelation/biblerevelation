@@ -1,5 +1,4 @@
 ---
----
 ID: 5537
 post_title: Age of Bible Characters
 author: Praison

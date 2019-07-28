@@ -1,5 +1,4 @@
 ---
----
 ID: 6396
 post_title: Jesus is the blesser, we are the blessed
 author: Praison

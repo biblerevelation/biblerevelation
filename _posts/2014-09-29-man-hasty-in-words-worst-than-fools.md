@@ -1,5 +1,4 @@
 ---
----
 ID: 2111
 post_title: 'Hope: Man hasty in his words worst than fools'
 author: Praison
