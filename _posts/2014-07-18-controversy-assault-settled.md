@@ -1,8 +1,7 @@
 ---
+---
 ID: 908
-post_title: >
-  By our word every controversy and every
-  assault shall be settled
+post_title: By our word every controversy and every assault shall be settled
 author: Praison
 post_excerpt: ""
 layout: post

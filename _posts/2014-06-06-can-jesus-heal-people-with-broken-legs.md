@@ -1,11 +1,11 @@
 ---
+---
 ID: 697
 post_title: Can Jesus heal people with broken Legs?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/06/can-jesus-heal-people-with-broken-legs/
+permalink: /2014/06/can-jesus-heal-people-with-broken-legs/
 published: true
 post_date: 2014-06-06 16:17:57
 ---

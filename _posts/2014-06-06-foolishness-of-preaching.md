@@ -1,4 +1,5 @@
 ---
+---
 ID: 689
 post_title: Foolishness of Preaching
 author: Praison

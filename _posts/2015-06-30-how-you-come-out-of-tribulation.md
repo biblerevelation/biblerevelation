@@ -1,11 +1,11 @@
 ---
+---
 ID: 3894
 post_title: How you come out of tribulation?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/how-you-come-out-of-tribulation/
+permalink: /2015/06/how-you-come-out-of-tribulation/
 published: true
 post_date: 2015-06-30 13:38:40
 ---

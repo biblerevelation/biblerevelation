@@ -1,13 +1,11 @@
 ---
+---
 ID: 1693
-post_title: >
-  Self esteem is better than silver or
-  gold
+post_title: Self esteem is better than silver or gold
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/self-esteem-better-than-silver-gold/
+permalink: /2014/09/self-esteem-better-than-silver-gold/
 published: true
 post_date: 2014-09-22 09:01:21
 ---

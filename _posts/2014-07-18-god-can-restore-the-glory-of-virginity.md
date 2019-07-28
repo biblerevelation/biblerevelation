@@ -1,11 +1,11 @@
 ---
+---
 ID: 927
 post_title: God can restore the glory of Virginity
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/god-can-restore-the-glory-of-virginity/
+permalink: /2014/07/god-can-restore-the-glory-of-virginity/
 published: true
 post_date: 2014-07-18 22:32:24
 ---

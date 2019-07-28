@@ -1,11 +1,11 @@
 ---
+---
 ID: 443
 post_title: 'Groaning activates God&#8217;s Covenant'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/groaning-activates-gods-covenant/
+permalink: /2014/04/groaning-activates-gods-covenant/
 published: true
 post_date: 2014-04-30 13:59:31
 ---

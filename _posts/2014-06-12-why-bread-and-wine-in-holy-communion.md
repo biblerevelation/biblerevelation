@@ -1,13 +1,11 @@
 ---
+---
 ID: 760
-post_title: >
-  Why Bread and Wine in Holy Communion?
-  Why not Just 1 thing to eat?
+post_title: Why Bread and Wine in Holy Communion? Why not Just 1 thing to eat?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/06/why-bread-and-wine-in-holy-communion/
+permalink: /2014/06/why-bread-and-wine-in-holy-communion/
 published: true
 post_date: 2014-06-12 13:48:36
 ---

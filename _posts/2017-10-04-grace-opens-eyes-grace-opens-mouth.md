@@ -1,11 +1,11 @@
 ---
+---
 ID: 6441
 post_title: Grace Opens Eyes and Grace Opens Mouth
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/10/grace-opens-eyes-grace-opens-mouth/
+permalink: /2017/10/grace-opens-eyes-grace-opens-mouth/
 published: true
 post_date: 2017-10-04 22:54:05
 ---

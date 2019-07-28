@@ -1,4 +1,5 @@
 ---
+---
 ID: 1537
 post_title: 'Don&#8217;t answer before hearing : Wisdom'
 author: Praison

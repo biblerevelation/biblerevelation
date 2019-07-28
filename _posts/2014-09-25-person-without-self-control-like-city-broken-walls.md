@@ -1,13 +1,11 @@
 ---
+---
 ID: 1960
-post_title: >
-  A person without self-control is like a
-  city with broken-down walls
+post_title: A person without self-control is like a city with broken-down walls
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/person-without-self-control-like-city-broken-walls/
+permalink: /2014/09/person-without-self-control-like-city-broken-walls/
 published: true
 post_date: 2014-09-25 09:32:47
 ---

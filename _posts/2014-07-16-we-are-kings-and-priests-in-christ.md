@@ -1,11 +1,11 @@
 ---
+---
 ID: 878
 post_title: We are kings and priests in Christ
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/we-are-kings-and-priests-in-christ/
+permalink: /2014/07/we-are-kings-and-priests-in-christ/
 published: true
 post_date: 2014-07-16 10:24:20
 ---

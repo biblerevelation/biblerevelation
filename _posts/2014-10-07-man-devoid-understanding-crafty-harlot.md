@@ -1,13 +1,11 @@
 ---
+---
 ID: 2280
-post_title: >
-  A man devoid of understanding and The
-  Crafty Harlot
+post_title: A man devoid of understanding and The Crafty Harlot
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/man-devoid-understanding-crafty-harlot/
+permalink: /2014/10/man-devoid-understanding-crafty-harlot/
 published: true
 post_date: 2014-10-07 11:17:33
 ---

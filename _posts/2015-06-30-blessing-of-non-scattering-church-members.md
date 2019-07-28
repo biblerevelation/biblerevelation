@@ -1,11 +1,11 @@
 ---
+---
 ID: 3825
 post_title: 'Blessing of &#8220;No scattering Church members&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/blessing-of-non-scattering-church-members/
+permalink: /2015/06/blessing-of-non-scattering-church-members/
 published: true
 post_date: 2015-06-30 22:20:54
 ---

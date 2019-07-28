@@ -1,11 +1,11 @@
 ---
+---
 ID: 5601
 post_title: Jesus is deaf to Accusations against You
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/jesus-is-deaf-to-accusations-against-you/
+permalink: /2016/01/jesus-is-deaf-to-accusations-against-you/
 published: true
 post_date: 2016-01-26 18:07:50
 ---

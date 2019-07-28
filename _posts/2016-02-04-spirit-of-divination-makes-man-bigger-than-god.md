@@ -1,13 +1,11 @@
 ---
+---
 ID: 5642
-post_title: >
-  spirit of divination makes man bigger
-  than God
+post_title: spirit of divination makes man bigger than God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/02/spirit-of-divination-makes-man-bigger-than-god/
+permalink: /2016/02/spirit-of-divination-makes-man-bigger-than-god/
 published: true
 post_date: 2016-02-04 20:04:46
 ---

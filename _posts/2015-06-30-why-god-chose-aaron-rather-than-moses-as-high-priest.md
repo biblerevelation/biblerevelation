@@ -1,13 +1,11 @@
 ---
+---
 ID: 3949
-post_title: >
-  Why God chose Aaron rather than Moses as
-  High Priest?
+post_title: Why God chose Aaron rather than Moses as High Priest?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/why-god-chose-aaron-rather-than-moses-as-high-priest/
+permalink: /2015/06/why-god-chose-aaron-rather-than-moses-as-high-priest/
 published: true
 post_date: 2015-06-30 19:53:28
 ---

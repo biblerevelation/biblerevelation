@@ -1,11 +1,11 @@
 ---
+---
 ID: 1298
 post_title: Go from the presence of a foolish man
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/go-from-presence-of-foolish-man/
+permalink: /2014/09/go-from-presence-of-foolish-man/
 published: true
 post_date: 2014-09-15 10:15:39
 ---

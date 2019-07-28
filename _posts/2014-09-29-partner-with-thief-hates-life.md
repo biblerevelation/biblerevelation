@@ -1,8 +1,7 @@
 ---
+---
 ID: 2119
-post_title: >
-  Whoever is a partner with a thief hates
-  his own life
+post_title: Whoever is a partner with a thief hates his own life
 author: Praison
 post_excerpt: ""
 layout: post

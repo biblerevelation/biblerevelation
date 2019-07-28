@@ -1,11 +1,11 @@
 ---
+---
 ID: 5169
 post_title: Paul never called Galatians as Holy
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/paul-never-called-galatians-holy/
+permalink: /2015/12/paul-never-called-galatians-holy/
 published: true
 post_date: 2015-12-09 18:01:26
 ---

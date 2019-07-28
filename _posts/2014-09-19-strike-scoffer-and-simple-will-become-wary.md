@@ -1,13 +1,11 @@
 ---
+---
 ID: 1647
-post_title: >
-  Strike a scoffer, and the simple will
-  become wary
+post_title: Strike a scoffer, and the simple will become wary
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/strike-scoffer-and-simple-will-become-wary/
+permalink: /2014/09/strike-scoffer-and-simple-will-become-wary/
 published: true
 post_date: 2014-09-19 10:50:25
 ---

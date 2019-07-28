@@ -1,4 +1,5 @@
 ---
+---
 ID: 4486
 post_title: GOD MADE us Righteous
 author: Praison

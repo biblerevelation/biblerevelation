@@ -1,13 +1,11 @@
 ---
+---
 ID: 2820
-post_title: >
-  Sows bountifully will also reap
-  bountifully
+post_title: Sows bountifully will also reap bountifully
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/sows-bountifully-reap-bountifully/
+permalink: /2014/10/sows-bountifully-reap-bountifully/
 published: true
 post_date: 2014-10-21 09:27:45
 ---

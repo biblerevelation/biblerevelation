@@ -1,13 +1,11 @@
 ---
+---
 ID: 1435
-post_title: >
-  Jesus is the Passover lamb killed
-  between two evenings
+post_title: Jesus is the Passover lamb killed between two evenings
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/jesus-passover-lamb-two-evenings/
+permalink: /2014/09/jesus-passover-lamb-two-evenings/
 published: true
 post_date: 2014-09-15 14:57:32
 ---

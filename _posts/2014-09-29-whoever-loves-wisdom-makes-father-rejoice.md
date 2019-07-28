@@ -1,13 +1,11 @@
 ---
+---
 ID: 2061
-post_title: >
-  Whoever loves wisdom makes his father
-  rejoice
+post_title: Whoever loves wisdom makes his father rejoice
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/whoever-loves-wisdom-makes-father-rejoice/
+permalink: /2014/09/whoever-loves-wisdom-makes-father-rejoice/
 published: true
 post_date: 2014-09-29 11:18:13
 ---

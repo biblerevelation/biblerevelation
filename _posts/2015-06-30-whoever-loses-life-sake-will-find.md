@@ -1,13 +1,11 @@
 ---
+---
 ID: 3868
-post_title: >
-  Whoever loses his life for My sake will
-  find it
+post_title: Whoever loses his life for My sake will find it
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/whoever-loses-life-sake-will-find/
+permalink: /2015/06/whoever-loses-life-sake-will-find/
 published: true
 post_date: 2015-06-30 20:06:24
 ---

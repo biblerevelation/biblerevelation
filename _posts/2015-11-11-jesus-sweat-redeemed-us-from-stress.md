@@ -1,11 +1,11 @@
 ---
+---
 ID: 4824
 post_title: Jesus Sweat Redeemed Us from Stress
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/jesus-sweat-redeemed-us-from-stress/
+permalink: /2015/11/jesus-sweat-redeemed-us-from-stress/
 published: true
 post_date: 2015-11-11 00:40:22
 ---

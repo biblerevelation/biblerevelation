@@ -1,4 +1,5 @@
 ---
+---
 ID: 2672
 post_title: 'Who can say, &#8220;I am clean, pure&#8221;?'
 author: Praison

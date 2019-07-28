@@ -1,13 +1,11 @@
 ---
+---
 ID: 1068
-post_title: >
-  How to Get delivered from unrighteous
-  man?
+post_title: How to Get delivered from unrighteous man?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/get-delivered-from-unrighteous-man/
+permalink: /2014/09/get-delivered-from-unrighteous-man/
 published: true
 post_date: 2014-09-02 11:32:22
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 1956
-post_title: >
-  A righteous man who falters before the
-  wicked is like?
+post_title: A righteous man who falters before the wicked is like?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/righteous-man-who-falters-wicked/
+permalink: /2014/09/righteous-man-who-falters-wicked/
 published: true
 post_date: 2014-09-25 09:30:47
 ---

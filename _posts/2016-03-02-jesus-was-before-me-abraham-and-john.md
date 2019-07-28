@@ -1,11 +1,11 @@
 ---
+---
 ID: 5844
 post_title: 'Jesus was before me &#8211; Abraham and John'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/03/jesus-was-before-me-abraham-and-john/
+permalink: /2016/03/jesus-was-before-me-abraham-and-john/
 published: true
 post_date: 2016-03-02 18:08:45
 ---

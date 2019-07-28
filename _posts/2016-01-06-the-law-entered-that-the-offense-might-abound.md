@@ -1,13 +1,11 @@
 ---
+---
 ID: 5420
-post_title: >
-  The law entered that the offense might
-  abound
+post_title: The law entered that the offense might abound
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/the-law-entered-that-the-offense-might-abound/
+permalink: /2016/01/the-law-entered-that-the-offense-might-abound/
 published: true
 post_date: 2016-01-06 18:13:49
 ---

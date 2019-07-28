@@ -1,13 +1,11 @@
 ---
+---
 ID: 1627
-post_title: >
-  Whoever shows contempt for their ways
-  will die
+post_title: Whoever shows contempt for their ways will die
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/whoever-shows-contempt-for-their-ways-will-die/
+permalink: /2014/09/whoever-shows-contempt-for-their-ways-will-die/
 published: true
 post_date: 2014-09-19 10:45:38
 ---

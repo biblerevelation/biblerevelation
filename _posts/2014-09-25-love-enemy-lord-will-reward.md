@@ -1,8 +1,7 @@
 ---
+---
 ID: 1948
-post_title: >
-  Love your enemy, the Lord will reward
-  you
+post_title: Love your enemy, the Lord will reward you
 author: Praison
 post_excerpt: ""
 layout: post

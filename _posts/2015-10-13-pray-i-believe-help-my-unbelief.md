@@ -1,11 +1,11 @@
 ---
+---
 ID: 4514
 post_title: 'Pray &#8220;I believe; help my unbelief&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/10/pray-i-believe-help-my-unbelief/
+permalink: /2015/10/pray-i-believe-help-my-unbelief/
 published: true
 post_date: 2015-10-13 22:22:49
 ---

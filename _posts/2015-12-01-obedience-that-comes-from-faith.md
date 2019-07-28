@@ -1,11 +1,11 @@
 ---
+---
 ID: 5152
 post_title: Obedience that comes from faith
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/obedience-that-comes-from-faith/
+permalink: /2015/12/obedience-that-comes-from-faith/
 published: true
 post_date: 2015-12-01 18:16:09
 ---

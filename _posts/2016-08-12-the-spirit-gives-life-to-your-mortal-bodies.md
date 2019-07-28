@@ -1,13 +1,11 @@
 ---
+---
 ID: 6286
-post_title: >
-  The Spirit gives life to your mortal
-  bodies
+post_title: The Spirit gives life to your mortal bodies
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/08/the-spirit-gives-life-to-your-mortal-bodies/
+permalink: /2016/08/the-spirit-gives-life-to-your-mortal-bodies/
 published: true
 post_date: 2016-08-12 18:01:30
 ---

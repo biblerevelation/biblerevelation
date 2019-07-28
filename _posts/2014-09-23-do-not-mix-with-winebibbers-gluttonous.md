@@ -1,13 +1,11 @@
 ---
+---
 ID: 1798
-post_title: >
-  Do not mix with winebibbers, Or with
-  gluttonous
+post_title: Do not mix with winebibbers, Or with gluttonous
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/do-not-mix-with-winebibbers-gluttonous/
+permalink: /2014/09/do-not-mix-with-winebibbers-gluttonous/
 published: true
 post_date: 2014-09-23 09:34:40
 ---

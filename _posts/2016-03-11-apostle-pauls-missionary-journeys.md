@@ -1,11 +1,11 @@
 ---
+---
 ID: 5890
 post_title: 'Apostle Paul&#8217;s Missionary Journeys'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/03/apostle-pauls-missionary-journeys/
+permalink: /2016/03/apostle-pauls-missionary-journeys/
 published: true
 post_date: 2016-03-11 18:54:57
 ---

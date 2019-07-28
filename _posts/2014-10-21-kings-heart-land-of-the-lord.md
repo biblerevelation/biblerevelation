@@ -1,8 +1,7 @@
 ---
+---
 ID: 2720
-post_title: >
-  King’s heart is in the hand of the
-  Lord
+post_title: King’s heart is in the hand of the Lord
 author: Praison
 post_excerpt: ""
 layout: post

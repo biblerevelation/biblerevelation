@@ -1,11 +1,11 @@
 ---
+---
 ID: 10
 post_title: Power of Becoming New Creation on Earth
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/power-becoming-new-creation-earth/
+permalink: /2014/03/power-becoming-new-creation-earth/
 published: true
 post_date: 2014-03-10 17:51:25
 ---

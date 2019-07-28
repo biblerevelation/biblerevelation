@@ -1,13 +1,11 @@
 ---
+---
 ID: 1251
-post_title: >
-  The posterity of the righteous will be
-  delivered
+post_title: The posterity of the righteous will be delivered
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/posterity-righteous-will-be-delivered/
+permalink: /2014/09/posterity-righteous-will-be-delivered/
 published: true
 post_date: 2014-09-11 09:25:51
 ---

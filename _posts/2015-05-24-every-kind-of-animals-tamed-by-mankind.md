@@ -1,11 +1,11 @@
 ---
+---
 ID: 3723
 post_title: EVERY kind of Animals tamed by mankind
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/05/every-kind-of-animals-tamed-by-mankind/
+permalink: /2015/05/every-kind-of-animals-tamed-by-mankind/
 published: true
 post_date: 2015-05-24 19:28:18
 ---

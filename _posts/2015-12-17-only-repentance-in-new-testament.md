@@ -1,11 +1,11 @@
 ---
+---
 ID: 5299
 post_title: ONLY Repentance in New Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/only-repentance-in-new-testament/
+permalink: /2015/12/only-repentance-in-new-testament/
 published: true
 post_date: 2015-12-17 18:36:56
 ---

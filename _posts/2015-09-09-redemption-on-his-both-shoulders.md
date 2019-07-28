@@ -1,11 +1,11 @@
 ---
+---
 ID: 4311
 post_title: Redemption on HIS Both Shoulders
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/redemption-on-his-both-shoulders/
+permalink: /2015/09/redemption-on-his-both-shoulders/
 published: true
 post_date: 2015-09-09 13:51:33
 ---

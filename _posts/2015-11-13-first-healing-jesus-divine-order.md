@@ -1,11 +1,11 @@
 ---
+---
 ID: 4889
 post_title: First Healing of Jesus in Divine Order
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/first-healing-jesus-divine-order/
+permalink: /2015/11/first-healing-jesus-divine-order/
 published: true
 post_date: 2015-11-13 01:51:54
 ---

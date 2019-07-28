@@ -1,11 +1,11 @@
 ---
+---
 ID: 1936
 post_title: By long forbearance a ruler is persuaded
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/long-forbearance-ruler-persuaded/
+permalink: /2014/09/long-forbearance-ruler-persuaded/
 published: true
 post_date: 2014-09-25 09:06:43
 ---

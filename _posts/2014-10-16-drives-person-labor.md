@@ -1,4 +1,5 @@
 ---
+---
 ID: 2551
 post_title: What drives a person to labor?
 author: Praison

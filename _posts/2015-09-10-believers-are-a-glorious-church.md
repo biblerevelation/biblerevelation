@@ -1,11 +1,11 @@
 ---
+---
 ID: 4324
 post_title: Believers are a Glorious Church
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/believers-are-a-glorious-church/
+permalink: /2015/09/believers-are-a-glorious-church/
 published: true
 post_date: 2015-09-10 20:56:23
 ---

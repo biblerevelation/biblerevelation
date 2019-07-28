@@ -1,4 +1,5 @@
 ---
+---
 ID: 1282
 post_title: He who trusts in his riches will fall
 author: Praison

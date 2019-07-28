@@ -1,11 +1,11 @@
 ---
+---
 ID: 1860
 post_title: Do not rejoice when your enemy falls
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/do-not-rejoice-when-enemy-falls/
+permalink: /2014/09/do-not-rejoice-when-enemy-falls/
 published: true
 post_date: 2014-09-24 09:16:57
 ---

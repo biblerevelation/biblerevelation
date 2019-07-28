@@ -1,13 +1,11 @@
 ---
+---
 ID: 1620
-post_title: >
-  The contentions of a wife are a
-  continual dripping
+post_title: The contentions of a wife are a continual dripping
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/contentions-wife-continual-dripping/
+permalink: /2014/09/contentions-wife-continual-dripping/
 published: true
 post_date: 2014-09-19 10:44:10
 ---

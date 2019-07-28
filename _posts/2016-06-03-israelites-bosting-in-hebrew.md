@@ -1,4 +1,5 @@
 ---
+---
 ID: 6210
 post_title: Israelites bosting in Hebrew
 author: Praison

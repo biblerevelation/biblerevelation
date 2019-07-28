@@ -1,11 +1,11 @@
 ---
+---
 ID: 5310
 post_title: Jesus is the Bath who makes your clean
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/jesus-is-the-bath-who-makes-your-clean/
+permalink: /2015/12/jesus-is-the-bath-who-makes-your-clean/
 published: true
 post_date: 2015-12-18 18:33:54
 ---

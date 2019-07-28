@@ -1,11 +1,11 @@
 ---
+---
 ID: 2029
 post_title: Whoever digs a pit will fall into it
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/whoever-digs-pit-will-fall-into-it/
+permalink: /2014/09/whoever-digs-pit-will-fall-into-it/
 published: true
 post_date: 2014-09-26 10:47:53
 ---

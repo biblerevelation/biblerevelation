@@ -1,11 +1,11 @@
 ---
+---
 ID: 4872
 post_title: Sheep now returned to the Shepherd
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/sheep-now-returned-to-the-shepherd/
+permalink: /2015/11/sheep-now-returned-to-the-shepherd/
 published: true
 post_date: 2015-11-12 18:59:35
 ---

@@ -1,4 +1,5 @@
 ---
+---
 ID: 1277
 post_title: Righteousness leads to life
 author: Praison

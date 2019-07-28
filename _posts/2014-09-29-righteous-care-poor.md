@@ -1,8 +1,7 @@
 ---
+---
 ID: 2074
-post_title: >
-  The righteous care about justice for the
-  poor
+post_title: The righteous care about justice for the poor
 author: Praison
 post_excerpt: ""
 layout: post

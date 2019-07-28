@@ -1,13 +1,11 @@
 ---
+---
 ID: 2102
-post_title: >
-  Where there is no revelation, the people
-  cast off restraint
+post_title: Where there is no revelation, the people cast off restraint
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/revelation-people-cast-restraint/
+permalink: /2014/09/revelation-people-cast-restraint/
 published: true
 post_date: 2014-09-29 11:11:16
 ---

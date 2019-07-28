@@ -1,4 +1,5 @@
 ---
+---
 ID: 1253
 post_title: Who finds favor?
 author: Praison

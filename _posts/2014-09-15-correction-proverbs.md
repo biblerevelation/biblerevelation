@@ -1,4 +1,5 @@
 ---
+---
 ID: 1347
 post_title: Correction in Proverbs
 author: Praison

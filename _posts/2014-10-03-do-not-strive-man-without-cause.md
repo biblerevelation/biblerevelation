@@ -1,11 +1,11 @@
 ---
+---
 ID: 2240
 post_title: Do not strive with a man without cause
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/do-not-strive-man-without-cause/
+permalink: /2014/10/do-not-strive-man-without-cause/
 published: true
 post_date: 2014-10-03 10:35:05
 ---

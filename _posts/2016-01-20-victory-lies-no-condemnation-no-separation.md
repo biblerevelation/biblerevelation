@@ -1,13 +1,11 @@
 ---
+---
 ID: 5517
-post_title: >
-  Victory lies between No Condemnation and
-  No Separation
+post_title: Victory lies between No Condemnation and No Separation
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/victory-lies-no-condemnation-no-separation/
+permalink: /2016/01/victory-lies-no-condemnation-no-separation/
 published: true
 post_date: 2016-01-20 18:12:08
 ---

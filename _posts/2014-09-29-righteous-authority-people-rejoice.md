@@ -1,13 +1,11 @@
 ---
+---
 ID: 2059
-post_title: >
-  When the righteous are in authority, the
-  people rejoice
+post_title: When the righteous are in authority, the people rejoice
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/righteous-authority-people-rejoice/
+permalink: /2014/09/righteous-authority-people-rejoice/
 published: true
 post_date: 2014-09-29 10:52:41
 ---

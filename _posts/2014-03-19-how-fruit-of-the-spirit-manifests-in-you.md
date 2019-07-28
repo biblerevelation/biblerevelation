@@ -1,13 +1,11 @@
 ---
+---
 ID: 90
-post_title: >
-  How Fruit of the Spirit Manifests in
-  you?
+post_title: How Fruit of the Spirit Manifests in you?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/how-fruit-of-the-spirit-manifests-in-you/
+permalink: /2014/03/how-fruit-of-the-spirit-manifests-in-you/
 published: true
 post_date: 2014-03-19 15:14:10
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 3835
 post_title: Smith Wigglesworth on Holy Communion
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/smith-wigglesworth-on-holy-communion/
+permalink: /2015/06/smith-wigglesworth-on-holy-communion/
 published: true
 post_date: 2015-06-23 22:19:32
 ---

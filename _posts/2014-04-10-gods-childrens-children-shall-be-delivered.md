@@ -1,11 +1,11 @@
 ---
+---
 ID: 364
 post_title: 'God&#8217;s children&#8217;s children shall be delivered'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/gods-childrens-children-shall-be-delivered/
+permalink: /2014/04/gods-childrens-children-shall-be-delivered/
 published: true
 post_date: 2014-04-10 13:53:41
 ---

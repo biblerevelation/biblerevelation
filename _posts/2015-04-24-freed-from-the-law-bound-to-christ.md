@@ -1,11 +1,11 @@
 ---
+---
 ID: 3653
 post_title: Freed from the Law, Bound to Christ
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/04/freed-from-the-law-bound-to-christ/
+permalink: /2015/04/freed-from-the-law-bound-to-christ/
 published: true
 post_date: 2015-04-24 12:55:23
 ---

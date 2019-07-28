@@ -1,11 +1,11 @@
 ---
+---
 ID: 1465
 post_title: The Lord has made all for Himself
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/the-lord-has-made-all-for-himself/
+permalink: /2014/09/the-lord-has-made-all-for-himself/
 published: true
 post_date: 2014-09-16 22:27:36
 ---

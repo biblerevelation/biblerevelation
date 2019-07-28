@@ -1,13 +1,11 @@
 ---
+---
 ID: 2514
-post_title: >
-  How gentiles are blessed with believing
-  Abraham?
+post_title: How gentiles are blessed with believing Abraham?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/gentiles-blessed-with-believing-abraham/
+permalink: /2014/10/gentiles-blessed-with-believing-abraham/
 published: true
 post_date: 2014-10-13 14:36:43
 ---

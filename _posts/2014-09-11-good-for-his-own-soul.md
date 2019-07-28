@@ -1,4 +1,5 @@
 ---
+---
 ID: 1239
 post_title: Who does good for his own soul?
 author: Praison

@@ -1,11 +1,11 @@
 ---
+---
 ID: 920
 post_title: No Fear, Nor Lacking, nor dismayed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/no-fear-nor-lacking-nor-dismayed/
+permalink: /2014/07/no-fear-nor-lacking-nor-dismayed/
 published: true
 post_date: 2014-07-18 12:30:19
 ---

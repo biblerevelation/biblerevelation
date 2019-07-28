@@ -1,4 +1,5 @@
 ---
+---
 ID: 3338
 post_title: Highest form of mans wisdom
 author: Praison

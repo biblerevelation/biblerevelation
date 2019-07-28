@@ -1,4 +1,5 @@
 ---
+---
 ID: 2095
 post_title: The rod and rebuke give wisdom
 author: Praison

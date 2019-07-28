@@ -1,8 +1,7 @@
 ---
+---
 ID: 2312
-post_title: >
-  Blessed are those who keep the ways of
-  Wisdom
+post_title: Blessed are those who keep the ways of Wisdom
 author: Praison
 post_excerpt: ""
 layout: post

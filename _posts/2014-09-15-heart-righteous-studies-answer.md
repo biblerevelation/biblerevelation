@@ -1,8 +1,7 @@
 ---
+---
 ID: 1374
-post_title: >
-  The heart of the righteous studies how
-  to answer
+post_title: The heart of the righteous studies how to answer
 author: Praison
 post_excerpt: ""
 layout: post

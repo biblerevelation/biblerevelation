@@ -1,11 +1,11 @@
 ---
+---
 ID: 2668
 post_title: Children of righteous man are blessed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/children-of-righteous-man-blessed/
+permalink: /2014/10/children-of-righteous-man-blessed/
 published: true
 post_date: 2014-10-20 15:59:42
 ---

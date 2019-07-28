@@ -1,11 +1,11 @@
 ---
+---
 ID: 3456
 post_title: Everything through the New Covenant
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/02/everything-through-the-new-covenant/
+permalink: /2015/02/everything-through-the-new-covenant/
 published: true
 post_date: 2015-02-10 01:11:28
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 5500
 post_title: Jesus came to make dead people live
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/jesus-came-make-dead-people-live/
+permalink: /2016/01/jesus-came-make-dead-people-live/
 published: true
 post_date: 2016-01-20 18:33:54
 ---

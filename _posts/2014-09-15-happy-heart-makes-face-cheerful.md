@@ -1,11 +1,11 @@
 ---
+---
 ID: 1349
 post_title: A happy heart makes the face cheerful
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/happy-heart-makes-face-cheerful/
+permalink: /2014/09/happy-heart-makes-face-cheerful/
 published: true
 post_date: 2014-09-15 09:07:19
 ---

@@ -1,4 +1,5 @@
 ---
+---
 ID: 1560
 post_title: Who finds a good thing?
 author: Praison

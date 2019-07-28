@@ -1,11 +1,11 @@
 ---
+---
 ID: 4382
 post_title: ALL believers in Christ going to Heaven
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/all-believers-in-christ-going-to-heaven/
+permalink: /2015/09/all-believers-in-christ-going-to-heaven/
 published: true
 post_date: 2015-09-19 05:36:52
 ---

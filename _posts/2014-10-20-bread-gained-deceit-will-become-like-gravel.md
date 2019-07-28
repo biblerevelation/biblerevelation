@@ -1,13 +1,11 @@
 ---
+---
 ID: 2684
-post_title: >
-  Bread gained by deceit will become like
-  gravel
+post_title: Bread gained by deceit will become like gravel
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/bread-gained-deceit-will-become-like-gravel/
+permalink: /2014/10/bread-gained-deceit-will-become-like-gravel/
 published: true
 post_date: 2014-10-20 16:08:54
 ---

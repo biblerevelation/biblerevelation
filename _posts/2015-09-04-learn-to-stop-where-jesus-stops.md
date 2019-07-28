@@ -1,11 +1,11 @@
 ---
+---
 ID: 4294
 post_title: Learn to stop where Jesus stops
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/learn-to-stop-where-jesus-stops/
+permalink: /2015/09/learn-to-stop-where-jesus-stops/
 published: true
 post_date: 2015-09-04 13:45:43
 ---

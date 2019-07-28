@@ -1,13 +1,11 @@
 ---
+---
 ID: 5501
-post_title: >
-  Go into all the world vs lost sheet of
-  Israel
+post_title: Go into all the world vs lost sheet of Israel
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/go-into-all-the-world-vs-lost-sheet-of-israel/
+permalink: /2016/01/go-into-all-the-world-vs-lost-sheet-of-israel/
 published: true
 post_date: 2016-01-20 18:26:04
 ---

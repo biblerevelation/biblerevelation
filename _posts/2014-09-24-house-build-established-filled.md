@@ -1,8 +1,7 @@
 ---
+---
 ID: 1837
-post_title: >
-  How a house is build, established and
-  rooms are filled with riches?
+post_title: How a house is build, established and rooms are filled with riches?
 author: Praison
 post_excerpt: ""
 layout: post

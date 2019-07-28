@@ -1,13 +1,11 @@
 ---
+---
 ID: 4654
-post_title: >
-  No More Consciousness of sins Vs
-  Reminder of sins
+post_title: No More Consciousness of sins Vs Reminder of sins
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/10/no-more-consciousness-of-sins-reminder-of-sins/
+permalink: /2015/10/no-more-consciousness-of-sins-reminder-of-sins/
 published: true
 post_date: 2015-10-27 14:06:48
 ---

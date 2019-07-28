@@ -1,4 +1,5 @@
 ---
+---
 ID: 986
 post_title: Two-edged sword, Greek meaning
 author: Praison

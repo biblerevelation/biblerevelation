@@ -1,13 +1,11 @@
 ---
+---
 ID: 2031
-post_title: >
-  He who rolls a stone will have it roll
-  back on him
+post_title: He who rolls a stone will have it roll back on him
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/he-who-rolls-stone-will-roll-back/
+permalink: /2014/09/he-who-rolls-stone-will-roll-back/
 published: true
 post_date: 2014-09-26 10:48:15
 ---

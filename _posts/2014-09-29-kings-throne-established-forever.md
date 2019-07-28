@@ -1,11 +1,11 @@
 ---
+---
 ID: 2091
 post_title: 'How a king&#8217;s throne is established forever'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/kings-throne-established-forever/
+permalink: /2014/09/kings-throne-established-forever/
 published: true
 post_date: 2014-09-29 11:10:08
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 6281
 post_title: Hold fast the confession of our hope
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/08/hold-fast-the-confession-of-our-hope/
+permalink: /2016/08/hold-fast-the-confession-of-our-hope/
 published: true
 post_date: 2016-08-12 18:53:57
 ---

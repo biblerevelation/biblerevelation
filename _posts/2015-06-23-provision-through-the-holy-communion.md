@@ -1,11 +1,11 @@
 ---
+---
 ID: 3846
 post_title: Provision through the Holy Communion
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/provision-through-the-holy-communion/
+permalink: /2015/06/provision-through-the-holy-communion/
 published: true
 post_date: 2015-06-23 22:59:37
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 326
 post_title: Rest, in Holy Spirit directed activity
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/rest-holy-spirit-directed-activity/
+permalink: /2014/04/rest-holy-spirit-directed-activity/
 published: true
 post_date: 2014-04-08 01:05:58
 ---

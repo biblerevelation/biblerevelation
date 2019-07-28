@@ -1,11 +1,11 @@
 ---
+---
 ID: 4831
 post_title: All have fall short of the glory of God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/all-have-fall-short-of-the-glory-of-god/
+permalink: /2015/11/all-have-fall-short-of-the-glory-of-god/
 published: true
 post_date: 2015-11-11 00:42:19
 ---

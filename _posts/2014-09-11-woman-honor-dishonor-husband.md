@@ -1,8 +1,7 @@
 ---
+---
 ID: 1265
-post_title: >
-  How a Woman brings honor and dishonor
-  for her husband?
+post_title: How a Woman brings honor and dishonor for her husband?
 author: Praison
 post_excerpt: ""
 layout: post

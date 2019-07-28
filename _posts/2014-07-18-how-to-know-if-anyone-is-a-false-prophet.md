@@ -1,13 +1,11 @@
 ---
+---
 ID: 915
-post_title: >
-  How to know if anyone is a false
-  prophet?
+post_title: How to know if anyone is a false prophet?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/how-to-know-if-anyone-is-a-false-prophet/
+permalink: /2014/07/how-to-know-if-anyone-is-a-false-prophet/
 published: true
 post_date: 2014-07-18 10:53:23
 ---

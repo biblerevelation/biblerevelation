@@ -1,13 +1,11 @@
 ---
+---
 ID: 1027
-post_title: >
-  Lazy Person not even bring it back to
-  his mouth (Two similar Verse)
+post_title: Lazy Person not even bring it back to his mouth (Two similar Verse)
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/lazy-person-not-bring-back-to-mouth/
+permalink: /2014/09/lazy-person-not-bring-back-to-mouth/
 published: true
 post_date: 2014-09-26 08:24:52
 ---

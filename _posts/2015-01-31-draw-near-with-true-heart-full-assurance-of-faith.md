@@ -1,13 +1,11 @@
 ---
+---
 ID: 3396
-post_title: >
-  Draw near with a true heart in full
-  assurance of faith
+post_title: Draw near with a true heart in full assurance of faith
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/01/draw-near-with-true-heart-full-assurance-of-faith/
+permalink: /2015/01/draw-near-with-true-heart-full-assurance-of-faith/
 published: true
 post_date: 2015-01-31 12:02:46
 ---

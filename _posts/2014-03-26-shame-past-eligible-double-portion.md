@@ -1,11 +1,11 @@
 ---
+---
 ID: 155
 post_title: 'Had shame in the Past? : You are Eligible for Double Portion'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/shame-past-eligible-double-portion/
+permalink: /2014/03/shame-past-eligible-double-portion/
 published: true
 post_date: 2014-03-26 12:00:59
 ---

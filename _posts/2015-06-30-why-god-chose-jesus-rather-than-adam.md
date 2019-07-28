@@ -1,11 +1,11 @@
 ---
+---
 ID: 3952
 post_title: Why God chose Jesus rather than Adam?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/why-god-chose-jesus-rather-than-adam/
+permalink: /2015/06/why-god-chose-jesus-rather-than-adam/
 published: true
 post_date: 2015-06-30 19:59:32
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 5953
 post_title: Getting removed from Self Occupation
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/04/getting-removed-self-occupation/
+permalink: /2016/04/getting-removed-self-occupation/
 published: true
 post_date: 2016-04-08 18:42:40
 ---

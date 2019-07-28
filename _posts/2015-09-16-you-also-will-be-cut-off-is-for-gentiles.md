@@ -1,11 +1,11 @@
 ---
+---
 ID: 4327
 post_title: '&#8220;You also will be cut off&#8221; is for Gentiles'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/you-also-will-be-cut-off-is-for-gentiles/
+permalink: /2015/09/you-also-will-be-cut-off-is-for-gentiles/
 published: true
 post_date: 2015-09-16 20:50:23
 ---

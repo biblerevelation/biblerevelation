@@ -1,11 +1,11 @@
 ---
+---
 ID: 5338
 post_title: 'Most Printed Gospel doesn&#8217;t have the word &#8220;Repent&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/most-printed-gospel-doesnt-have-the-word-repent/
+permalink: /2015/12/most-printed-gospel-doesnt-have-the-word-repent/
 published: true
 post_date: 2015-12-22 18:33:51
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 212
 post_title: 'Jesus Christ &#8220;Endured&#8221; the Cross for OUR Joy'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/jesus-christ-endured-cross-for-our-joy/
+permalink: /2014/03/jesus-christ-endured-cross-for-our-joy/
 published: true
 post_date: 2014-03-30 10:01:47
 ---

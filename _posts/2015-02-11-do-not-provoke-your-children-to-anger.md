@@ -1,11 +1,11 @@
 ---
+---
 ID: 3492
 post_title: Do not provoke your children to anger
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/02/do-not-provoke-your-children-to-anger/
+permalink: /2015/02/do-not-provoke-your-children-to-anger/
 published: true
 post_date: 2015-02-11 22:13:39
 ---

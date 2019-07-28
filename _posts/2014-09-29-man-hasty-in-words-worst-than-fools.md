@@ -1,11 +1,11 @@
 ---
+---
 ID: 2111
 post_title: 'Hope: Man hasty in his words worst than fools'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/man-hasty-in-words-worst-than-fools/
+permalink: /2014/09/man-hasty-in-words-worst-than-fools/
 published: true
 post_date: 2014-09-29 11:12:46
 ---

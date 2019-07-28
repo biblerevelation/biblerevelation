@@ -1,4 +1,5 @@
 ---
+---
 ID: 1336
 post_title: 'King&#8217;s favor is to whom?'
 author: Praison

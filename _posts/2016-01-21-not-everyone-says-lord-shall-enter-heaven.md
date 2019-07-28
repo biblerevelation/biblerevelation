@@ -1,13 +1,11 @@
 ---
+---
 ID: 5559
-post_title: >
-  Not everyone who says , ‘Lord’ shall
-  enter heaven ?
+post_title: Not everyone who says , ‘Lord’ shall enter heaven ?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/not-everyone-says-lord-shall-enter-heaven/
+permalink: /2016/01/not-everyone-says-lord-shall-enter-heaven/
 published: true
 post_date: 2016-01-21 18:42:57
 ---

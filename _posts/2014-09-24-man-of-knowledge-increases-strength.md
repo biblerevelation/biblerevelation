@@ -1,11 +1,11 @@
 ---
+---
 ID: 1839
 post_title: A man of knowledge increases strength
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/man-of-knowledge-increases-strength/
+permalink: /2014/09/man-of-knowledge-increases-strength/
 published: true
 post_date: 2014-09-24 09:04:02
 ---

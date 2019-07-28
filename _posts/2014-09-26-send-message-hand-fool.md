@@ -1,8 +1,7 @@
 ---
+---
 ID: 2001
-post_title: >
-  How its like to send a message by the
-  hand of a fool
+post_title: How its like to send a message by the hand of a fool
 author: Praison
 post_excerpt: ""
 layout: post

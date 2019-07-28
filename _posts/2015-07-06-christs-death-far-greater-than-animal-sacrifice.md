@@ -1,11 +1,11 @@
 ---
+---
 ID: 3973
 post_title: 'Christ&#8217;s Death FAR greater than Animal sacrifice'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/07/christs-death-far-greater-than-animal-sacrifice/
+permalink: /2015/07/christs-death-far-greater-than-animal-sacrifice/
 published: true
 post_date: 2015-07-06 13:56:30
 ---

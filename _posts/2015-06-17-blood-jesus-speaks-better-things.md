@@ -1,13 +1,11 @@
 ---
+---
 ID: 3763
-post_title: >
-  The Blood of Jesus that speaks better
-  things
+post_title: The Blood of Jesus that speaks better things
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/blood-jesus-speaks-better-things/
+permalink: /2015/06/blood-jesus-speaks-better-things/
 published: true
 post_date: 2015-06-17 23:35:28
 ---

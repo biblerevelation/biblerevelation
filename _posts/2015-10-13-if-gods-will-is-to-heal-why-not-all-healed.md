@@ -1,13 +1,11 @@
 ---
+---
 ID: 4545
-post_title: >
-  If Gods Will is to Heal, Why not all
-  Healed?
+post_title: If Gods Will is to Heal, Why not all Healed?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/10/if-gods-will-is-to-heal-why-not-all-healed/
+permalink: /2015/10/if-gods-will-is-to-heal-why-not-all-healed/
 published: true
 post_date: 2015-10-13 22:11:56
 ---

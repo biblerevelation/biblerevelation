@@ -1,11 +1,11 @@
 ---
+---
 ID: 5748
 post_title: Difference between Tongues and Prophecy
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/02/difference-between-tongues-and-prophecy/
+permalink: /2016/02/difference-between-tongues-and-prophecy/
 published: true
 post_date: 2016-02-16 18:51:59
 ---

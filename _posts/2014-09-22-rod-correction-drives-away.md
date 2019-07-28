@@ -1,8 +1,7 @@
 ---
+---
 ID: 1718
-post_title: >
-  What does the rod of correction drives
-  away?
+post_title: What does the rod of correction drives away?
 author: Praison
 post_excerpt: ""
 layout: post

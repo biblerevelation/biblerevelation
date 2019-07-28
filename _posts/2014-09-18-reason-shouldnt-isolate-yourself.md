@@ -1,11 +1,11 @@
 ---
+---
 ID: 1502
 post_title: 'Reason why you shouldn&#8217;t isolate yourself'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/reason-shouldnt-isolate-yourself/
+permalink: /2014/09/reason-shouldnt-isolate-yourself/
 published: true
 post_date: 2014-09-18 10:51:22
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 5156
 post_title: Unshrunk cloth on an old garment
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/unshrunk-cloth-on-an-old-garment/
+permalink: /2015/12/unshrunk-cloth-on-an-old-garment/
 published: true
 post_date: 2015-12-02 18:44:50
 ---

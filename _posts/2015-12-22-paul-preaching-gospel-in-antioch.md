@@ -1,11 +1,11 @@
 ---
+---
 ID: 5324
 post_title: Paul Preaching Gospel in Antioch
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/paul-preaching-gospel-in-antioch/
+permalink: /2015/12/paul-preaching-gospel-in-antioch/
 published: true
 post_date: 2015-12-22 18:13:04
 ---

@@ -1,4 +1,5 @@
 ---
+---
 ID: 840
 post_title: Have we received a new spirit?
 author: Praison

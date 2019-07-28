@@ -1,11 +1,11 @@
 ---
+---
 ID: 6135
 post_title: During affliction see the invisible
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/05/during-affliction-see-the-invisible/
+permalink: /2016/05/during-affliction-see-the-invisible/
 published: true
 post_date: 2016-05-12 06:58:04
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 1525
-post_title: >
-  The wellspring of wisdom is a flowing
-  brook
+post_title: The wellspring of wisdom is a flowing brook
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/wellspring-wisdom-flowing-brook/
+permalink: /2014/09/wellspring-wisdom-flowing-brook/
 published: true
 post_date: 2014-09-18 10:53:33
 ---

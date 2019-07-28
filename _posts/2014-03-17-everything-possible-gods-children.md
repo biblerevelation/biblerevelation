@@ -1,11 +1,11 @@
 ---
+---
 ID: 56
 post_title: 'Is everything Possible for God&#8217;s Children?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/everything-possible-gods-children/
+permalink: /2014/03/everything-possible-gods-children/
 published: true
 post_date: 2014-03-17 17:40:17
 ---

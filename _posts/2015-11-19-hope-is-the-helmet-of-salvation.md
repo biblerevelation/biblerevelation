@@ -1,11 +1,11 @@
 ---
+---
 ID: 4975
 post_title: Hope is the Helmet of Salvation
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/hope-is-the-helmet-of-salvation/
+permalink: /2015/11/hope-is-the-helmet-of-salvation/
 published: true
 post_date: 2015-11-19 23:13:12
 ---

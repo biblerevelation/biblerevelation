@@ -1,4 +1,5 @@
 ---
+---
 ID: 3180
 post_title: Why 10 Commandments was given?
 author: Praison

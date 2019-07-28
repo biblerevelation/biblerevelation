@@ -1,13 +1,11 @@
 ---
+---
 ID: 526
-post_title: >
-  Lord speaks clearly with His faithful
-  person
+post_title: Lord speaks clearly with His faithful person
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/05/lord-speaks-clearly-with-his-faithful-person/
+permalink: /2014/05/lord-speaks-clearly-with-his-faithful-person/
 published: true
 post_date: 2014-05-13 12:20:40
 ---

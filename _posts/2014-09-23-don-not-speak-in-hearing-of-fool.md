@@ -1,11 +1,11 @@
 ---
+---
 ID: 1781
 post_title: Do not speak in the hearing of a fool
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/don-not-speak-in-hearing-of-fool/
+permalink: /2014/09/don-not-speak-in-hearing-of-fool/
 published: true
 post_date: 2014-09-23 09:37:08
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 2020
 post_title: 'Interfering in someone else&#8217;s argument'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/interfering-someone-elses-argument/
+permalink: /2014/09/interfering-someone-elses-argument/
 published: true
 post_date: 2014-09-26 10:41:41
 ---

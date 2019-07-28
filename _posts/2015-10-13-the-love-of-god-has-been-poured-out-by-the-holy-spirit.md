@@ -1,13 +1,11 @@
 ---
+---
 ID: 4523
-post_title: >
-  The love of God has been poured out by
-  the Holy Spirit
+post_title: The love of God has been poured out by the Holy Spirit
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/10/the-love-of-god-has-been-poured-out-by-the-holy-spirit/
+permalink: /2015/10/the-love-of-god-has-been-poured-out-by-the-holy-spirit/
 published: true
 post_date: 2015-10-13 22:21:36
 ---

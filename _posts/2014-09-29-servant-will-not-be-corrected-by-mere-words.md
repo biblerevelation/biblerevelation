@@ -1,13 +1,11 @@
 ---
+---
 ID: 2106
-post_title: >
-  A servant will not be corrected by mere
-  words
+post_title: A servant will not be corrected by mere words
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/servant-will-not-be-corrected-by-mere-words/
+permalink: /2014/09/servant-will-not-be-corrected-by-mere-words/
 published: true
 post_date: 2014-09-29 11:11:55
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 3773
-post_title: >
-  Reigning in Life much more than death
-  reigned
+post_title: Reigning in Life much more than death reigned
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/reigning-in-life-much-more-than-death-reigned/
+permalink: /2015/06/reigning-in-life-much-more-than-death-reigned/
 published: true
 post_date: 2015-06-17 23:53:59
 ---

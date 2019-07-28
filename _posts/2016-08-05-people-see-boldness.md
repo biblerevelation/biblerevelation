@@ -1,4 +1,5 @@
 ---
+---
 ID: 6255
 post_title: People see the boldness in you
 author: Praison

@@ -1,11 +1,11 @@
 ---
+---
 ID: 1637
 post_title: 'Don&#8217;t rescue a hot-tempered person'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/dont-rescue-hot-tempered-person/
+permalink: /2014/09/dont-rescue-hot-tempered-person/
 published: true
 post_date: 2014-09-19 10:48:05
 ---

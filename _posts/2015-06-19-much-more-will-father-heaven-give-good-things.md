@@ -1,13 +1,11 @@
 ---
+---
 ID: 3794
-post_title: >
-  How much more will your Father who is in
-  heaven give good things
+post_title: How much more will your Father who is in heaven give good things
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/much-more-will-father-heaven-give-good-things/
+permalink: /2015/06/much-more-will-father-heaven-give-good-things/
 published: true
 post_date: 2015-06-19 17:36:09
 ---

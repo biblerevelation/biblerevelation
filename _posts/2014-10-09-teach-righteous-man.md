@@ -1,4 +1,5 @@
 ---
+---
 ID: 2359
 post_title: Teach a righteous man
 author: Praison

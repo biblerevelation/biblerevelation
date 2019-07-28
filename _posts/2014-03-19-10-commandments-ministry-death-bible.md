@@ -1,13 +1,11 @@
 ---
+---
 ID: 79
-post_title: >
-  10 commandments is the ministry of death
-  (Bible)
+post_title: 10 commandments is the ministry of death (Bible)
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/10-commandments-ministry-death-bible/
+permalink: /2014/03/10-commandments-ministry-death-bible/
 published: true
 post_date: 2014-03-19 14:40:56
 ---

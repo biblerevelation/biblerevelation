@@ -1,13 +1,11 @@
 ---
+---
 ID: 4335
-post_title: >
-  The Path of the Righteous gets Brighter
-  and Brighter
+post_title: The Path of the Righteous gets Brighter and Brighter
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/path-of-righteous-gets-brighter/
+permalink: /2015/09/path-of-righteous-gets-brighter/
 published: true
 post_date: 2015-09-16 21:21:22
 ---

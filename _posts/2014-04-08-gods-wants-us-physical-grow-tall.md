@@ -1,11 +1,11 @@
 ---
+---
 ID: 329
 post_title: Gods wants us to Physical grow tall
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/gods-wants-us-physical-grow-tall/
+permalink: /2014/04/gods-wants-us-physical-grow-tall/
 published: true
 post_date: 2014-04-08 08:39:12
 ---

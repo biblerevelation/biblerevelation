@@ -1,11 +1,11 @@
 ---
+---
 ID: 4315
 post_title: 'God&#8217;s priority on Redemption compared to Creation'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/gods-priority-on-redemption-compared-to-creation/
+permalink: /2015/09/gods-priority-on-redemption-compared-to-creation/
 published: true
 post_date: 2015-09-09 14:08:40
 ---

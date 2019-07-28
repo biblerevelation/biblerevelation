@@ -1,11 +1,11 @@
 ---
+---
 ID: 4938
 post_title: Bringing us to the end of the Law
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/bringing-us-to-the-end-of-the-law/
+permalink: /2015/11/bringing-us-to-the-end-of-the-law/
 published: true
 post_date: 2015-11-16 18:45:25
 ---

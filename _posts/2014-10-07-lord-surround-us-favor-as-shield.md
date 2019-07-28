@@ -1,13 +1,11 @@
 ---
+---
 ID: 2222
-post_title: >
-  The Lord surround us with His favor as
-  with a shield
+post_title: The Lord surround us with His favor as with a shield
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/lord-surround-us-favor-as-shield/
+permalink: /2014/10/lord-surround-us-favor-as-shield/
 published: true
 post_date: 2014-10-07 11:41:20
 ---

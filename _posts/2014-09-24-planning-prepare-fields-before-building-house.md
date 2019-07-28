@@ -1,13 +1,11 @@
 ---
+---
 ID: 1879
-post_title: >
-  Do your planning and prepare your fields
-  before building your house
+post_title: Do your planning and prepare your fields before building your house
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/planning-prepare-fields-before-building-house/
+permalink: /2014/09/planning-prepare-fields-before-building-house/
 published: true
 post_date: 2014-09-24 09:20:34
 ---

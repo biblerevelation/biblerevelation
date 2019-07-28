@@ -1,13 +1,11 @@
 ---
+---
 ID: 5779
-post_title: >
-  Reason why most of 70 Disciples left
-  Jesus
+post_title: Reason why most of 70 Disciples left Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/02/reason-why-most-of-70-disciples-left-jesus/
+permalink: /2016/02/reason-why-most-of-70-disciples-left-jesus/
 published: true
 post_date: 2016-02-23 18:09:08
 ---

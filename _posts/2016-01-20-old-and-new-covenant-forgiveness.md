@@ -1,11 +1,11 @@
 ---
+---
 ID: 5504
 post_title: Old and New Covenant Forgiveness
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/old-and-new-covenant-forgiveness/
+permalink: /2016/01/old-and-new-covenant-forgiveness/
 published: true
 post_date: 2016-01-20 18:29:42
 ---

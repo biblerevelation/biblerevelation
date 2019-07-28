@@ -1,13 +1,11 @@
 ---
+---
 ID: 2351
-post_title: >
-  He who corrects a scoffer gets shame and
-  hatred
+post_title: He who corrects a scoffer gets shame and hatred
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/corrects-scoffer-gets-shame-hatred/
+permalink: /2014/10/corrects-scoffer-gets-shame-hatred/
 published: true
 post_date: 2014-10-09 10:49:15
 ---

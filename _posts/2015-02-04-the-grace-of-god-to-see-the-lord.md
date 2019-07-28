@@ -1,11 +1,11 @@
 ---
+---
 ID: 3412
 post_title: The grace of God to see the Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/02/the-grace-of-god-to-see-the-lord/
+permalink: /2015/02/the-grace-of-god-to-see-the-lord/
 published: true
 post_date: 2015-02-04 22:57:37
 ---

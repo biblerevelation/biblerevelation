@@ -1,13 +1,11 @@
 ---
+---
 ID: 1952
-post_title: >
-  House shared with a contentious woman is
-  like?
+post_title: House shared with a contentious woman is like?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/house-shared-with-contentious-woman/
+permalink: /2014/09/house-shared-with-contentious-woman/
 published: true
 post_date: 2014-09-25 09:29:17
 ---

@@ -1,4 +1,5 @@
 ---
+---
 ID: 1783
 post_title: Apply your heart to instruction
 author: Praison

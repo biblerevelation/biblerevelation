@@ -1,13 +1,11 @@
 ---
+---
 ID: 5099
-post_title: >
-  Glorify God in your body and in your
-  spirit
+post_title: Glorify God in your body and in your spirit
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/glorify-god-in-your-body-spirit/
+permalink: /2015/11/glorify-god-in-your-body-spirit/
 published: true
 post_date: 2015-11-26 18:09:49
 ---

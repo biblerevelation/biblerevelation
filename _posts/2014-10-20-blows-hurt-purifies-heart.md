@@ -1,4 +1,5 @@
 ---
+---
 ID: 2716
 post_title: Blows that hurt purifies the heart
 author: Praison

@@ -1,11 +1,11 @@
 ---
+---
 ID: 5598
 post_title: 'Why others can&#8217;t see what we see?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/why-others-cant-see-what-we-see/
+permalink: /2016/01/why-others-cant-see-what-we-see/
 published: true
 post_date: 2016-01-25 18:05:53
 ---

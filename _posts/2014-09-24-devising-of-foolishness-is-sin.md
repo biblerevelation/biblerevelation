@@ -1,4 +1,5 @@
 ---
+---
 ID: 1846
 post_title: The devising of foolishness is sin
 author: Praison

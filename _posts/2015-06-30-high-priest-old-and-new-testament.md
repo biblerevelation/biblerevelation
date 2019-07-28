@@ -1,11 +1,11 @@
 ---
+---
 ID: 3908
 post_title: High Priest in Old and New Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/high-priest-old-and-new-testament/
+permalink: /2015/06/high-priest-old-and-new-testament/
 published: true
 post_date: 2015-06-30 20:01:39
 ---

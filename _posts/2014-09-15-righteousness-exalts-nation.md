@@ -1,4 +1,5 @@
 ---
+---
 ID: 1334
 post_title: Righteousness exalts a nation
 author: Praison

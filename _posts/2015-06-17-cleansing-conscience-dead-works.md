@@ -1,13 +1,11 @@
 ---
+---
 ID: 3751
-post_title: >
-  Cleansing your conscience from dead
-  works
+post_title: Cleansing your conscience from dead works
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/cleansing-conscience-dead-works/
+permalink: /2015/06/cleansing-conscience-dead-works/
 published: true
 post_date: 2015-06-17 23:22:06
 ---

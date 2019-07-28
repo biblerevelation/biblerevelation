@@ -1,11 +1,11 @@
 ---
+---
 ID: 2066
 post_title: One who demands bribes destroys the Land
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/demands-bribes-destroys-the-land/
+permalink: /2014/09/demands-bribes-destroys-the-land/
 published: true
 post_date: 2014-09-29 10:57:19
 ---

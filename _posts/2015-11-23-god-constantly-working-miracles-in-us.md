@@ -1,11 +1,11 @@
 ---
+---
 ID: 5054
 post_title: God is constantly working miracles in Us
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/god-constantly-working-miracles-in-us/
+permalink: /2015/11/god-constantly-working-miracles-in-us/
 published: true
 post_date: 2015-11-23 23:19:56
 ---

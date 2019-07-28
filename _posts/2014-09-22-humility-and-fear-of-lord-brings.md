@@ -1,13 +1,11 @@
 ---
+---
 ID: 1699
-post_title: >
-  Humility and the fear of the Lord brings
-  what?
+post_title: Humility and the fear of the Lord brings what?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/humility-and-fear-of-lord-brings/
+permalink: /2014/09/humility-and-fear-of-lord-brings/
 published: true
 post_date: 2014-09-22 09:02:51
 ---

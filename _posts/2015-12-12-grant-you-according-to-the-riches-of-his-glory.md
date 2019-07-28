@@ -1,13 +1,11 @@
 ---
+---
 ID: 5233
-post_title: >
-  Grant you according to the riches of HIS
-  Glory
+post_title: Grant you according to the riches of HIS Glory
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/grant-you-according-to-the-riches-of-his-glory/
+permalink: /2015/12/grant-you-according-to-the-riches-of-his-glory/
 published: true
 post_date: 2015-12-12 01:16:39
 ---

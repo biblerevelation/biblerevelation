@@ -1,11 +1,11 @@
 ---
+---
 ID: 4317
 post_title: Rejoicing in Redemption than Creation
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/rejoicing-in-redemption-than-creation/
+permalink: /2015/09/rejoicing-in-redemption-than-creation/
 published: true
 post_date: 2015-09-09 14:10:24
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 5028
-post_title: >
-  Importance of Preaching Forgiveness of
-  Sins
+post_title: Importance of Preaching Forgiveness of Sins
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/importance-of-preaching-forgiveness-of-sins/
+permalink: /2015/11/importance-of-preaching-forgiveness-of-sins/
 published: true
 post_date: 2015-11-22 02:58:09
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 4805
 post_title: Authority over earth given to men
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/authority-over-earth-given-to-men/
+permalink: /2015/11/authority-over-earth-given-to-men/
 published: true
 post_date: 2015-11-06 14:42:45
 ---

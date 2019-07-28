@@ -1,4 +1,5 @@
 ---
+---
 ID: 1732
 post_title: Who will stand before kings?
 author: Praison

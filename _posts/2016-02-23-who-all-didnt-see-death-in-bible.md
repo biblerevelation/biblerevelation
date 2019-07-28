@@ -1,11 +1,11 @@
 ---
+---
 ID: 5793
 post_title: 'Who all didn&#8217;t see death in Bible?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/02/who-all-didnt-see-death-in-bible/
+permalink: /2016/02/who-all-didnt-see-death-in-bible/
 published: true
 post_date: 2016-02-23 18:32:14
 ---

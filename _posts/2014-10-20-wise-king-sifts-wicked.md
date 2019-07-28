@@ -1,4 +1,5 @@
 ---
+---
 ID: 2703
 post_title: Wise king sifts out the wicked
 author: Praison

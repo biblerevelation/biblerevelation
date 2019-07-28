@@ -1,11 +1,11 @@
 ---
+---
 ID: 5313
 post_title: Judas repented but still not Saved
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/judas-repented-but-still-not-saved/
+permalink: /2015/12/judas-repented-but-still-not-saved/
 published: true
 post_date: 2015-12-22 18:58:31
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 896
-post_title: >
-  Jews accepting Jesus after year 2000,
-  Prophesy
+post_title: Jews accepting Jesus after year 2000, Prophesy
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/jews-accepting-jesus-year-2000-prophesy/
+permalink: /2014/07/jews-accepting-jesus-year-2000-prophesy/
 published: true
 post_date: 2014-07-18 23:24:44
 ---

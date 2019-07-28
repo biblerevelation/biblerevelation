@@ -1,13 +1,11 @@
 ---
+---
 ID: 5395
-post_title: >
-  The prayer of a righteous person is
-  powerful
+post_title: The prayer of a righteous person is powerful
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/the-prayer-of-a-righteous-person-is-powerful/
+permalink: /2016/01/the-prayer-of-a-righteous-person-is-powerful/
 published: true
 post_date: 2016-01-05 18:56:10
 ---

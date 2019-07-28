@@ -1,11 +1,11 @@
 ---
+---
 ID: 492
 post_title: 'What&#8217;s the starting stage for seeing Miracles?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/05/whats-the-starting-stage-for-seeing-miracles/
+permalink: /2014/05/whats-the-starting-stage-for-seeing-miracles/
 published: true
 post_date: 2014-05-10 03:51:34
 ---

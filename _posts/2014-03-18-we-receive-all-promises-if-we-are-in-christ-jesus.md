@@ -1,13 +1,11 @@
 ---
+---
 ID: 68
-post_title: >
-  We receive ALL promises, if we are IN
-  Christ Jesus
+post_title: We receive ALL promises, if we are IN Christ Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/we-receive-all-promises-if-we-are-in-christ-jesus/
+permalink: /2014/03/we-receive-all-promises-if-we-are-in-christ-jesus/
 published: true
 post_date: 2014-03-18 14:22:21
 ---

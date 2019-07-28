@@ -1,13 +1,11 @@
 ---
+---
 ID: 4296
-post_title: >
-  The Acceptable Year and The Day of
-  vengeance
+post_title: The Acceptable Year and The Day of vengeance
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/acceptable-year-day-of-vengeance/
+permalink: /2015/09/acceptable-year-day-of-vengeance/
 published: true
 post_date: 2015-09-04 13:53:49
 ---

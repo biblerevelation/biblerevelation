@@ -1,13 +1,11 @@
 ---
+---
 ID: 811
-post_title: >
-  Top List of things to Receive from Holy
-  Communion
+post_title: Top List of things to Receive from Holy Communion
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/top-list-of-things-to-receive-from-holy-communion/
+permalink: /2014/07/top-list-of-things-to-receive-from-holy-communion/
 published: true
 post_date: 2014-07-06 21:03:59
 ---

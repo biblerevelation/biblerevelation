@@ -1,11 +1,11 @@
 ---
+---
 ID: 28
 post_title: Want Grace and Peace in abundance ?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/want-grace-and-peace-in-abundance/
+permalink: /2014/03/want-grace-and-peace-in-abundance/
 published: true
 post_date: 2014-03-12 15:44:09
 ---

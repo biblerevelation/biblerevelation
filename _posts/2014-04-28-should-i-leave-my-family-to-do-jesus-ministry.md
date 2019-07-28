@@ -1,13 +1,11 @@
 ---
+---
 ID: 394
-post_title: >
-  Should I leave my family to do Jesus
-  Ministry?
+post_title: Should I leave my family to do Jesus Ministry?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/should-i-leave-my-family-to-do-jesus-ministry/
+permalink: /2014/04/should-i-leave-my-family-to-do-jesus-ministry/
 published: true
 post_date: 2014-04-28 16:12:34
 ---

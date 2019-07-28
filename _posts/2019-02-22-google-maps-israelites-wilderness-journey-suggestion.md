@@ -1,13 +1,11 @@
 ---
+---
 ID: 238451
-post_title: >
-  Google Maps Israelites Wilderness
-  Journey Suggestion
+post_title: Google Maps Israelites Wilderness Journey Suggestion
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2019/02/google-maps-israelites-wilderness-journey-suggestion/
+permalink: /2019/02/google-maps-israelites-wilderness-journey-suggestion/
 published: true
 post_date: 2019-02-22 06:08:46
 ---

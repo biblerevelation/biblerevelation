@@ -1,13 +1,11 @@
 ---
+---
 ID: 1858
-post_title: >
-  Though the righteous fall seven times,
-  they rise again
+post_title: Though the righteous fall seven times, they rise again
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/though-righteous-fall-seven-times-rise-again/
+permalink: /2014/09/though-righteous-fall-seven-times-rise-again/
 published: true
 post_date: 2014-09-24 09:09:59
 ---

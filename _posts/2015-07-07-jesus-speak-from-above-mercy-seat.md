@@ -1,13 +1,11 @@
 ---
+---
 ID: 3995
-post_title: >
-  Jesus will speak with you from above the
-  mercy seat
+post_title: Jesus will speak with you from above the mercy seat
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/07/jesus-speak-from-above-mercy-seat/
+permalink: /2015/07/jesus-speak-from-above-mercy-seat/
 published: true
 post_date: 2015-07-07 13:40:28
 ---

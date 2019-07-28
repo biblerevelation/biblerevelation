@@ -1,4 +1,5 @@
 ---
+---
 ID: 1173
 post_title: Secret of Riches
 author: Praison

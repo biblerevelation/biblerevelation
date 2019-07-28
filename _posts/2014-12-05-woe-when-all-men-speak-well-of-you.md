@@ -1,13 +1,11 @@
 ---
+---
 ID: 3156
-post_title: >
-  Woe to you when all men speak well of
-  you
+post_title: Woe to you when all men speak well of you
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/12/woe-when-all-men-speak-well-of-you/
+permalink: /2014/12/woe-when-all-men-speak-well-of-you/
 published: true
 post_date: 2014-12-05 23:03:24
 ---

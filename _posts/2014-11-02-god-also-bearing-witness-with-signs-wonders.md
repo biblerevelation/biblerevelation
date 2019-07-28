@@ -1,13 +1,11 @@
 ---
+---
 ID: 2966
-post_title: >
-  God also bearing them witness, both with
-  signs and wonders
+post_title: God also bearing them witness, both with signs and wonders
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/11/god-also-bearing-witness-with-signs-wonders/
+permalink: /2014/11/god-also-bearing-witness-with-signs-wonders/
 published: true
 post_date: 2014-11-02 11:44:32
 ---

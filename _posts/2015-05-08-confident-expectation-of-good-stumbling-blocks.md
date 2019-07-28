@@ -1,13 +1,11 @@
 ---
+---
 ID: 3658
-post_title: >
-  Confident Expectation of Good Stumbling
-  Blocks
+post_title: Confident Expectation of Good Stumbling Blocks
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/05/confident-expectation-of-good-stumbling-blocks/
+permalink: /2015/05/confident-expectation-of-good-stumbling-blocks/
 published: true
 post_date: 2015-05-08 13:13:06
 ---

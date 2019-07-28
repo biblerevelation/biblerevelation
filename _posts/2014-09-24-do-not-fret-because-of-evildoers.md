@@ -1,11 +1,11 @@
 ---
+---
 ID: 1866
 post_title: Do not fret because of evildoers
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/do-not-fret-because-of-evildoers/
+permalink: /2014/09/do-not-fret-because-of-evildoers/
 published: true
 post_date: 2014-09-24 09:17:51
 ---

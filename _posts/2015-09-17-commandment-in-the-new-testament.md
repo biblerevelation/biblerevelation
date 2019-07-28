@@ -1,11 +1,11 @@
 ---
+---
 ID: 4352
 post_title: Commandment in the New Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/commandment-in-the-new-testament/
+permalink: /2015/09/commandment-in-the-new-testament/
 published: true
 post_date: 2015-09-17 21:16:22
 ---

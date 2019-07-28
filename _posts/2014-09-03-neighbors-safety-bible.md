@@ -1,4 +1,5 @@
 ---
+---
 ID: 1104
 post_title: Neighbors are for your safety (Bible)
 author: Praison

@@ -1,11 +1,11 @@
 ---
+---
 ID: 5398
 post_title: New Covenant Confession of sins
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/new-covenant-confession-of-sins/
+permalink: /2016/01/new-covenant-confession-of-sins/
 published: true
 post_date: 2016-01-05 18:07:05
 ---

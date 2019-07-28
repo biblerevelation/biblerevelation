@@ -1,11 +1,11 @@
 ---
+---
 ID: 3703
 post_title: It pleased the Lord to bruise Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/05/it-pleased-the-lord-to-bruise-jesus/
+permalink: /2015/05/it-pleased-the-lord-to-bruise-jesus/
 published: true
 post_date: 2015-05-15 13:54:04
 ---

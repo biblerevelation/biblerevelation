@@ -1,11 +1,11 @@
 ---
+---
 ID: 5223
 post_title: Jesus went straight towards sick people
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/jesus-went-straight-towards-sick-people/
+permalink: /2015/12/jesus-went-straight-towards-sick-people/
 published: true
 post_date: 2015-12-11 18:23:00
 ---

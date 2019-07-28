@@ -1,11 +1,11 @@
 ---
+---
 ID: 1631
 post_title: Chasten your son while there is hope
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/chasten-son-while-there-is-hope/
+permalink: /2014/09/chasten-son-while-there-is-hope/
 published: true
 post_date: 2014-09-19 10:46:31
 ---

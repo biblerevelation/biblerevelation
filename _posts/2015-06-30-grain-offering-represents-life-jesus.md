@@ -1,13 +1,11 @@
 ---
+---
 ID: 3881
-post_title: >
-  Grain Offering represents the Life of
-  Jesus
+post_title: Grain Offering represents the Life of Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/grain-offering-represents-life-jesus/
+permalink: /2015/06/grain-offering-represents-life-jesus/
 published: true
 post_date: 2015-06-30 20:25:57
 ---

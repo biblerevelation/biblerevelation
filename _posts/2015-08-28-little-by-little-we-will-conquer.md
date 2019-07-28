@@ -1,11 +1,11 @@
 ---
+---
 ID: 4226
 post_title: Little by little We will Conquer
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/08/little-by-little-we-will-conquer/
+permalink: /2015/08/little-by-little-we-will-conquer/
 published: true
 post_date: 2015-08-28 13:46:41
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 4167
 post_title: Blessing for the children of Zion
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/08/blessing-for-the-children-of-zion/
+permalink: /2015/08/blessing-for-the-children-of-zion/
 published: true
 post_date: 2015-08-07 13:23:04
 ---

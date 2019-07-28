@@ -1,13 +1,11 @@
 ---
+---
 ID: 2123
-post_title: >
-  Many seek the ruler’s favor, but
-  justice comes from the Lord
+post_title: Many seek the ruler’s favor, but justice comes from the Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/many-seek-rulers-but-justice-comes-from-the-lord/
+permalink: /2014/09/many-seek-rulers-but-justice-comes-from-the-lord/
 published: true
 post_date: 2014-09-29 11:15:44
 ---

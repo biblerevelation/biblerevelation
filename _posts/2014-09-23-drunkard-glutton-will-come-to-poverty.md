@@ -1,13 +1,11 @@
 ---
+---
 ID: 1795
-post_title: >
-  The drunkard and The Glutton will come
-  to poverty
+post_title: The drunkard and The Glutton will come to poverty
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/drunkard-glutton-will-come-to-poverty/
+permalink: /2014/09/drunkard-glutton-will-come-to-poverty/
 published: true
 post_date: 2014-09-23 09:34:59
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 5931
-post_title: >
-  The Lord will bring is in permissive
-  Tense
+post_title: The Lord will bring is in permissive Tense
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/03/lord-will-bring-permissive-tense/
+permalink: /2016/03/lord-will-bring-permissive-tense/
 published: true
 post_date: 2016-03-22 18:57:35
 ---

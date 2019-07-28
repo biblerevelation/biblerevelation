@@ -1,13 +1,11 @@
 ---
+---
 ID: 2705
-post_title: >
-  The spirit of a man searches all the
-  inner depths of his heart
+post_title: The spirit of a man searches all the inner depths of his heart
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/spirit-of-man-searches-inner-depths-heart/
+permalink: /2014/10/spirit-of-man-searches-inner-depths-heart/
 published: true
 post_date: 2014-10-20 16:13:07
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 3934
 post_title: I also would have given you much more
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/i-also-would-have-given-you-much-more/
+permalink: /2015/06/i-also-would-have-given-you-much-more/
 published: true
 post_date: 2015-06-30 18:43:23
 ---

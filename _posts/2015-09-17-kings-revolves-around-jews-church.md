@@ -1,13 +1,11 @@
 ---
+---
 ID: 4338
-post_title: >
-  Kings revolves around Jews and the
-  Church
+post_title: Kings revolves around Jews and the Church
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/kings-revolves-around-jews-church/
+permalink: /2015/09/kings-revolves-around-jews-church/
 published: true
 post_date: 2015-09-17 21:25:29
 ---

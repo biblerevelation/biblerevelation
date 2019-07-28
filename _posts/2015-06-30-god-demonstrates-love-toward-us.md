@@ -1,13 +1,11 @@
 ---
+---
 ID: 3782
-post_title: >
-  How God demonstrates His own love toward
-  us?
+post_title: How God demonstrates His own love toward us?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/god-demonstrates-love-toward-us/
+permalink: /2015/06/god-demonstrates-love-toward-us/
 published: true
 post_date: 2015-06-30 22:44:42
 ---

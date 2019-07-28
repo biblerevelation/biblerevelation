@@ -1,4 +1,5 @@
 ---
+---
 ID: 1999
 post_title: Curse without cause shall not alight
 author: Praison

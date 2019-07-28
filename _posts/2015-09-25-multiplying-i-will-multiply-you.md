@@ -1,11 +1,11 @@
 ---
+---
 ID: 4437
 post_title: Multiplying I will Multiply You
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/multiplying-i-will-multiply-you/
+permalink: /2015/09/multiplying-i-will-multiply-you/
 published: true
 post_date: 2015-09-25 07:08:42
 ---

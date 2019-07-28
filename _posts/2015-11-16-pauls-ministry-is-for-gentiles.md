@@ -1,4 +1,5 @@
 ---
+---
 ID: 4929
 post_title: 'Paul&#8217;s Ministry is for the Gentiles'
 author: Praison

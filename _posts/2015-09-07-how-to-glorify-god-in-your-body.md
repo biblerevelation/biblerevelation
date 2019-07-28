@@ -1,11 +1,11 @@
 ---
+---
 ID: 4304
 post_title: How to Glorify God in your body?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/how-to-glorify-god-in-your-body/
+permalink: /2015/09/how-to-glorify-god-in-your-body/
 published: true
 post_date: 2015-09-07 04:57:31
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 1544
-post_title: >
-  The spirit of a man will sustain him in
-  sickness
+post_title: The spirit of a man will sustain him in sickness
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/spirit-of-a-man-will-sustain-him-in-sickness/
+permalink: /2014/09/spirit-of-a-man-will-sustain-him-in-sickness/
 published: true
 post_date: 2014-09-18 10:58:07
 ---

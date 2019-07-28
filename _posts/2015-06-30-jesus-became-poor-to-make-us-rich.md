@@ -1,11 +1,11 @@
 ---
+---
 ID: 3819
 post_title: Jesus became poor to make us rich
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/jesus-became-poor-to-make-us-rich/
+permalink: /2015/06/jesus-became-poor-to-make-us-rich/
 published: true
 post_date: 2015-06-30 22:24:45
 ---

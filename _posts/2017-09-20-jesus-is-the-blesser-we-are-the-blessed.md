@@ -1,11 +1,11 @@
 ---
+---
 ID: 6396
 post_title: Jesus is the blesser, we are the blessed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/09/jesus-is-the-blesser-we-are-the-blessed/
+permalink: /2017/09/jesus-is-the-blesser-we-are-the-blessed/
 published: true
 post_date: 2017-09-20 21:02:32
 ---

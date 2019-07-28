@@ -1,13 +1,11 @@
 ---
+---
 ID: 6444
-post_title: >
-  I had fainted, unless I had believed to
-  see the goodness of the Lord
+post_title: I had fainted, unless I had believed to see the goodness of the Lord
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/10/fainted-unless-believed-goodness-lord/
+permalink: /2017/10/fainted-unless-believed-goodness-lord/
 published: true
 post_date: 2017-10-04 23:02:46
 ---

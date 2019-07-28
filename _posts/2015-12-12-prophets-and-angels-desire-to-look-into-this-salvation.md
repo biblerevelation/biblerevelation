@@ -1,13 +1,11 @@
 ---
+---
 ID: 5247
-post_title: >
-  Prophets and Angels desire to look into
-  THIS Salvation
+post_title: Prophets and Angels desire to look into THIS Salvation
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/prophets-and-angels-desire-to-look-into-this-salvation/
+permalink: /2015/12/prophets-and-angels-desire-to-look-into-this-salvation/
 published: true
 post_date: 2015-12-12 09:52:25
 ---

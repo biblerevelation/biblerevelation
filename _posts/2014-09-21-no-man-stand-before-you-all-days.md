@@ -1,13 +1,11 @@
 ---
+---
 ID: 1690
-post_title: >
-  No man shall be able to stand before you
-  all the days of your life
+post_title: No man shall be able to stand before you all the days of your life
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/no-man-stand-before-you-all-days/
+permalink: /2014/09/no-man-stand-before-you-all-days/
 published: true
 post_date: 2014-09-21 10:16:28
 ---

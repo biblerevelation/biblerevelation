@@ -1,13 +1,11 @@
 ---
+---
 ID: 1119
-post_title: >
-  Proverbs 4 about Head, Eyes, Eyelids,
-  Ear, mouth, lips, Neck, Heart, Feet
+post_title: Proverbs 4 about Head, Eyes, Eyelids, Ear, mouth, lips, Neck, Heart, Feet
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/proverbs-4-about-parts-of-our-body/
+permalink: /2014/09/proverbs-4-about-parts-of-our-body/
 published: true
 post_date: 2014-09-10 15:36:58
 ---

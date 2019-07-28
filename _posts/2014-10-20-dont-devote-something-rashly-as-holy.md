@@ -1,11 +1,11 @@
 ---
+---
 ID: 2701
 post_title: 'Don&#8217;t devote something rashly, as holy'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/dont-devote-something-rashly-as-holy/
+permalink: /2014/10/dont-devote-something-rashly-as-holy/
 published: true
 post_date: 2014-10-20 16:11:52
 ---

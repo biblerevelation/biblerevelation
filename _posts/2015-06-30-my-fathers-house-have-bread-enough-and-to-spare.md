@@ -1,11 +1,11 @@
 ---
+---
 ID: 3884
 post_title: 'My Fathers house have bread enough and to &#8220;spare&#8221;'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/my-fathers-house-have-bread-enough-and-to-spare/
+permalink: /2015/06/my-fathers-house-have-bread-enough-and-to-spare/
 published: true
 post_date: 2015-06-30 13:09:43
 ---

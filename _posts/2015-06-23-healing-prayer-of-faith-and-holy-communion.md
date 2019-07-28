@@ -1,11 +1,11 @@
 ---
+---
 ID: 3849
 post_title: 'Healing : Prayer of Faith and Holy Communion'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/healing-prayer-of-faith-and-holy-communion/
+permalink: /2015/06/healing-prayer-of-faith-and-holy-communion/
 published: true
 post_date: 2015-06-23 23:07:56
 ---

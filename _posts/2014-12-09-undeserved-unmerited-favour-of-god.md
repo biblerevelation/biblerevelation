@@ -1,11 +1,11 @@
 ---
+---
 ID: 3144
 post_title: Undeserved, unmerited favour of God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/12/undeserved-unmerited-favour-of-god/
+permalink: /2014/12/undeserved-unmerited-favour-of-god/
 published: true
 post_date: 2014-12-09 14:28:24
 ---

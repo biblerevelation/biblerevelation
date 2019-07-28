@@ -1,4 +1,5 @@
 ---
+---
 ID: 2072
 post_title: The righteous sings and rejoices
 author: Praison

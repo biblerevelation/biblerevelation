@@ -1,11 +1,11 @@
 ---
+---
 ID: 6435
 post_title: Isaiah 54 a New Covenant Heritage
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/10/isaiah-54-new-covenant-heritage/
+permalink: /2017/10/isaiah-54-new-covenant-heritage/
 published: true
 post_date: 2017-10-04 22:34:27
 ---

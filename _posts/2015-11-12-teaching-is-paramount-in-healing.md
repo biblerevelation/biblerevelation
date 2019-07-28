@@ -1,11 +1,11 @@
 ---
+---
 ID: 4876
 post_title: Teaching is Paramount in Healing
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/teaching-is-paramount-in-healing/
+permalink: /2015/11/teaching-is-paramount-in-healing/
 published: true
 post_date: 2015-11-12 19:18:40
 ---

@@ -1,4 +1,5 @@
 ---
+---
 ID: 361
 post_title: NO Evil for the Righteous
 author: Praison

@@ -1,11 +1,11 @@
 ---
+---
 ID: 4266
 post_title: Blasphemy against Holy Spirit meaning
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/blasphemy-against-holy-spirit-meaning/
+permalink: /2015/09/blasphemy-against-holy-spirit-meaning/
 published: true
 post_date: 2015-09-02 14:16:39
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 1773
-post_title: >
-  Drinking Alcohol, bites like a serpent
-  and stings like a viper
+post_title: Drinking Alcohol, bites like a serpent and stings like a viper
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/alcohol-bites-like-serpent-stings-like-viper/
+permalink: /2014/09/alcohol-bites-like-serpent-stings-like-viper/
 published: true
 post_date: 2014-09-23 09:39:47
 ---

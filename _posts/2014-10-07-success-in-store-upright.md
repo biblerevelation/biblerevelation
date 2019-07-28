@@ -1,8 +1,7 @@
 ---
+---
 ID: 2220
-post_title: >
-  He holds success in store for the
-  upright
+post_title: He holds success in store for the upright
 author: Praison
 post_excerpt: ""
 layout: post

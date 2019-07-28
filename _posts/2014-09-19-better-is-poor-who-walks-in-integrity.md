@@ -1,13 +1,11 @@
 ---
+---
 ID: 1568
-post_title: >
-  Better is the poor who walks in his
-  integrity
+post_title: Better is the poor who walks in his integrity
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/better-is-poor-who-walks-in-integrity/
+permalink: /2014/09/better-is-poor-who-walks-in-integrity/
 published: true
 post_date: 2014-09-19 09:57:58
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 3463
 post_title: Three pillars of Theology about God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/02/three-pillars-of-theology-about-god/
+permalink: /2015/02/three-pillars-of-theology-about-god/
 published: true
 post_date: 2015-02-14 10:42:59
 ---

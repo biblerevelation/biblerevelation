@@ -1,13 +1,11 @@
 ---
+---
 ID: 1623
-post_title: >
-  Houses and riches are an inheritance
-  from fathers
+post_title: Houses and riches are an inheritance from fathers
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/houses-riches-inheritance-from-fathers/
+permalink: /2014/09/houses-riches-inheritance-from-fathers/
 published: true
 post_date: 2014-09-19 10:44:34
 ---

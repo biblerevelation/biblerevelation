@@ -1,11 +1,11 @@
 ---
+---
 ID: 3813
 post_title: Clean because of the spoken word
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/clean-because-of-the-spoken-word/
+permalink: /2015/06/clean-because-of-the-spoken-word/
 published: true
 post_date: 2015-06-30 22:29:14
 ---

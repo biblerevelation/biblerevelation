@@ -1,4 +1,5 @@
 ---
+---
 ID: 1802
 post_title: Buy the truth, and do not sell it
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 1597
 post_title: Wealth makes many friends
 author: Praison

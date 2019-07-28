@@ -1,11 +1,11 @@
 ---
+---
 ID: 385
 post_title: 'Word &#8220;Hell&#8221; only one time in New Testament'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/word-hell-one-time-new-testament/
+permalink: /2014/04/word-hell-one-time-new-testament/
 published: true
 post_date: 2014-04-17 15:52:22
 ---

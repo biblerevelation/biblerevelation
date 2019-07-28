@@ -1,13 +1,11 @@
 ---
+---
 ID: 1486
-post_title: >
-  king’s favor is like a cloud of the
-  latter rain
+post_title: king’s favor is like a cloud of the latter rain
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/kings-favor-like-cloud-latter-rain/
+permalink: /2014/09/kings-favor-like-cloud-latter-rain/
 published: true
 post_date: 2014-09-16 22:20:25
 ---

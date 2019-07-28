@@ -1,4 +1,5 @@
 ---
+---
 ID: 4388
 post_title: Gospel is THE power
 author: Praison

@@ -1,13 +1,11 @@
 ---
+---
 ID: 3031
-post_title: >
-  Do not call anything impure that God has
-  made clean
+post_title: Do not call anything impure that God has made clean
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/11/do-not-call-anything-impure-that-god-made-clean/
+permalink: /2014/11/do-not-call-anything-impure-that-god-made-clean/
 published: true
 post_date: 2014-11-12 14:10:04
 ---

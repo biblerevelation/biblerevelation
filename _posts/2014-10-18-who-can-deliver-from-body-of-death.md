@@ -1,13 +1,11 @@
 ---
+---
 ID: 2619
-post_title: >
-  Who can deliver you from this body of
-  death?
+post_title: Who can deliver you from this body of death?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/who-can-deliver-from-body-of-death/
+permalink: /2014/10/who-can-deliver-from-body-of-death/
 published: true
 post_date: 2014-10-18 20:48:41
 ---

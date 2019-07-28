@@ -1,11 +1,11 @@
 ---
+---
 ID: 2100
 post_title: 'righteous will see wicked&#8217;s fall'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/righteous-will-see-wickeds-fall/
+permalink: /2014/09/righteous-will-see-wickeds-fall/
 published: true
 post_date: 2014-09-29 11:10:53
 ---

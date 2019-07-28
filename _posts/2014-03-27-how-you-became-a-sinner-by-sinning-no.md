@@ -1,11 +1,11 @@
 ---
+---
 ID: 173
 post_title: How you became a Sinner? by Sinning? NO
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/how-you-became-a-sinner-by-sinning-no/
+permalink: /2014/03/how-you-became-a-sinner-by-sinning-no/
 published: true
 post_date: 2014-03-27 17:00:53
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 4016
 post_title: Bringing Jesus to the place of Grace
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/07/bringing-jesus-to-the-place-of-grace/
+permalink: /2015/07/bringing-jesus-to-the-place-of-grace/
 published: true
 post_date: 2015-07-07 21:33:12
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 5410
 post_title: What is that to you? You follow Me
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/what-is-that-to-you-you-follow-me/
+permalink: /2016/01/what-is-that-to-you-you-follow-me/
 published: true
 post_date: 2016-01-06 18:00:31
 ---

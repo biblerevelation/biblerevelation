@@ -1,13 +1,11 @@
 ---
+---
 ID: 1533
-post_title: >
-  The words of a talebearer go down into
-  the inmost body
+post_title: The words of a talebearer go down into the inmost body
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/words-talebearer-go-inmost-body/
+permalink: /2014/09/words-talebearer-go-inmost-body/
 published: true
 post_date: 2014-09-18 10:56:04
 ---

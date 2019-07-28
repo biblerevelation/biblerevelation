@@ -1,11 +1,11 @@
 ---
+---
 ID: 2756
 post_title: Violence of the wicked will destroy them
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/violence-of-wicked-destroy-them/
+permalink: /2014/10/violence-of-wicked-destroy-them/
 published: true
 post_date: 2014-10-21 16:22:18
 ---

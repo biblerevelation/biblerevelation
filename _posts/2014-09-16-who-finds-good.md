@@ -1,4 +1,5 @@
 ---
+---
 ID: 1493
 post_title: Who finds good?
 author: Praison

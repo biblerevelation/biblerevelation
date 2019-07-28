@@ -1,11 +1,11 @@
 ---
+---
 ID: 4319
 post_title: Creation on HIS Single Shoulder
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/creation-on-his-single-shoulder/
+permalink: /2015/09/creation-on-his-single-shoulder/
 published: true
 post_date: 2015-09-09 14:11:15
 ---

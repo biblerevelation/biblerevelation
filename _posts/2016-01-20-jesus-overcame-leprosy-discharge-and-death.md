@@ -1,13 +1,11 @@
 ---
+---
 ID: 5527
-post_title: >
-  Jesus overcame Leprosy, Discharge and
-  Death
+post_title: Jesus overcame Leprosy, Discharge and Death
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/jesus-overcame-leprosy-discharge-and-death/
+permalink: /2016/01/jesus-overcame-leprosy-discharge-and-death/
 published: true
 post_date: 2016-01-20 18:27:16
 ---

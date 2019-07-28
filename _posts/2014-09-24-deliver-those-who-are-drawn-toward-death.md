@@ -1,11 +1,11 @@
 ---
+---
 ID: 1852
 post_title: Deliver those who are drawn toward death
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/deliver-those-who-are-drawn-toward-death/
+permalink: /2014/09/deliver-those-who-are-drawn-toward-death/
 published: true
 post_date: 2014-09-24 09:09:01
 ---

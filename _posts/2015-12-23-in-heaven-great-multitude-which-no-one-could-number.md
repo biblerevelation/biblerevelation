@@ -1,13 +1,11 @@
 ---
+---
 ID: 5374
-post_title: >
-  In Heaven, Great Multitude which no one
-  could number
+post_title: In Heaven, Great Multitude which no one could number
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/in-heaven-great-multitude-which-no-one-could-number/
+permalink: /2015/12/in-heaven-great-multitude-which-no-one-could-number/
 published: true
 post_date: 2015-12-23 18:55:16
 ---

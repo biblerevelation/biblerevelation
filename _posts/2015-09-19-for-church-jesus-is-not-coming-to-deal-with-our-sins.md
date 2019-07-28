@@ -1,13 +1,11 @@
 ---
+---
 ID: 4384
-post_title: >
-  For Church, Jesus is not coming to deal
-  with our sins
+post_title: For Church, Jesus is not coming to deal with our sins
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/for-church-jesus-is-not-coming-to-deal-with-our-sins/
+permalink: /2015/09/for-church-jesus-is-not-coming-to-deal-with-our-sins/
 published: true
 post_date: 2015-09-19 05:50:34
 ---

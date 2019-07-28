@@ -1,13 +1,11 @@
 ---
+---
 ID: 1066
-post_title: >
-  How to Get delivered from the way of
-  evil?
+post_title: How to Get delivered from the way of evil?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/get-delivered-from-the-way-of-evil/
+permalink: /2014/09/get-delivered-from-the-way-of-evil/
 published: true
 post_date: 2014-09-02 11:29:51
 ---

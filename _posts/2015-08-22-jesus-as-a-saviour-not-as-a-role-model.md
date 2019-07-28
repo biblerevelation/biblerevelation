@@ -1,11 +1,11 @@
 ---
+---
 ID: 4196
 post_title: Jesus as a Saviour not as a role model
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/08/jesus-as-a-saviour-not-as-a-role-model/
+permalink: /2015/08/jesus-as-a-saviour-not-as-a-role-model/
 published: true
 post_date: 2015-08-22 08:25:25
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 5016
 post_title: Righteousness which is of the Law
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/righteousness-which-is-of-the-law/
+permalink: /2015/11/righteousness-which-is-of-the-law/
 published: true
 post_date: 2015-11-22 02:33:00
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 295
 post_title: 'Man&#8217;s Resurrection from Worldly Death'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/mans-resurrection-from-worldly-death/
+permalink: /2014/04/mans-resurrection-from-worldly-death/
 published: true
 post_date: 2014-04-01 10:02:25
 ---

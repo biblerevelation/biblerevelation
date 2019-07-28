@@ -1,13 +1,11 @@
 ---
+---
 ID: 1697
-post_title: >
-  A prudent man foresees evil and hides
-  himself
+post_title: A prudent man foresees evil and hides himself
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/prudent-man-foresees-evil-hides-himself/
+permalink: /2014/09/prudent-man-foresees-evil-hides-himself/
 published: true
 post_date: 2014-09-22 09:02:09
 ---

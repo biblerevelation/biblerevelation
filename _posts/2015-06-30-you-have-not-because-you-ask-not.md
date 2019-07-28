@@ -1,11 +1,11 @@
 ---
+---
 ID: 3931
 post_title: You have not because You ask not
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/you-have-not-because-you-ask-not/
+permalink: /2015/06/you-have-not-because-you-ask-not/
 published: true
 post_date: 2015-06-30 18:47:00
 ---

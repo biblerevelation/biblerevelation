@@ -1,11 +1,11 @@
 ---
+---
 ID: 439
 post_title: How you being filled with the Spirit?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/how-you-being-filled-with-the-spirit/
+permalink: /2014/04/how-you-being-filled-with-the-spirit/
 published: true
 post_date: 2014-04-30 10:57:28
 ---

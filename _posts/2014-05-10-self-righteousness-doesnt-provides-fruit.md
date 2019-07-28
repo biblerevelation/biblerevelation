@@ -1,11 +1,11 @@
 ---
+---
 ID: 498
 post_title: 'Self Righteousness doesn&#8217;t provides any fruit'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/05/self-righteousness-doesnt-provides-fruit/
+permalink: /2014/05/self-righteousness-doesnt-provides-fruit/
 published: true
 post_date: 2014-05-10 04:09:55
 ---

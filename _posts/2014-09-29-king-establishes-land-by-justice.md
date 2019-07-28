@@ -1,11 +1,11 @@
 ---
+---
 ID: 2063
 post_title: The king establishes the land by justice
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/king-establishes-land-by-justice/
+permalink: /2014/09/king-establishes-land-by-justice/
 published: true
 post_date: 2014-09-29 10:52:59
 ---

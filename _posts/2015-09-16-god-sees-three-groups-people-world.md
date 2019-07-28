@@ -1,13 +1,11 @@
 ---
+---
 ID: 4326
-post_title: >
-  God sees Three Groups of people in this
-  World
+post_title: God sees Three Groups of people in this World
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/god-sees-three-groups-people-world/
+permalink: /2015/09/god-sees-three-groups-people-world/
 published: true
 post_date: 2015-09-16 20:52:51
 ---

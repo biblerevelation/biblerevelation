@@ -1,13 +1,11 @@
 ---
+---
 ID: 2068
-post_title: >
-  A man who flatters his neighbor Spreads
-  a net for his feet
+post_title: A man who flatters his neighbor Spreads a net for his feet
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/man-flatters-neighbor-spreads-net-feet/
+permalink: /2014/09/man-flatters-neighbor-spreads-net-feet/
 published: true
 post_date: 2014-09-29 11:05:17
 ---

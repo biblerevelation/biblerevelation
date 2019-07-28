@@ -1,13 +1,11 @@
 ---
+---
 ID: 375
-post_title: >
-  Can you be condemned after becoming
-  Righteous?
+post_title: Can you be condemned after becoming Righteous?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/can-condemned-becoming-righteous/
+permalink: /2014/04/can-condemned-becoming-righteous/
 published: true
 post_date: 2014-04-13 10:18:07
 ---

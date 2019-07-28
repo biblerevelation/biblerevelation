@@ -1,4 +1,5 @@
 ---
+---
 ID: 1245
 post_title: Cruelty troubles his own flesh
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 4431
 post_title: Shadow and the Real Substance
 author: Praison

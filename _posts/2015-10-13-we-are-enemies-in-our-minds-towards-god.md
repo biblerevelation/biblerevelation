@@ -1,11 +1,11 @@
 ---
+---
 ID: 4527
 post_title: We are enemies in our Minds towards God
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/10/we-are-enemies-in-our-minds-towards-god/
+permalink: /2015/10/we-are-enemies-in-our-minds-towards-god/
 published: true
 post_date: 2015-10-13 22:19:42
 ---

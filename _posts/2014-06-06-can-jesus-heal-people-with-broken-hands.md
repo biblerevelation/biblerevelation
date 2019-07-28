@@ -1,11 +1,11 @@
 ---
+---
 ID: 694
 post_title: Can Jesus heal people with broken Hands?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/06/can-jesus-heal-people-with-broken-hands/
+permalink: /2014/06/can-jesus-heal-people-with-broken-hands/
 published: true
 post_date: 2014-06-06 16:16:39
 ---

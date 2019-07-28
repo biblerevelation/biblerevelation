@@ -1,4 +1,5 @@
 ---
+---
 ID: 1090
 post_title: Wisdom is a tree of life to whom?
 author: Praison

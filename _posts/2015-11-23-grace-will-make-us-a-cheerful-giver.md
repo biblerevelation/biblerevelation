@@ -1,11 +1,11 @@
 ---
+---
 ID: 5068
 post_title: Grace will make us a Cheerful Giver
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/grace-will-make-us-a-cheerful-giver/
+permalink: /2015/11/grace-will-make-us-a-cheerful-giver/
 published: true
 post_date: 2015-11-23 23:57:04
 ---

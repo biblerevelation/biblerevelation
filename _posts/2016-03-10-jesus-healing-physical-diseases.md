@@ -1,11 +1,11 @@
 ---
+---
 ID: 5876
 post_title: Jesus healing physical diseases
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/03/jesus-healing-physical-diseases/
+permalink: /2016/03/jesus-healing-physical-diseases/
 published: true
 post_date: 2016-03-10 18:14:39
 ---

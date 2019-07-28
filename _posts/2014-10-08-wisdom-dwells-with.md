@@ -1,4 +1,5 @@
 ---
+---
 ID: 2303
 post_title: Wisdom dwells with who?
 author: Praison

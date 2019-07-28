@@ -1,11 +1,11 @@
 ---
+---
 ID: 5269
 post_title: Point to Jesus for any Question
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/point-to-jesus-for-any-question/
+permalink: /2015/12/point-to-jesus-for-any-question/
 published: true
 post_date: 2015-12-12 11:18:26
 ---

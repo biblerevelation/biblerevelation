@@ -1,11 +1,11 @@
 ---
+---
 ID: 3184
 post_title: Transformation on Beholding Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/01/transformation-on-beholding-jesus/
+permalink: /2015/01/transformation-on-beholding-jesus/
 published: true
 post_date: 2015-01-03 00:29:40
 ---

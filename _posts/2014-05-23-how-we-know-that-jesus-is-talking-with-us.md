@@ -1,13 +1,11 @@
 ---
+---
 ID: 577
-post_title: >
-  How we know that Jesus is talking with
-  us?
+post_title: How we know that Jesus is talking with us?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/05/how-we-know-that-jesus-is-talking-with-us/
+permalink: /2014/05/how-we-know-that-jesus-is-talking-with-us/
 published: true
 post_date: 2014-05-23 23:53:14
 ---

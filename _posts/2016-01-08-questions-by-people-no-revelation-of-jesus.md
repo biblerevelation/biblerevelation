@@ -1,13 +1,11 @@
 ---
+---
 ID: 5427
-post_title: >
-  Questions by People with no Revelation
-  of Jesus
+post_title: Questions by People with no Revelation of Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/questions-by-people-no-revelation-of-jesus/
+permalink: /2016/01/questions-by-people-no-revelation-of-jesus/
 published: true
 post_date: 2016-01-08 18:28:03
 ---

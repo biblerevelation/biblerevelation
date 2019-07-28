@@ -1,4 +1,5 @@
 ---
+---
 ID: 204
 post_title: How you get Righteousness?
 author: Praison

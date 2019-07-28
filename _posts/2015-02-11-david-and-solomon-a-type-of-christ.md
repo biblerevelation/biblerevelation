@@ -1,11 +1,11 @@
 ---
+---
 ID: 3473
 post_title: David and Solomon a type of Christ
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/02/david-and-solomon-a-type-of-christ/
+permalink: /2015/02/david-and-solomon-a-type-of-christ/
 published: true
 post_date: 2015-02-11 21:13:29
 ---

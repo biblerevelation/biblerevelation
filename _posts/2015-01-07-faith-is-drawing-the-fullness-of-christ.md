@@ -1,11 +1,11 @@
 ---
+---
 ID: 3212
 post_title: Faith is drawing the Fullness of Christ
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/01/faith-is-drawing-the-fullness-of-christ/
+permalink: /2015/01/faith-is-drawing-the-fullness-of-christ/
 published: true
 post_date: 2015-01-07 14:38:10
 ---

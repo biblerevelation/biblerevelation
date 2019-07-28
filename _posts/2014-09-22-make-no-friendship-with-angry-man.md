@@ -1,11 +1,11 @@
 ---
+---
 ID: 1726
 post_title: Make no friendship with an angry man
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/make-no-friendship-with-angry-man/
+permalink: /2014/09/make-no-friendship-with-angry-man/
 published: true
 post_date: 2014-09-22 09:10:59
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 5316
 post_title: 'Peter didn&#8217;t use &#8220;Repent&#8221; in Cornelius House'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/peter-didnt-use-repent-in-cornelius-house/
+permalink: /2015/12/peter-didnt-use-repent-in-cornelius-house/
 published: true
 post_date: 2015-12-22 18:01:55
 ---

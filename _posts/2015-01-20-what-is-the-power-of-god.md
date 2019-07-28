@@ -1,4 +1,5 @@
 ---
+---
 ID: 3309
 post_title: What is THE Power of God?
 author: Praison

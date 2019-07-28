@@ -1,4 +1,5 @@
 ---
+---
 ID: 1124
 post_title: Right Hand in Bible
 author: Praison

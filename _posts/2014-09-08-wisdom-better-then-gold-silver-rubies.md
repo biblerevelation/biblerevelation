@@ -1,13 +1,11 @@
 ---
+---
 ID: 1129
-post_title: >
-  Wisdom, better than Gold, Silver and
-  Rubies
+post_title: Wisdom, better than Gold, Silver and Rubies
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/wisdom-better-then-gold-silver-rubies/
+permalink: /2014/09/wisdom-better-then-gold-silver-rubies/
 published: true
 post_date: 2014-09-08 16:18:57
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 4239
-post_title: >
-  You through His poverty might become
-  rich
+post_title: You through His poverty might become rich
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/08/you-through-his-poverty-might-become-rich/
+permalink: /2015/08/you-through-his-poverty-might-become-rich/
 published: true
 post_date: 2015-08-29 11:13:39
 ---

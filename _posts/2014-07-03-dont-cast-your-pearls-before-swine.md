@@ -1,11 +1,11 @@
 ---
+---
 ID: 804
 post_title: 'Don&#8217;t cast your Pearls before Swine'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/dont-cast-your-pearls-before-swine/
+permalink: /2014/07/dont-cast-your-pearls-before-swine/
 published: true
 post_date: 2014-07-03 16:23:42
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 3862
 post_title: Expound Jesus from Old Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/expound-jesus-from-old-testament/
+permalink: /2015/06/expound-jesus-from-old-testament/
 published: true
 post_date: 2015-06-30 22:06:52
 ---

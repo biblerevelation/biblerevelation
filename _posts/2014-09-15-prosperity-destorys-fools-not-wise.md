@@ -1,13 +1,11 @@
 ---
+---
 ID: 1441
-post_title: >
-  Prosperity destorys the fools, but not
-  wise
+post_title: Prosperity destorys the fools, but not wise
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/prosperity-destorys-fools-not-wise/
+permalink: /2014/09/prosperity-destorys-fools-not-wise/
 published: true
 post_date: 2014-09-15 15:54:14
 ---

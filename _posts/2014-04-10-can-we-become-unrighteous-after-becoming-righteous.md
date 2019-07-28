@@ -1,13 +1,11 @@
 ---
+---
 ID: 363
-post_title: >
-  Can we become UnRighteous after becoming
-  Righteous?
+post_title: Can we become UnRighteous after becoming Righteous?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/can-we-become-unrighteous-after-becoming-righteous/
+permalink: /2014/04/can-we-become-unrighteous-after-becoming-righteous/
 published: true
 post_date: 2014-04-10 14:10:04
 ---

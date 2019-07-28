@@ -1,4 +1,5 @@
 ---
+---
 ID: 357
 post_title: How you became Righteous?
 author: Praison

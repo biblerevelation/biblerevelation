@@ -1,11 +1,11 @@
 ---
+---
 ID: 4012
 post_title: Equal access through Jesus blood
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/07/equal-access-through-jesus-blood/
+permalink: /2015/07/equal-access-through-jesus-blood/
 published: true
 post_date: 2015-07-07 21:27:21
 ---

@@ -1,4 +1,5 @@
 ---
+---
 ID: 5589
 post_title: Called to Glory
 author: Praison

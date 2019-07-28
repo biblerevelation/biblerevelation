@@ -1,11 +1,11 @@
 ---
+---
 ID: 5116
 post_title: Grace flowing through Seven Pipes
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/grace-flowing-through-seven-pipes/
+permalink: /2015/11/grace-flowing-through-seven-pipes/
 published: true
 post_date: 2015-11-26 18:40:19
 ---

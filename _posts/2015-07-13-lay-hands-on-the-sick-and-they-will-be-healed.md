@@ -1,13 +1,11 @@
 ---
+---
 ID: 4067
-post_title: >
-  Lay hands on the sick, and they will be
-  healed
+post_title: Lay hands on the sick, and they will be healed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/07/lay-hands-on-the-sick-and-they-will-be-healed/
+permalink: /2015/07/lay-hands-on-the-sick-and-they-will-be-healed/
 published: true
 post_date: 2015-07-13 19:35:17
 ---

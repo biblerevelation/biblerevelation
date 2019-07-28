@@ -1,13 +1,11 @@
 ---
+---
 ID: 683
-post_title: >
-  Have we got forgiveness for ALL our
-  sins?
+post_title: Have we got forgiveness for ALL our sins?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/06/have-we-got-forgiveness-for-all-our-sins/
+permalink: /2014/06/have-we-got-forgiveness-for-all-our-sins/
 published: true
 post_date: 2014-06-06 12:55:50
 ---

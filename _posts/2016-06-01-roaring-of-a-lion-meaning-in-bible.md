@@ -1,11 +1,11 @@
 ---
+---
 ID: 6191
 post_title: Roaring of a Lion meaning in Bible
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/06/roaring-of-a-lion-meaning-in-bible/
+permalink: /2016/06/roaring-of-a-lion-meaning-in-bible/
 published: true
 post_date: 2016-06-01 23:03:57
 ---

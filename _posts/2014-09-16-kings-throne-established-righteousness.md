@@ -1,13 +1,11 @@
 ---
+---
 ID: 1480
-post_title: >
-  Kings throne is established by
-  righteousness
+post_title: Kings throne is established by righteousness
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/kings-throne-established-righteousness/
+permalink: /2014/09/kings-throne-established-righteousness/
 published: true
 post_date: 2014-09-16 22:23:39
 ---

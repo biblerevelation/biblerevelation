@@ -1,13 +1,11 @@
 ---
+---
 ID: 1920
-post_title: >
-  How kings throne will be established in
-  righteousness?
+post_title: How kings throne will be established in righteousness?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/kings-throne-will-established-by-righteousness/
+permalink: /2014/09/kings-throne-will-established-by-righteousness/
 published: true
 post_date: 2014-09-25 09:03:27
 ---

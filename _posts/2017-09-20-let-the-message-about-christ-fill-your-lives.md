@@ -1,13 +1,11 @@
 ---
+---
 ID: 6392
-post_title: >
-  Let the message about Christ fill your
-  lives
+post_title: Let the message about Christ fill your lives
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/09/let-the-message-about-christ-fill-your-lives/
+permalink: /2017/09/let-the-message-about-christ-fill-your-lives/
 published: true
 post_date: 2017-09-20 21:02:43
 ---

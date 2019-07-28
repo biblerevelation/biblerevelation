@@ -1,11 +1,11 @@
 ---
+---
 ID: 250
 post_title: Why Life has both happy and sad moments?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/why-life-has-both-happy-and-sad-moments/
+permalink: /2014/03/why-life-has-both-happy-and-sad-moments/
 published: true
 post_date: 2014-03-31 11:35:41
 ---

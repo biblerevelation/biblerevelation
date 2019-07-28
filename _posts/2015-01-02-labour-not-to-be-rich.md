@@ -1,4 +1,5 @@
 ---
+---
 ID: 3206
 post_title: Labour not to be rich
 author: Praison

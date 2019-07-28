@@ -1,13 +1,11 @@
 ---
+---
 ID: 5078
-post_title: >
-  Last things the Disciples heard from
-  Jesus
+post_title: Last things the Disciples heard from Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/last-things-the-disciples-heard-from-jesus/
+permalink: /2015/11/last-things-the-disciples-heard-from-jesus/
 published: true
 post_date: 2015-11-25 21:53:32
 ---

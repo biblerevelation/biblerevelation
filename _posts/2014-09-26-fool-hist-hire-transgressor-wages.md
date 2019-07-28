@@ -1,13 +1,11 @@
 ---
+---
 ID: 2014
-post_title: >
-  Fool his hire and the transgressor his
-  wages
+post_title: Fool his hire and the transgressor his wages
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/fool-hist-hire-transgressor-wages/
+permalink: /2014/09/fool-hist-hire-transgressor-wages/
 published: true
 post_date: 2014-09-26 10:39:49
 ---

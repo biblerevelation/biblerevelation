@@ -1,8 +1,7 @@
 ---
+---
 ID: 4332
-post_title: >
-  Until the times of the Gentiles are
-  fulfilled
+post_title: Until the times of the Gentiles are fulfilled
 author: Praison
 post_excerpt: ""
 layout: post

@@ -1,11 +1,11 @@
 ---
+---
 ID: 1086
 post_title: For Whom the Lord loves He corrects
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/whom-the-lord-loves-he-corrects/
+permalink: /2014/09/whom-the-lord-loves-he-corrects/
 published: true
 post_date: 2014-09-03 09:19:40
 ---

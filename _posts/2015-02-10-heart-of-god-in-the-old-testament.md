@@ -1,11 +1,11 @@
 ---
+---
 ID: 3465
 post_title: Heart of God in the Old Testament
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/02/heart-of-god-in-the-old-testament/
+permalink: /2015/02/heart-of-god-in-the-old-testament/
 published: true
 post_date: 2015-02-10 01:22:58
 ---

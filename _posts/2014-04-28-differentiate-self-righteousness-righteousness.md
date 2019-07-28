@@ -1,13 +1,11 @@
 ---
+---
 ID: 404
-post_title: >
-  Differentiate between Self Righteousness
-  and His Righteousness
+post_title: Differentiate between Self Righteousness and His Righteousness
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/differentiate-self-righteousness-righteousness/
+permalink: /2014/04/differentiate-self-righteousness-righteousness/
 published: true
 post_date: 2014-04-28 15:31:54
 ---

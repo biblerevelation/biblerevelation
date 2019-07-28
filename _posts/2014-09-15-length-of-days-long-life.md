@@ -1,8 +1,7 @@
 ---
+---
 ID: 1426
-post_title: >
-  Length of days and long life are two
-  different things
+post_title: Length of days and long life are two different things
 author: Praison
 post_excerpt: ""
 layout: post

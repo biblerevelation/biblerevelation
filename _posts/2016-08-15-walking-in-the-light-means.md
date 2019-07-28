@@ -1,4 +1,5 @@
 ---
+---
 ID: 6289
 post_title: Walking in the Light means
 author: Praison

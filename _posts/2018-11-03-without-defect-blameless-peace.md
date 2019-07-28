@@ -1,8 +1,7 @@
 ---
+---
 ID: 238335
-post_title: >
-  We are without defect, blameless and
-  peace in His sight Already
+post_title: We are without defect, blameless and peace in His sight Already
 author: Praison
 post_excerpt: ""
 layout: post

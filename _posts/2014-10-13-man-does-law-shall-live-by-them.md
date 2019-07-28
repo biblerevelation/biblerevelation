@@ -1,13 +1,11 @@
 ---
+---
 ID: 2512
-post_title: >
-  The man who does the law shall live by
-  them
+post_title: The man who does the law shall live by them
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/man-does-law-shall-live-by-them/
+permalink: /2014/10/man-does-law-shall-live-by-them/
 published: true
 post_date: 2014-10-13 14:31:52
 ---

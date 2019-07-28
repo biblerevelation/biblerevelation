@@ -1,11 +1,11 @@
 ---
+---
 ID: 4004
 post_title: God will raise The tabernacle of David
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/07/god-will-raise-tabernacle-of-david/
+permalink: /2015/07/god-will-raise-tabernacle-of-david/
 published: true
 post_date: 2015-07-07 14:04:21
 ---

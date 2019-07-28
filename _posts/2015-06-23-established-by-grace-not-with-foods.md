@@ -1,11 +1,11 @@
 ---
+---
 ID: 3843
 post_title: Established by grace, not with foods
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/established-by-grace-not-with-foods/
+permalink: /2015/06/established-by-grace-not-with-foods/
 published: true
 post_date: 2015-06-23 22:51:51
 ---

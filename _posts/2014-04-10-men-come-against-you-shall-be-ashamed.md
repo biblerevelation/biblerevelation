@@ -1,13 +1,11 @@
 ---
+---
 ID: 355
-post_title: >
-  Men who come against you shall be
-  ashamed
+post_title: Men who come against you shall be ashamed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/men-come-against-you-shall-be-ashamed/
+permalink: /2014/04/men-come-against-you-shall-be-ashamed/
 published: true
 post_date: 2014-04-10 13:21:34
 ---

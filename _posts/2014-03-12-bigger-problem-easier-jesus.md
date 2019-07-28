@@ -1,8 +1,7 @@
 ---
+---
 ID: 32
-post_title: >
-  The “bigger” the problem, the
-  “easier” it is for Jesus
+post_title: The “bigger” the problem, the “easier” it is for Jesus
 author: Praison
 post_excerpt: ""
 layout: post

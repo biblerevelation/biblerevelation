@@ -1,13 +1,11 @@
 ---
+---
 ID: 3799
-post_title: >
-  Father’s good pleasure to give you the
-  kingdom
+post_title: Father’s good pleasure to give you the kingdom
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/fathers-good-pleasure-to-give-kingdom/
+permalink: /2015/06/fathers-good-pleasure-to-give-kingdom/
 published: true
 post_date: 2015-06-19 17:34:43
 ---

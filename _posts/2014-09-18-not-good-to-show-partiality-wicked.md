@@ -1,13 +1,11 @@
 ---
+---
 ID: 1529
-post_title: >
-  Not good to show partiality to the
-  wicked
+post_title: Not good to show partiality to the wicked
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/not-good-to-show-partiality-wicked/
+permalink: /2014/09/not-good-to-show-partiality-wicked/
 published: true
 post_date: 2014-09-18 10:54:49
 ---

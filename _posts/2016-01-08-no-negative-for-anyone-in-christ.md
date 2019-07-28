@@ -1,11 +1,11 @@
 ---
+---
 ID: 5439
 post_title: No Negative for anyone in Christ
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/no-negative-for-anyone-in-christ/
+permalink: /2016/01/no-negative-for-anyone-in-christ/
 published: true
 post_date: 2016-01-08 18:02:36
 ---

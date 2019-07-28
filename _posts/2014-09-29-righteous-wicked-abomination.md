@@ -1,8 +1,7 @@
 ---
+---
 ID: 2125
-post_title: >
-  Righteous and wicked, abomination to
-  each other
+post_title: Righteous and wicked, abomination to each other
 author: Praison
 post_excerpt: ""
 layout: post

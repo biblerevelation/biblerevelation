@@ -1,4 +1,5 @@
 ---
+---
 ID: 238411
 post_title: Death in Old and New Covenant
 author: Praison

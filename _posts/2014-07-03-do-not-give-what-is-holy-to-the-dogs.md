@@ -1,11 +1,11 @@
 ---
+---
 ID: 809
 post_title: Do not give what is holy to the dogs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/do-not-give-what-is-holy-to-the-dogs/
+permalink: /2014/07/do-not-give-what-is-holy-to-the-dogs/
 published: true
 post_date: 2014-07-03 16:33:23
 ---

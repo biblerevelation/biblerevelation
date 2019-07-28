@@ -1,11 +1,11 @@
 ---
+---
 ID: 882
 post_title: How we receive Kingship in Christ ?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/how-we-receive-kingship-in-christ/
+permalink: /2014/07/how-we-receive-kingship-in-christ/
 published: true
 post_date: 2014-07-16 11:08:20
 ---

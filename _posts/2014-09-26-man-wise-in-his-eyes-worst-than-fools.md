@@ -1,13 +1,11 @@
 ---
+---
 ID: 2018
-post_title: >
-  Man wise in his own eyes worst than
-  fools
+post_title: Man wise in his own eyes worst than fools
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/man-wise-in-his-eyes-worst-than-fools/
+permalink: /2014/09/man-wise-in-his-eyes-worst-than-fools/
 published: true
 post_date: 2014-09-26 10:41:12
 ---

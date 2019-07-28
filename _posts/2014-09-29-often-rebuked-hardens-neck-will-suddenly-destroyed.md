@@ -1,13 +1,11 @@
 ---
+---
 ID: 2037
-post_title: >
-  He who is often rebuked, and hardens his
-  neck, Will suddenly be destroyed
+post_title: He who is often rebuked, and hardens his neck, Will suddenly be destroyed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/often-rebuked-hardens-neck-will-suddenly-destroyed/
+permalink: /2014/09/often-rebuked-hardens-neck-will-suddenly-destroyed/
 published: true
 post_date: 2014-09-29 11:19:12
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 3344
 post_title: Righteousness of God our priority
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/01/righteousness-of-god-our-priority/
+permalink: /2015/01/righteousness-of-god-our-priority/
 published: true
 post_date: 2015-01-28 14:08:34
 ---

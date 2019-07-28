@@ -1,11 +1,11 @@
 ---
+---
 ID: 1633
 post_title: 'Do not set your heart on son&#8217;s destruction'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/dont-set-heart-on-sons-destruction/
+permalink: /2014/09/dont-set-heart-on-sons-destruction/
 published: true
 post_date: 2014-09-19 10:47:02
 ---

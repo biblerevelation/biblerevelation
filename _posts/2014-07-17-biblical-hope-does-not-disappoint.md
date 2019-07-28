@@ -1,11 +1,11 @@
 ---
+---
 ID: 891
 post_title: Biblical Hope does not disappoint
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/biblical-hope-does-not-disappoint/
+permalink: /2014/07/biblical-hope-does-not-disappoint/
 published: true
 post_date: 2014-07-17 09:53:44
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 833
 post_title: Can we live temptation free life?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/can-we-live-temptation-free-life/
+permalink: /2014/07/can-we-live-temptation-free-life/
 published: true
 post_date: 2014-07-14 10:47:38
 ---

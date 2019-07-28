@@ -1,4 +1,5 @@
 ---
+---
 ID: 3263
 post_title: Righteousness by Faith
 author: Praison

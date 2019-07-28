@@ -1,11 +1,11 @@
 ---
+---
 ID: 483
 post_title: 'Is &#8220;Faith&#8221; a main secret behind moving mountains?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/05/faith-main-secret-behind-moving-mountains/
+permalink: /2014/05/faith-main-secret-behind-moving-mountains/
 published: true
 post_date: 2014-05-09 15:14:54
 ---

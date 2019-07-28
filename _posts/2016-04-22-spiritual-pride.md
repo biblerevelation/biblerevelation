@@ -1,4 +1,5 @@
 ---
+---
 ID: 6049
 post_title: Spiritual Pride
 author: Praison

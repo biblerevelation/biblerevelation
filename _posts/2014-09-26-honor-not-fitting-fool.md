@@ -1,4 +1,5 @@
 ---
+---
 ID: 1988
 post_title: Honor is not fitting for a fool
 author: Praison

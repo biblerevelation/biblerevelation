@@ -1,13 +1,11 @@
 ---
+---
 ID: 3627
-post_title: >
-  People are destroyed for lack of
-  knowledge
+post_title: People are destroyed for lack of knowledge
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/03/people-are-destroyed-for-lack-of-knowledge/
+permalink: /2015/03/people-are-destroyed-for-lack-of-knowledge/
 published: true
 post_date: 2015-03-14 08:02:25
 ---

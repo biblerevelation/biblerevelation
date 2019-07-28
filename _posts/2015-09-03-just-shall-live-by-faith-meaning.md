@@ -1,11 +1,11 @@
 ---
+---
 ID: 4253
 post_title: Just shall live by faith meaning
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/just-shall-live-by-faith-meaning/
+permalink: /2015/09/just-shall-live-by-faith-meaning/
 published: true
 post_date: 2015-09-03 14:13:43
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 1943
-post_title: >
-  Confidence in an unfaithful man in time
-  of trouble is like?
+post_title: Confidence in an unfaithful man in time of trouble is like?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/confidence-in-unfaithful-man-in-time-of-trouble/
+permalink: /2014/09/confidence-in-unfaithful-man-in-time-of-trouble/
 published: true
 post_date: 2014-09-25 09:26:55
 ---

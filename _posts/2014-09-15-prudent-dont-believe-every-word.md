@@ -1,11 +1,11 @@
 ---
+---
 ID: 1309
 post_title: 'Be Prudent and don&#8217;t believe every word'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/prudent-dont-believe-every-word/
+permalink: /2014/09/prudent-dont-believe-every-word/
 published: true
 post_date: 2014-09-15 10:08:36
 ---

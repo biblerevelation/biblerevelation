@@ -1,13 +1,11 @@
 ---
+---
 ID: 53
-post_title: >
-  Having Problems or Tragedies ? (
-  Solution in Bible )
+post_title: Having Problems or Tragedies ? ( Solution in Bible )
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/problems-tragedies-solution-bible/
+permalink: /2014/03/problems-tragedies-solution-bible/
 published: true
 post_date: 2014-03-13 17:55:14
 ---

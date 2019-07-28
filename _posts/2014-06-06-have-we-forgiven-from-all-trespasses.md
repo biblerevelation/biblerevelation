@@ -1,11 +1,11 @@
 ---
+---
 ID: 676
 post_title: Have we forgiven from all trespasses?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/06/have-we-forgiven-from-all-trespasses/
+permalink: /2014/06/have-we-forgiven-from-all-trespasses/
 published: true
 post_date: 2014-06-06 12:53:58
 ---

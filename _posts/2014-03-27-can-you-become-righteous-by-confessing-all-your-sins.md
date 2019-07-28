@@ -1,11 +1,11 @@
 ---
+---
 ID: 178
 post_title: 'Can you become &#8220;Righteous&#8221; by Confessing all your sins and Plan to do no sin from now on? NO'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/can-you-become-righteous-by-confessing-all-your-sins/
+permalink: /2014/03/can-you-become-righteous-by-confessing-all-your-sins/
 published: true
 post_date: 2014-03-27 21:43:25
 ---

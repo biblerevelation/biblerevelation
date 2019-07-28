@@ -1,4 +1,5 @@
 ---
+---
 ID: 3788
 post_title: A greater than Solomon is here
 author: Praison

@@ -1,13 +1,11 @@
 ---
+---
 ID: 1519
-post_title: >
-  Wicked with Contempt and dishonor with
-  reproach
+post_title: Wicked with Contempt and dishonor with reproach
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/wicked-contempt-dishonor-reproach/
+permalink: /2014/09/wicked-contempt-dishonor-reproach/
 published: true
 post_date: 2014-09-18 10:52:52
 ---

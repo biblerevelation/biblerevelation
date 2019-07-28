@@ -1,11 +1,11 @@
 ---
+---
 ID: 111
 post_title: 'What should be your #1 Prayer Request?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/what-should-be-your-number-1-prayer-request/
+permalink: /2014/03/what-should-be-your-number-1-prayer-request/
 published: true
 post_date: 2014-03-20 16:45:12
 ---

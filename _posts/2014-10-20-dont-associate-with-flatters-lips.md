@@ -1,13 +1,11 @@
 ---
+---
 ID: 2688
-post_title: >
-  Do not associate with one who flatters
-  with his lips
+post_title: Do not associate with one who flatters with his lips
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/dont-associate-with-flatters-lips/
+permalink: /2014/10/dont-associate-with-flatters-lips/
 published: true
 post_date: 2014-10-20 16:09:34
 ---

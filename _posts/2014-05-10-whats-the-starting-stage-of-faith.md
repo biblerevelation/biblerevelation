@@ -1,11 +1,11 @@
 ---
+---
 ID: 476
 post_title: 'What&#8217;s the starting stage of Faith?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/05/whats-the-starting-stage-of-faith/
+permalink: /2014/05/whats-the-starting-stage-of-faith/
 published: true
 post_date: 2014-05-10 03:42:54
 ---

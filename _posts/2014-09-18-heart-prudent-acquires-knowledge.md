@@ -1,13 +1,11 @@
 ---
+---
 ID: 1546
-post_title: >
-  The heart of the prudent acquires
-  knowledge
+post_title: The heart of the prudent acquires knowledge
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/heart-prudent-acquires-knowledge/
+permalink: /2014/09/heart-prudent-acquires-knowledge/
 published: true
 post_date: 2014-09-18 10:58:23
 ---

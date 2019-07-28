@@ -1,4 +1,5 @@
 ---
+---
 ID: 1651
 post_title: What scorns justice?
 author: Praison

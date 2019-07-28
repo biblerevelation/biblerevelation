@@ -1,13 +1,11 @@
 ---
+---
 ID: 2035
-post_title: >
-  A lying tongue hates those who are
-  crushed by it
+post_title: A lying tongue hates those who are crushed by it
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/lying-tongue-hates-who-are-crushed-by-it/
+permalink: /2014/09/lying-tongue-hates-who-are-crushed-by-it/
 published: true
 post_date: 2014-09-26 10:49:22
 ---

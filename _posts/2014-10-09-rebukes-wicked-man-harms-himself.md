@@ -1,11 +1,11 @@
 ---
+---
 ID: 2353
 post_title: 'He who rebukes a wicked man &#8220;only&#8221; harms himself'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/rebukes-wicked-man-harms-himself/
+permalink: /2014/10/rebukes-wicked-man-harms-himself/
 published: true
 post_date: 2014-10-09 10:50:25
 ---

@@ -1,4 +1,5 @@
 ---
+---
 ID: 2565
 post_title: Decision of the Lot is from the Lord
 author: Praison

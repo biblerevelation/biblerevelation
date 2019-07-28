@@ -1,11 +1,11 @@
 ---
+---
 ID: 6378
 post_title: No Condemnation in Christ Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/09/no-condemnation-in-christ-jesus/
+permalink: /2017/09/no-condemnation-in-christ-jesus/
 published: true
 post_date: 2017-09-20 20:04:14
 ---

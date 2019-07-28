@@ -1,13 +1,11 @@
 ---
+---
 ID: 1864
-post_title: >
-  Do not let your heart be glad when enemy
-  stumbles
+post_title: Do not let your heart be glad when enemy stumbles
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/do-not-let-heart-glad-when-enemy-stumbles/
+permalink: /2014/09/do-not-let-heart-glad-when-enemy-stumbles/
 published: true
 post_date: 2014-09-24 09:17:26
 ---

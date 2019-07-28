@@ -1,11 +1,11 @@
 ---
+---
 ID: 1728
 post_title: 'Don&#8217;t buy any products in contract payment basis'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/dont-buy-products-contract-payment-basis/
+permalink: /2014/09/dont-buy-products-contract-payment-basis/
 published: true
 post_date: 2014-09-22 09:12:56
 ---

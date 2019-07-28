@@ -1,13 +1,11 @@
 ---
+---
 ID: 5010
-post_title: >
-  Heart to Believe and Mouth to Profess to
-  be Saved
+post_title: Heart to Believe and Mouth to Profess to be Saved
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/heart-to-believe-and-mouth-to-profess-to-be-saved/
+permalink: /2015/11/heart-to-believe-and-mouth-to-profess-to-be-saved/
 published: true
 post_date: 2015-11-22 02:24:38
 ---

@@ -1,8 +1,7 @@
 ---
+---
 ID: 2712
-post_title: >
-  The splendor of old men is their gray
-  head
+post_title: The splendor of old men is their gray head
 author: Praison
 post_excerpt: ""
 layout: post

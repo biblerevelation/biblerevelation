@@ -1,13 +1,11 @@
 ---
+---
 ID: 288
-post_title: >
-  Death is like taking rest and Sleeping,
-  for Jesus
+post_title: Death is like taking rest and Sleeping, for Jesus
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/04/death-is-like-taking-rest-and-sleeping-for-jesus/
+permalink: /2014/04/death-is-like-taking-rest-and-sleeping-for-jesus/
 published: true
 post_date: 2014-04-01 09:23:11
 ---

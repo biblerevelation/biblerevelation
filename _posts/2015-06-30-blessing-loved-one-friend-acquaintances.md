@@ -1,13 +1,11 @@
 ---
+---
 ID: 3822
-post_title: >
-  Blessing of Loved one, friend and
-  acquaintances
+post_title: Blessing of Loved one, friend and acquaintances
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/blessing-loved-one-friend-acquaintances/
+permalink: /2015/06/blessing-loved-one-friend-acquaintances/
 published: true
 post_date: 2015-06-30 22:22:57
 ---

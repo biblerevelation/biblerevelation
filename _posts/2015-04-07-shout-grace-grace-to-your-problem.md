@@ -1,11 +1,11 @@
 ---
+---
 ID: 3637
 post_title: 'Shout &#8220;Grace, Grace&#8221; to your problem'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/04/shout-grace-grace-to-your-problem/
+permalink: /2015/04/shout-grace-grace-to-your-problem/
 published: true
 post_date: 2015-04-07 18:24:28
 ---

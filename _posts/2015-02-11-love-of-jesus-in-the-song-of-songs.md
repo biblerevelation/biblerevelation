@@ -1,11 +1,11 @@
 ---
+---
 ID: 3485
 post_title: Love of Jesus in the Song of Songs
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/02/love-of-jesus-in-the-song-of-songs/
+permalink: /2015/02/love-of-jesus-in-the-song-of-songs/
 published: true
 post_date: 2015-02-11 21:18:25
 ---

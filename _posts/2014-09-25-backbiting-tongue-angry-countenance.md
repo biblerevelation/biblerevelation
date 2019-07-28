@@ -1,11 +1,11 @@
 ---
+---
 ID: 1950
 post_title: A backbiting tongue an angry countenance
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/backbiting-tongue-angry-countenance/
+permalink: /2014/09/backbiting-tongue-angry-countenance/
 published: true
 post_date: 2014-09-25 09:28:14
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 5278
 post_title: Confession is made unto Salvation
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/confession-is-made-unto-salvation/
+permalink: /2015/12/confession-is-made-unto-salvation/
 published: true
 post_date: 2015-12-16 18:01:12
 ---

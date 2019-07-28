@@ -1,11 +1,11 @@
 ---
+---
 ID: 3193
 post_title: We are attacking the gates of hell
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/01/we-are-attacking-the-gates-of-hell/
+permalink: /2015/01/we-are-attacking-the-gates-of-hell/
 published: true
 post_date: 2015-01-01 23:19:47
 ---

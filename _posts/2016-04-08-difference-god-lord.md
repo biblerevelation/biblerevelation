@@ -1,4 +1,5 @@
 ---
+---
 ID: 5950
 post_title: Difference between God and Lord
 author: Praison

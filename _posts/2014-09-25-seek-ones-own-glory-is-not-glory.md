@@ -1,11 +1,11 @@
 ---
+---
 ID: 1958
 post_title: Seek one’s own glory is not glory
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/seek-ones-own-glory-is-not-glory/
+permalink: /2014/09/seek-ones-own-glory-is-not-glory/
 published: true
 post_date: 2014-09-25 09:31:56
 ---

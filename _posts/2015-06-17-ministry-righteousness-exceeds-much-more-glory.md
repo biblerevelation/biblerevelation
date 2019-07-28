@@ -1,13 +1,11 @@
 ---
+---
 ID: 3770
-post_title: >
-  The ministry of righteousness exceeds
-  much more in glory
+post_title: The ministry of righteousness exceeds much more in glory
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/ministry-righteousness-exceeds-much-more-glory/
+permalink: /2015/06/ministry-righteousness-exceeds-much-more-glory/
 published: true
 post_date: 2015-06-17 23:41:30
 ---

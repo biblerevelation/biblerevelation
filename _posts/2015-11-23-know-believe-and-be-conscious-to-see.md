@@ -1,11 +1,11 @@
 ---
+---
 ID: 5063
 post_title: Know, Believe and Be Conscious to SEE
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/know-believe-and-be-conscious-to-see/
+permalink: /2015/11/know-believe-and-be-conscious-to-see/
 published: true
 post_date: 2015-11-23 23:48:38
 ---

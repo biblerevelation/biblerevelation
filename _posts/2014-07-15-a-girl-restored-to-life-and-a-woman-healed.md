@@ -1,13 +1,11 @@
 ---
+---
 ID: 856
-post_title: >
-  A Girl Restored to Life and a Woman
-  Healed
+post_title: A Girl Restored to Life and a Woman Healed
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/07/a-girl-restored-to-life-and-a-woman-healed/
+permalink: /2014/07/a-girl-restored-to-life-and-a-woman-healed/
 published: true
 post_date: 2014-07-15 21:10:01
 ---

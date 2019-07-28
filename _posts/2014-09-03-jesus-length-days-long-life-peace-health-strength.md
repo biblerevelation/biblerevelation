@@ -1,13 +1,11 @@
 ---
+---
 ID: 1074
-post_title: >
-  Jesus our Length of days, Long life,
-  Peace, Health and Strength.
+post_title: Jesus our Length of days, Long life, Peace, Health and Strength.
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/jesus-length-days-long-life-peace-health-strength/
+permalink: /2014/09/jesus-length-days-long-life-peace-health-strength/
 published: true
 post_date: 2014-09-03 09:07:19
 ---

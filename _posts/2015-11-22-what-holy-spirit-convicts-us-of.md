@@ -1,11 +1,11 @@
 ---
+---
 ID: 5022
 post_title: What Holy Spirit Convicts us of?
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/what-holy-spirit-convicts-us-of/
+permalink: /2015/11/what-holy-spirit-convicts-us-of/
 published: true
 post_date: 2015-11-22 02:46:50
 ---

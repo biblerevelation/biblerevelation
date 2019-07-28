@@ -1,4 +1,5 @@
 ---
+---
 ID: 1235
 post_title: How to maintain peace with neighbor?
 author: Praison

@@ -1,4 +1,5 @@
 ---
+---
 ID: 2253
 post_title: 'His &#8220;secret counsel&#8221; is with the upright'
 author: Praison

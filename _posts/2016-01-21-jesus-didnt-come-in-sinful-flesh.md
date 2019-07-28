@@ -1,11 +1,11 @@
 ---
+---
 ID: 5556
 post_title: 'Jesus didn&#8217;t come in sinful flesh'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2016/01/jesus-didnt-come-in-sinful-flesh/
+permalink: /2016/01/jesus-didnt-come-in-sinful-flesh/
 published: true
 post_date: 2016-01-21 18:15:19
 ---

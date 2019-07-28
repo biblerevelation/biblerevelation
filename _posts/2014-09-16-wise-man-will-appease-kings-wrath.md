@@ -1,11 +1,11 @@
 ---
+---
 ID: 1484
 post_title: Wise man will appease Kings wrath
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/wise-man-will-appease-kings-wrath/
+permalink: /2014/09/wise-man-will-appease-kings-wrath/
 published: true
 post_date: 2014-09-16 22:21:12
 ---

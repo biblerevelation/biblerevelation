@@ -1,13 +1,11 @@
 ---
+---
 ID: 1099
-post_title: >
-  High Priest Touched with the feeling of
-  our infirmities
+post_title: High Priest Touched with the feeling of our infirmities
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/high-priest-touched-feeling-infirmities/
+permalink: /2014/09/high-priest-touched-feeling-infirmities/
 published: true
 post_date: 2014-09-05 12:51:35
 ---

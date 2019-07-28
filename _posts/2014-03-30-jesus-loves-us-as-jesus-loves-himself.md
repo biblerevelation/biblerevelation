@@ -1,11 +1,11 @@
 ---
+---
 ID: 219
 post_title: Jesus loves us as Jesus loves Himself
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/03/jesus-loves-us-as-jesus-loves-himself/
+permalink: /2014/03/jesus-loves-us-as-jesus-loves-himself/
 published: true
 post_date: 2014-03-30 10:48:57
 ---

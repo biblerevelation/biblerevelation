@@ -1,13 +1,11 @@
 ---
+---
 ID: 4932
-post_title: >
-  James, Peter, and John Ministry to the
-  Jews
+post_title: James, Peter, and John Ministry to the Jews
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/11/james-peter-and-john-ministry-to-the-jews/
+permalink: /2015/11/james-peter-and-john-ministry-to-the-jews/
 published: true
 post_date: 2015-11-16 18:41:23
 ---

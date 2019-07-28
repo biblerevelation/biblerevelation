@@ -1,11 +1,11 @@
 ---
+---
 ID: 2519
 post_title: Silver-haired head is a crown of glory
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/10/silver-haired-head-crown-of-glory/
+permalink: /2014/10/silver-haired-head-crown-of-glory/
 published: true
 post_date: 2014-10-16 14:48:41
 ---

@@ -1,13 +1,11 @@
 ---
+---
 ID: 3760
-post_title: >
-  Free from the sins committed under the
-  first covenant
+post_title: Free from the sins committed under the first covenant
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/free-from-sins-committed-under-first-covenant/
+permalink: /2015/06/free-from-sins-committed-under-first-covenant/
 published: true
 post_date: 2015-06-17 23:12:57
 ---

@@ -1,11 +1,11 @@
 ---
+---
 ID: 3946
 post_title: 'Why Jesus High Priest “according to the order of Melchizedek&#8221;?'
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/06/jesus-high-priest-order-of-melchizedek/
+permalink: /2015/06/jesus-high-priest-order-of-melchizedek/
 published: true
 post_date: 2015-06-30 19:41:45
 ---

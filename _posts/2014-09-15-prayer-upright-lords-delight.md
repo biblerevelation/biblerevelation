@@ -1,8 +1,7 @@
 ---
+---
 ID: 1345
-post_title: >
-  The prayer of the upright is Lords
-  delight
+post_title: The prayer of the upright is Lords delight
 author: Praison
 post_excerpt: ""
 layout: post

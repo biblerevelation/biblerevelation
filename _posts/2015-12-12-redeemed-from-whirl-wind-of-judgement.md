@@ -1,11 +1,11 @@
 ---
+---
 ID: 5252
 post_title: Redeemed from Whirl Wind of Judgement
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/redeemed-from-whirl-wind-of-judgement/
+permalink: /2015/12/redeemed-from-whirl-wind-of-judgement/
 published: true
 post_date: 2015-12-12 10:07:09
 ---

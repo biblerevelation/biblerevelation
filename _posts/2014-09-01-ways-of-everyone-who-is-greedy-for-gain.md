@@ -1,13 +1,11 @@
 ---
+---
 ID: 1044
-post_title: >
-  The ways of everyone who is greedy for
-  gain
+post_title: The ways of everyone who is greedy for gain
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/ways-of-everyone-who-is-greedy-for-gain/
+permalink: /2014/09/ways-of-everyone-who-is-greedy-for-gain/
 published: true
 post_date: 2014-09-01 14:45:32
 ---

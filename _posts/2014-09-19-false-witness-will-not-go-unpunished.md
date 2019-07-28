@@ -1,11 +1,11 @@
 ---
+---
 ID: 1599
 post_title: A false witness will not go unpunished
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/false-witness-will-not-go-unpunished/
+permalink: /2014/09/false-witness-will-not-go-unpunished/
 published: true
 post_date: 2014-09-19 08:27:28
 ---

@@ -1,8 +1,7 @@
 ---
+---
 ID: 3745
-post_title: >
-  Faith is the substance of things hoped
-  for
+post_title: Faith is the substance of things hoped for
 author: Praison
 post_excerpt: ""
 layout: post

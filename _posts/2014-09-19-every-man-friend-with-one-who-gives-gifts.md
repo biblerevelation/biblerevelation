@@ -1,13 +1,11 @@
 ---
+---
 ID: 1603
-post_title: >
-  Every man is a friend to one who gives
-  gifts
+post_title: Every man is a friend to one who gives gifts
 author: Praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2014/09/every-man-friend-with-one-who-gives-gifts/
+permalink: /2014/09/every-man-friend-with-one-who-gives-gifts/
 published: true
 post_date: 2014-09-19 10:00:51
 ---
