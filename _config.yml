@@ -7,7 +7,7 @@ description: "A website with blog posts and pages" # used by search engines
 
 # Build settings
 markdown:           kramdown
-paginate:           20
+paginate:           40
 paginate_path:      "/posts/page:num/"
 
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-remote-theme]
