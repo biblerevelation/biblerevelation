@@ -1,5 +1,4 @@
 ---
----
 ID: 2804
 post_title: Horse is prepared for the day of battle, But deliverance is of the Lord
 author: Praison

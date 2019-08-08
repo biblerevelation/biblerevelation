@@ -1,5 +1,4 @@
 ---
----
 ID: 1120
 post_title: Wisdom gives long life
 author: Praison

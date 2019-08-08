@@ -1,5 +1,4 @@
 ---
----
 ID: 719
 post_title: The New Covenant
 author: Praison

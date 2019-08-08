@@ -1,5 +1,4 @@
 ---
----
 ID: 1149
 post_title: What is understanding?
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1860
 post_title: Do not rejoice when your enemy falls
 author: Praison

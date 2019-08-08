@@ -1,5 +1,4 @@
 ---
----
 ID: 915
 post_title: How to know if anyone is a false prophet?
 author: Praison

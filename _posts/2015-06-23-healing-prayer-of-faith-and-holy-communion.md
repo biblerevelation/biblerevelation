@@ -1,5 +1,4 @@
 ---
----
 ID: 3849
 post_title: 'Healing : Prayer of Faith and Holy Communion'
 author: Praison

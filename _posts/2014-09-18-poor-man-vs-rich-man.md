@@ -1,5 +1,4 @@
 ---
----
 ID: 1564
 post_title: Poor man Vs Rich man
 author: Praison

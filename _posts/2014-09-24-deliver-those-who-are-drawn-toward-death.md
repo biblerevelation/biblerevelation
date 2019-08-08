@@ -1,5 +1,4 @@
 ---
----
 ID: 1852
 post_title: Deliver those who are drawn toward death
 author: Praison

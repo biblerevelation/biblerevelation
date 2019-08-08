@@ -1,5 +1,4 @@
 ---
----
 ID: 2661
 post_title: What is honorable for a man?
 author: Praison

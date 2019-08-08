@@ -1,5 +1,4 @@
 ---
----
 ID: 2016
 post_title: Fool repeats his folly
 author: Praison

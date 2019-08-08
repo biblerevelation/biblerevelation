@@ -1,5 +1,4 @@
 ---
----
 ID: 1502
 post_title: 'Reason why you shouldn&#8217;t isolate yourself'
 author: Praison

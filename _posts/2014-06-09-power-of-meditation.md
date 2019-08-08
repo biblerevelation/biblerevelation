@@ -1,5 +1,4 @@
 ---
----
 ID: 727
 post_title: Power of Meditation
 author: Praison

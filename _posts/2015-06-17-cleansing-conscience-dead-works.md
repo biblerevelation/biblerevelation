@@ -1,5 +1,4 @@
 ---
----
 ID: 3751
 post_title: Cleansing your conscience from dead works
 author: Praison

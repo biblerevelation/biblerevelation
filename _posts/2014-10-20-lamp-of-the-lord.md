@@ -1,5 +1,4 @@
 ---
----
 ID: 2707
 post_title: Lamp of the Lord
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 3653
 post_title: Freed from the Law, Bound to Christ
 author: Praison

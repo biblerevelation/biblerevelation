@@ -1,5 +1,4 @@
 ---
----
 ID: 1956
 post_title: A righteous man who falters before the wicked is like?
 author: Praison

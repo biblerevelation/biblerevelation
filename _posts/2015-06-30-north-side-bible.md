@@ -1,5 +1,4 @@
 ---
----
 ID: 3816
 post_title: North side in bible
 author: Praison

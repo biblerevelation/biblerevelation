@@ -1,5 +1,4 @@
 ---
----
 ID: 2269
 post_title: Seven are an abomination to the Lord
 author: Praison

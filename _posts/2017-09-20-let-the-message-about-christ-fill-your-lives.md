@@ -1,5 +1,4 @@
 ---
----
 ID: 6392
 post_title: Let the message about Christ fill your lives
 author: Praison

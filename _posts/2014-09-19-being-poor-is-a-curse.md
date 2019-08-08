@@ -1,5 +1,4 @@
 ---
----
 ID: 1605
 post_title: Being poor is a curse
 author: Praison

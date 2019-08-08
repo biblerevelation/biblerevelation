@@ -1,5 +1,4 @@
 ---
----
 ID: 2668
 post_title: Children of righteous man are blessed
 author: Praison

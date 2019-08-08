@@ -1,5 +1,4 @@
 ---
----
 ID: 192
 post_title: How you become supernatural?
 author: Praison

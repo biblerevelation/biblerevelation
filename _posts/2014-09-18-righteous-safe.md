@@ -1,5 +1,4 @@
 ---
----
 ID: 1535
 post_title: How righteous are safe?
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 5004
 post_title: Work out what God worked in
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 5769
 post_title: God is a Rewarder
 author: Praison

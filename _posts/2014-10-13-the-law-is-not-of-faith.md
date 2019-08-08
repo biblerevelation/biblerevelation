@@ -1,5 +1,4 @@
 ---
----
 ID: 2510
 post_title: The law is not of faith
 author: Praison

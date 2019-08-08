@@ -1,5 +1,4 @@
 ---
----
 ID: 3175
 post_title: Gospel in the Story of Zacchaeus
 author: Praison

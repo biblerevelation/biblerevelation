@@ -1,5 +1,4 @@
 ---
----
 ID: 2968
 post_title: First Question in the Old Testament
 author: Praison

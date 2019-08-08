@@ -1,5 +1,4 @@
 ---
----
 ID: 1370
 post_title: Greedy for gain in Proverbs
 author: Praison

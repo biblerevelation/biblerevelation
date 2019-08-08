@@ -1,5 +1,4 @@
 ---
----
 ID: 3184
 post_title: Transformation on Beholding Jesus
 author: Praison

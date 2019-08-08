@@ -1,5 +1,4 @@
 ---
----
 ID: 4575
 post_title: Armor of God
 author: Praison

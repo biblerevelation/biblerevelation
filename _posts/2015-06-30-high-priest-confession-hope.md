@@ -1,5 +1,4 @@
 ---
----
 ID: 3779
 post_title: High Priest of our confession of hope
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 4300
 post_title: Jesus our Foundation
 author: Praison

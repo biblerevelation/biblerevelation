@@ -1,5 +1,4 @@
 ---
----
 ID: 1269
 post_title: 'Don&#8217;t be talebearer, be faithful'
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 6444
 post_title: I had fainted, unless I had believed to see the goodness of the Lord
 author: Praison

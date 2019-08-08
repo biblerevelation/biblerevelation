@@ -1,5 +1,4 @@
 ---
----
 ID: 5223
 post_title: Jesus went straight towards sick people
 author: Praison

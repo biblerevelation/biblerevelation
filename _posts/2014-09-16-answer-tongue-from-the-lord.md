@@ -1,5 +1,4 @@
 ---
----
 ID: 1460
 post_title: The answer of the tongue is from the Lord
 author: Praison

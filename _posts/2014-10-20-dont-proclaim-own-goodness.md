@@ -1,5 +1,4 @@
 ---
----
 ID: 2665
 post_title: 'Don&#8217;t proclaim your own goodness'
 author: Praison

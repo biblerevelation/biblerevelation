@@ -1,5 +1,4 @@
 ---
----
 ID: 5113
 post_title: Obey those who rule over you
 author: Praison

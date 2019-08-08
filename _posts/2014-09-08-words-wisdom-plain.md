@@ -1,5 +1,4 @@
 ---
----
 ID: 1127
 post_title: Words of Wisdom are plain to who?
 author: Praison

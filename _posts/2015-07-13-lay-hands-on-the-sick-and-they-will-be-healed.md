@@ -1,5 +1,4 @@
 ---
----
 ID: 4067
 post_title: Lay hands on the sick, and they will be healed
 author: Praison

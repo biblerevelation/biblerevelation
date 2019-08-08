@@ -1,5 +1,4 @@
 ---
----
 ID: 4239
 post_title: You through His poverty might become rich
 author: Praison

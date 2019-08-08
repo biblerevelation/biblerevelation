@@ -1,5 +1,4 @@
 ---
----
 ID: 1868
 post_title: Do not associate with those given to change
 author: Praison

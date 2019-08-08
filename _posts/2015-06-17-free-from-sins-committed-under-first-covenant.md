@@ -1,5 +1,4 @@
 ---
----
 ID: 3760
 post_title: Free from the sins committed under the first covenant
 author: Praison

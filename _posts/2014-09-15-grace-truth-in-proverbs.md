@@ -1,5 +1,4 @@
 ---
----
 ID: 1316
 post_title: Grace and Truth in Proverbs
 author: Praison

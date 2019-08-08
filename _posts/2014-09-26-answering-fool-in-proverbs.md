@@ -1,5 +1,4 @@
 ---
----
 ID: 2007
 post_title: Answering fool in proverbs
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1877
 post_title: He who gives a right answer kisses the lips
 author: Praison

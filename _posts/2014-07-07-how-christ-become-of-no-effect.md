@@ -1,5 +1,4 @@
 ---
----
 ID: 818
 post_title: How Christ become of no effect?
 author: Praison

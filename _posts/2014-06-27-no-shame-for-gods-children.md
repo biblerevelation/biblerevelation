@@ -1,5 +1,4 @@
 ---
----
 ID: 789
 post_title: '&#8220;No Shame&#8221; for God&#8217;s Children'
 author: Praison

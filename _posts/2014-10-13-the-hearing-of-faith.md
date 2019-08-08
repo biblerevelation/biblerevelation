@@ -1,5 +1,4 @@
 ---
----
 ID: 2390
 post_title: The hearing of faith
 author: Praison

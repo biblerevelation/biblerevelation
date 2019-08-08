@@ -1,5 +1,4 @@
 ---
----
 ID: 4338
 post_title: Kings revolves around Jews and the Church
 author: Praison

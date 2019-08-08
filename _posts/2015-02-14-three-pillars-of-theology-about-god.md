@@ -1,5 +1,4 @@
 ---
----
 ID: 3463
 post_title: Three pillars of Theology about God
 author: Praison

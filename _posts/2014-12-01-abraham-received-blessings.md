@@ -1,5 +1,4 @@
 ---
----
 ID: 3122
 post_title: How Abraham received blessings?
 author: Praison

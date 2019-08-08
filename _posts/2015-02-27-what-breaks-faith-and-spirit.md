@@ -1,5 +1,4 @@
 ---
----
 ID: 3570
 post_title: What breaks faith and spirit?
 author: Praison

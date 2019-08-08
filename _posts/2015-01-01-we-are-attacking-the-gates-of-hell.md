@@ -1,5 +1,4 @@
 ---
----
 ID: 3193
 post_title: We are attacking the gates of hell
 author: Praison

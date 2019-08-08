@@ -1,5 +1,4 @@
 ---
----
 ID: 4319
 post_title: Creation on HIS Single Shoulder
 author: Praison

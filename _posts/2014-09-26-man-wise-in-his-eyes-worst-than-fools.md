@@ -1,5 +1,4 @@
 ---
----
 ID: 2018
 post_title: Man wise in his own eyes worst than fools
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1212
 post_title: Lazy man in New Testament
 author: Praison

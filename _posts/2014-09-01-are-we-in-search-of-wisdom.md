@@ -1,5 +1,4 @@
 ---
----
 ID: 1047
 post_title: Are we in search of wisdom?
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 2117
 post_title: How to retain honor?
 author: Praison

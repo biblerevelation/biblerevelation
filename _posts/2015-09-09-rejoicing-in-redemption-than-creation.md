@@ -1,5 +1,4 @@
 ---
----
 ID: 4317
 post_title: Rejoicing in Redemption than Creation
 author: Praison

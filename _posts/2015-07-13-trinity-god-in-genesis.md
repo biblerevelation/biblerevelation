@@ -1,5 +1,4 @@
 ---
----
 ID: 4050
 post_title: Trinity God in Genesis
 author: Praison

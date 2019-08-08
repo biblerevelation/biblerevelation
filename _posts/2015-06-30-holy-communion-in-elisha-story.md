@@ -1,5 +1,4 @@
 ---
----
 ID: 3876
 post_title: Holy Communion in Elisha story
 author: Praison

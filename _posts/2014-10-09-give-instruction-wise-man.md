@@ -1,5 +1,4 @@
 ---
----
 ID: 2357
 post_title: Give instruction to a wise man
 author: Praison

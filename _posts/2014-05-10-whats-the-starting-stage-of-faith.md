@@ -1,5 +1,4 @@
 ---
----
 ID: 476
 post_title: 'What&#8217;s the starting stage of Faith?'
 author: Praison

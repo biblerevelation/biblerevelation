@@ -1,5 +1,4 @@
 ---
----
 ID: 3807
 post_title: Bearing Fruit
 author: Praison

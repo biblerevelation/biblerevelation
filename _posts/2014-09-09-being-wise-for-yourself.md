@@ -1,5 +1,4 @@
 ---
----
 ID: 1147
 post_title: Being Wise for yourself
 author: Praison

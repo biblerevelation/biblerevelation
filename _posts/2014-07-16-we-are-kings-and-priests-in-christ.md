@@ -1,5 +1,4 @@
 ---
----
 ID: 878
 post_title: We are kings and priests in Christ
 author: Praison

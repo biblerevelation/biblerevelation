@@ -1,5 +1,4 @@
 ---
----
 ID: 1623
 post_title: Houses and riches are an inheritance from fathers
 author: Praison

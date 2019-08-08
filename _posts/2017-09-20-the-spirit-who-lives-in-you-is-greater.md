@@ -1,5 +1,4 @@
 ---
----
 ID: 6413
 post_title: The Spirit who lives in you is Greater
 author: Praison

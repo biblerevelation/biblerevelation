@@ -1,5 +1,4 @@
 ---
----
 ID: 2088
 post_title: What poor and oppressor have in common?
 author: Praison

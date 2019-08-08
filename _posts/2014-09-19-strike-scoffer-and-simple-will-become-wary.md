@@ -1,5 +1,4 @@
 ---
----
 ID: 1647
 post_title: Strike a scoffer, and the simple will become wary
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 6398
 post_title: Better is one day in HIS courts
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 4038
 post_title: Zeal without Knowledge is not good
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 2750
 post_title: Haughty look of the wicked is sin
 author: Praison

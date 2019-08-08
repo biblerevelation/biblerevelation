@@ -1,5 +1,4 @@
 ---
----
 ID: 1066
 post_title: How to Get delivered from the way of evil?
 author: Praison

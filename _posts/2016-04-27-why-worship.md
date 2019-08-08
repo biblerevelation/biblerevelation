@@ -1,5 +1,4 @@
 ---
----
 ID: 6083
 post_title: Why Worship?
 author: Praison

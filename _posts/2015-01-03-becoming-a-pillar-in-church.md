@@ -1,5 +1,4 @@
 ---
----
 ID: 3203
 post_title: Becoming a Pillar in the Church
 author: Praison

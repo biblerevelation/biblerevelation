@@ -1,5 +1,4 @@
 ---
----
 ID: 349
 post_title: Jesus hates Self Righteousness
 author: Praison

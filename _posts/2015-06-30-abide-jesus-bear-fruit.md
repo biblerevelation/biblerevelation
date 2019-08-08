@@ -1,5 +1,4 @@
 ---
----
 ID: 3810
 post_title: Abide in Jesus and bear fruit
 author: Praison

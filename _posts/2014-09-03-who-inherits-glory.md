@@ -1,5 +1,4 @@
 ---
----
 ID: 1112
 post_title: Who Inherits glory?
 author: Praison

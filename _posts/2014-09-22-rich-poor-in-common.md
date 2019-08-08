@@ -1,5 +1,4 @@
 ---
----
 ID: 1695
 post_title: What rich and poor have in common?
 author: Praison

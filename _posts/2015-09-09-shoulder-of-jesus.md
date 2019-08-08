@@ -1,5 +1,4 @@
 ---
----
 ID: 4313
 post_title: Shoulder of Jesus
 author: Praison

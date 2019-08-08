@@ -1,5 +1,4 @@
 ---
----
 ID: 238451
 post_title: Google Maps Israelites Wilderness Journey Suggestion
 author: Praison

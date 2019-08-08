@@ -1,5 +1,4 @@
 ---
----
 ID: 1251
 post_title: The posterity of the righteous will be delivered
 author: Praison

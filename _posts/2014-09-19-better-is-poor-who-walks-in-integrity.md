@@ -1,5 +1,4 @@
 ---
----
 ID: 1568
 post_title: Better is the poor who walks in his integrity
 author: Praison

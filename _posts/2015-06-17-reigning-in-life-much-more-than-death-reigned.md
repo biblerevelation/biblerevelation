@@ -1,5 +1,4 @@
 ---
----
 ID: 3773
 post_title: Reigning in Life much more than death reigned
 author: Praison

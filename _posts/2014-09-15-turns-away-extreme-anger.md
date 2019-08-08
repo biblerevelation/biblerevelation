@@ -1,5 +1,4 @@
 ---
----
 ID: 1338
 post_title: What turns away extreme anger?
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1181
 post_title: What stirs up strife?
 author: Praison

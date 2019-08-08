@@ -1,5 +1,4 @@
 ---
----
 ID: 5371
 post_title: Only time Jesus said Narrow is the Gate
 author: Praison

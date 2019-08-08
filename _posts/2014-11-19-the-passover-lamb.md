@@ -1,5 +1,4 @@
 ---
----
 ID: 3043
 post_title: The Passover Lamb
 author: Praison

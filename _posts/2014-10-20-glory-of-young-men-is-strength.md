@@ -1,5 +1,4 @@
 ---
----
 ID: 2709
 post_title: The glory of young men is their strength
 author: Praison

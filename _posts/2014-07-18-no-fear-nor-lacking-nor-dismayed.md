@@ -1,5 +1,4 @@
 ---
----
 ID: 920
 post_title: No Fear, Nor Lacking, nor dismayed
 author: Praison

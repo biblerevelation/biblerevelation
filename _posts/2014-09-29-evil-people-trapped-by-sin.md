@@ -1,5 +1,4 @@
 ---
----
 ID: 2070
 post_title: Evil people are trapped by sin
 author: Praison

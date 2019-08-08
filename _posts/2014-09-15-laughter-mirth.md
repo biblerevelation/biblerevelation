@@ -1,5 +1,4 @@
 ---
----
 ID: 1307
 post_title: Laughter and Mirth
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 6027
 post_title: Church from the side
 author: Praison

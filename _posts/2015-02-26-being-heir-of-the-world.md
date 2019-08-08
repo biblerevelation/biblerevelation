@@ -1,5 +1,4 @@
 ---
----
 ID: 3574
 post_title: Being heir of the world
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 2680
 post_title: Buyer boasting
 author: Praison

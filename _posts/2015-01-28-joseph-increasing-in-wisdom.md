@@ -1,5 +1,4 @@
 ---
----
 ID: 3342
 post_title: Joseph increasing in Wisdom
 author: Praison

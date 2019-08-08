@@ -1,5 +1,4 @@
 ---
----
 ID: 1368
 post_title: Proud in Proverbs
 author: Praison

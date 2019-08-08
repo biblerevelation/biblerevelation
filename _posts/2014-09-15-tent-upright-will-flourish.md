@@ -1,5 +1,4 @@
 ---
----
 ID: 1303
 post_title: The tent of the upright will flourish
 author: Praison

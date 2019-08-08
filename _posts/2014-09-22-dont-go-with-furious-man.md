@@ -1,5 +1,4 @@
 ---
----
 ID: 1752
 post_title: 'Don&#8217;t go with furious man'
 author: Praison

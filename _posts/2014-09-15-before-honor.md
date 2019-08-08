@@ -1,5 +1,4 @@
 ---
----
 ID: 1380
 post_title: What is before honor?
 author: Praison

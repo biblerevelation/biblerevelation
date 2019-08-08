@@ -1,5 +1,4 @@
 ---
----
 ID: 1603
 post_title: Every man is a friend to one who gives gifts
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 6435
 post_title: Isaiah 54 a New Covenant Heritage
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 4442
 post_title: Strength of Abraham and Joshua
 author: Praison

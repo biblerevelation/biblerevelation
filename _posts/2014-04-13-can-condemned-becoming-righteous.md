@@ -1,5 +1,4 @@
 ---
----
 ID: 375
 post_title: Can you be condemned after becoming Righteous?
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 809
 post_title: Do not give what is holy to the dogs
 author: Praison

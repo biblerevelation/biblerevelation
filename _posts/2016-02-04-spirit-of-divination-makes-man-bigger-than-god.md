@@ -1,5 +1,4 @@
 ---
----
 ID: 5642
 post_title: spirit of divination makes man bigger than God
 author: Praison

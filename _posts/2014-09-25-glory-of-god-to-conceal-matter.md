@@ -1,5 +1,4 @@
 ---
----
 ID: 1909
 post_title: The glory of God to conceal a matter
 author: Praison

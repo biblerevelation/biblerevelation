@@ -1,5 +1,4 @@
 ---
----
 ID: 2966
 post_title: God also bearing them witness, both with signs and wonders
 author: Praison

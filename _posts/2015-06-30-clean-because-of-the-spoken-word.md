@@ -1,5 +1,4 @@
 ---
----
 ID: 3813
 post_title: Clean because of the spoken word
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 3456
 post_title: Everything through the New Covenant
 author: Praison

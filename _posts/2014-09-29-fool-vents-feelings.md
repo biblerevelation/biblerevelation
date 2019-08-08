@@ -1,5 +1,4 @@
 ---
----
 ID: 2084
 post_title: Fool vents all his feelings
 author: Praison

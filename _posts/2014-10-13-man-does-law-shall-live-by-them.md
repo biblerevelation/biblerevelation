@@ -1,5 +1,4 @@
 ---
----
 ID: 2512
 post_title: The man who does the law shall live by them
 author: Praison

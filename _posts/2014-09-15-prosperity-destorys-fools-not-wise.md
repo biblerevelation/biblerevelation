@@ -1,5 +1,4 @@
 ---
----
 ID: 1441
 post_title: Prosperity destorys the fools, but not wise
 author: Praison

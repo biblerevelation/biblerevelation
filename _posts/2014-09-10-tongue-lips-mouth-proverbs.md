@@ -1,5 +1,4 @@
 ---
----
 ID: 1197
 post_title: Tongue, Lips, Mouth in Proverbs
 author: Praison

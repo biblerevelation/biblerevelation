@@ -1,5 +1,4 @@
 ---
----
 ID: 6415
 post_title: Put on the full Armour of God
 author: Praison

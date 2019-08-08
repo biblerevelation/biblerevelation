@@ -1,5 +1,4 @@
 ---
----
 ID: 1734
 post_title: Jesus in the Midst
 author: Praison

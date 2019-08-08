@@ -1,5 +1,4 @@
 ---
----
 ID: 1531
 post_title: Talebearer in Proverbs
 author: Praison

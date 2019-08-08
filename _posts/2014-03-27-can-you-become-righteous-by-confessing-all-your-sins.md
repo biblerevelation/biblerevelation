@@ -1,5 +1,4 @@
 ---
----
 ID: 178
 post_title: 'Can you become &#8220;Righteous&#8221; by Confessing all your sins and Plan to do no sin from now on? NO'
 author: Praison

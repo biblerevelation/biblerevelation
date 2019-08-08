@@ -1,5 +1,4 @@
 ---
----
 ID: 404
 post_title: Differentiate between Self Righteousness and His Righteousness
 author: Praison

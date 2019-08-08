@@ -1,5 +1,4 @@
 ---
----
 ID: 5395
 post_title: The prayer of a righteous person is powerful
 author: Praison

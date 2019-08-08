@@ -1,5 +1,4 @@
 ---
----
 ID: 1247
 post_title: Sow Righteousness, sure reward
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1708
 post_title: Generous eye will be blessed
 author: Praison

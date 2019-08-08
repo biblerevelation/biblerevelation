@@ -1,5 +1,4 @@
 ---
----
 ID: 1562
 post_title: Who obtains favor from the Lord?
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 3171
 post_title: God initiates
 author: Praison

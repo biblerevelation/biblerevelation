@@ -1,5 +1,4 @@
 ---
----
 ID: 1052
 post_title: Importance of Proverbs in Bible
 author: Praison

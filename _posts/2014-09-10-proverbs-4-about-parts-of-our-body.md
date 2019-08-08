@@ -1,5 +1,4 @@
 ---
----
 ID: 1119
 post_title: Proverbs 4 about Head, Eyes, Eyelids, Ear, mouth, lips, Neck, Heart, Feet
 author: Praison

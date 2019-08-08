@@ -1,5 +1,4 @@
 ---
----
 ID: 5931
 post_title: The Lord will bring is in permissive Tense
 author: Praison

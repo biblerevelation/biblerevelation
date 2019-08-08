@@ -1,5 +1,4 @@
 ---
----
 ID: 1655
 post_title: Judgments are for who?
 author: Praison

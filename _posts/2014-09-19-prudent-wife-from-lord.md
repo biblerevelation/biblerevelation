@@ -1,5 +1,4 @@
 ---
----
 ID: 1625
 post_title: Prudent wife is from the Lord
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1272
 post_title: Righteousness Delivers
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1254
 post_title: What leads to poverty?
 author: Praison

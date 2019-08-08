@@ -1,5 +1,4 @@
 ---
----
 ID: 5244
 post_title: Incorruptible Inheritance
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 1527
 post_title: No judgment for the righteous
 author: Praison

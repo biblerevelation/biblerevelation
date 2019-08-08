@@ -1,5 +1,4 @@
 ---
----
 ID: 1140
 post_title: Wisdom has Riches
 author: Praison

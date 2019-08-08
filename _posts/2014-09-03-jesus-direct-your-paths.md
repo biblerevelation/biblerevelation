@@ -1,5 +1,4 @@
 ---
----
 ID: 1079
 post_title: How can Jesus direct your paths?
 author: Praison

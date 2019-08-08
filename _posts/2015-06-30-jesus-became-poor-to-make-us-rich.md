@@ -1,5 +1,4 @@
 ---
----
 ID: 3819
 post_title: Jesus became poor to make us rich
 author: Praison

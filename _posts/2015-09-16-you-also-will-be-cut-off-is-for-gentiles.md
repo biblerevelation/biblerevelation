@@ -1,5 +1,4 @@
 ---
----
 ID: 4327
 post_title: '&#8220;You also will be cut off&#8221; is for Gentiles'
 author: Praison

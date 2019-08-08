@@ -1,5 +1,4 @@
 ---
----
 ID: 1249
 post_title: The blameless in their ways are Lords delight
 author: Praison

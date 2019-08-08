@@ -1,5 +1,4 @@
 ---
----
 ID: 966
 post_title: Want more Grace and peace? (Bible)
 author: Praison

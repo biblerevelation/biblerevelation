@@ -1,5 +1,4 @@
 ---
----
 ID: 308
 post_title: Tithe increases wealth
 author: Praison

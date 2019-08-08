@@ -1,5 +1,4 @@
 ---
----
 ID: 4928
 post_title: Unfinished work of Christ in Acts
 author: Praison

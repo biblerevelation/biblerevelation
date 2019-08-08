@@ -1,5 +1,4 @@
 ---
----
 ID: 6222
 post_title: Jesus and the Tabernacle
 author: Praison

@@ -1,5 +1,4 @@
 ---
----
 ID: 5332
 post_title: Why God Opened door to Gentiles?
 author: Praison

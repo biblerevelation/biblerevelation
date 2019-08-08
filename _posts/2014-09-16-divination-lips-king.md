@@ -1,5 +1,4 @@
 ---
----
 ID: 1473
 post_title: Divination is on the lips of the king
 author: Praison

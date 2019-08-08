@@ -1,5 +1,4 @@
 ---
----
 ID: 2508
 post_title: Who are sons of Abraham?
 author: Praison

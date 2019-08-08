@@ -1,5 +1,4 @@
 ---
----
 ID: 2076
 post_title: Scoffers set a city aflame
 author: Praison

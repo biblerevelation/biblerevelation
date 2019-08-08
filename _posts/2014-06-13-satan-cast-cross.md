@@ -1,5 +1,4 @@
 ---
----
 ID: 778
 post_title: Satan was cast out at the cross
 author: Praison

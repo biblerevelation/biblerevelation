@@ -1,5 +1,4 @@
 ---
----
 ID: 2005
 post_title: What about giving honor to a fool?
 author: Praison

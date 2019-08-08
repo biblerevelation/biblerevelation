@@ -1,5 +1,4 @@
 ---
----
 ID: 5355
 post_title: The Birth of Christ
 author: Praison

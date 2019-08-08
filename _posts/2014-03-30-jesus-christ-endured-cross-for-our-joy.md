@@ -1,5 +1,4 @@
 ---
----
 ID: 212
 post_title: 'Jesus Christ &#8220;Endured&#8221; the Cross for OUR Joy'
 author: Praison

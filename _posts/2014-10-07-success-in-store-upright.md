@@ -1,5 +1,4 @@
 ---
----
 ID: 2220
 post_title: He holds success in store for the upright
 author: Praison

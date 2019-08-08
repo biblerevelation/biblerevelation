@@ -1,5 +1,4 @@
 ---
----
 ID: 5876
 post_title: Jesus healing physical diseases
 author: Praison

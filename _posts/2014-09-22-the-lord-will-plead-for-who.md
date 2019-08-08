@@ -1,5 +1,4 @@
 ---
----
 ID: 1724
 post_title: 'The Lord will plead for who&#8217;s cause?'
 author: Praison

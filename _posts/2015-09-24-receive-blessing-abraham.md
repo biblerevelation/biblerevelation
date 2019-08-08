@@ -1,5 +1,4 @@
 ---
----
 ID: 4425
 post_title: How to receive the blessing of Abraham?
 author: Praison

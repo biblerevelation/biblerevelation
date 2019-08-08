@@ -1,5 +1,4 @@
 ---
----
 ID: 3791
 post_title: 'You can&#8217;t curse whom God has blessed'
 author: Praison

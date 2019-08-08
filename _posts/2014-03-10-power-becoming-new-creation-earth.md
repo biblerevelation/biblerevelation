@@ -1,5 +1,4 @@
 ---
----
 ID: 10
 post_title: Power of Becoming New Creation on Earth
 author: Praison

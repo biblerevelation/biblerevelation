@@ -1,5 +1,4 @@
 ---
----
 ID: 3875
 post_title: Beth in Hebrew
 author: Praison

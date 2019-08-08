@@ -1,5 +1,4 @@
 ---
----
 ID: 1189
 post_title: Labor of Righteous leads to life
 author: Praison

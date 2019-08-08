@@ -1,5 +1,4 @@
 ---
----
 ID: 6099
 post_title: Miracle of Luxury
 author: Praison

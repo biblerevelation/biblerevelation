@@ -1,5 +1,4 @@
 ---
----
 ID: 1843
 post_title: Fool does not open his mouth in the gate
 author: Praison
